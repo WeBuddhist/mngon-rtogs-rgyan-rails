@@ -199,6 +199,8 @@
   },
   "active": "932b00064eaa35ea",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/file11.md",
+    "1-SOURCES/Commentaries/file10.md",
     "1-SOURCES/Commentaries/file9.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
@@ -232,8 +234,6 @@
     "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/reference-frontmatter/SKILL.md",
     "4-SYSTEM/Skills/property-creator/SKILL.md",
-    "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
-    "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
-    "4-SYSTEM/Skills/json-to-commentary/SKILL.md"
+    "4-SYSTEM/Skills/json-to-source-text/SKILL.md"
   ]
 }
