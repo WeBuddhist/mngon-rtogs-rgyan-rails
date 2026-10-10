@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།.md",
+                "file": "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།"
+              "title": "རྣམ་བཤད་སྙིང་རྒྱན།"
             }
           }
         ]
@@ -200,11 +200,12 @@
   "active": "932b00064eaa35ea",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྟོད་ཆ།.md",
+    "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
+    "1-SOURCES/Commentaries/file8.md",
+    "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།.md",
+    "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཡིག་ཆ་གསུམ་པ།-བར་སྟོང་མེད་པ།.md",
-    "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
-    "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
-    "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་པར་འགྲེལ་པ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/json-to-source-text/SKILL.md",
     "4-SYSTEM/Skills/local-wiki-article/SKILL.md",
     "4-SYSTEM/Skills/json-to-commentary/SKILL.md",
-    "4-SYSTEM/Skills/glossary-select/SKILL.md",
-    "4-SYSTEM/Skills/interlinear-gloss/SKILL.md"
+    "4-SYSTEM/Skills/glossary-select/SKILL.md"
   ]
 }
