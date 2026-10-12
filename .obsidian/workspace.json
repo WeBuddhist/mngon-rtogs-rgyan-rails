@@ -199,6 +199,10 @@
   },
   "active": "932b00064eaa35ea",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྟོད་ཆ།.md",
@@ -217,10 +221,6 @@
     "1-SOURCES/Commentaries/ཡིག་ཆ་གསུམ་པ།-བར་སྟོང་མེད་པ།.md",
     "1-SOURCES/Commentaries/འཕགས་པ་ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པ་སྟོང་ཕྲག་ཉི་ཤུ་ལྔ་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་གྱི་ཚིག་ལེའུར་བྱས་པའི་རྣམ་པར་འགྲེལ་པ།.md",
     "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
     "gemini-scribe/Prompts/example-expert.md",
     "gemini-scribe/Scheduled-Tasks",
@@ -233,7 +233,6 @@
     "4-SYSTEM/Skills/verse-context/SKILL.md",
     "4-SYSTEM/Skills/vault-audit/SKILL.md",
     "4-SYSTEM/Skills/translation-frontmatter/SKILL.md",
-    "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
-    "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md"
+    "4-SYSTEM/Skills/source-property-extractor/SKILL.md"
   ]
 }
