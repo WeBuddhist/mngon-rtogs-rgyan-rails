@@ -1,0 +1,87 @@
+{
+  "source": "0-INBOX/mngon-rtogs-rgyan-root/tree-top.md",
+  "total_nodes": 8,
+  "max_depth": 1,
+  "nodes": [
+    {
+      "decimal_id": "1",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་དང་པོ",
+      "block_id": "^1-0",
+      "context": "ཉན་ཐོས་ཞི་བ་ཚོལ་རྣམས་ཀུན་ཤེས་ཉིད་ཀྱིས་ཉེར་ཞིར་འཁྲིད་མཛད་གང་ཡིན་དང་། །",
+      "context_anchor": "ཉན་ཐོས་ཞི་བ་ཚོལ་རྣམས་ཀུན་ཤེས་ཉིད་ཀྱིས་ཉེར་ཞིར་འཁྲིད་མཛད་གང་ཡ",
+      "doc_order": 0
+    },
+    {
+      "decimal_id": "2",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་གཉིས་པ",
+      "block_id": "^2-0",
+      "context": "ལྷ་རྣམས་རུང་བར་བྱ་བའི་ཕྱིར། །",
+      "context_anchor": "ལྷ་རྣམས་རུང་བར་བྱ་བའི་ཕྱིར། །",
+      "doc_order": 1
+    },
+    {
+      "decimal_id": "3",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་གསུམ་པ",
+      "block_id": "^3-0",
+      "context": "ཚུ་རོལ་ཕ་རོལ་མཐའ་ལ་མིན། །",
+      "context_anchor": "ཚུ་རོལ་ཕ་རོལ་མཐའ་ལ་མིན། །",
+      "doc_order": 2
+    },
+    {
+      "decimal_id": "4",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་བཞི་པ",
+      "block_id": "^4-0",
+      "context": "གཞི་ཤེས་པ་ཡི་བྱེ་བྲག་རྣམས། །",
+      "context_anchor": "གཞི་ཤེས་པ་ཡི་བྱེ་བྲག་རྣམས། །",
+      "doc_order": 3
+    },
+    {
+      "decimal_id": "5",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་ལྔ་པ",
+      "block_id": "^5-0",
+      "context": "རྨི་ལམ་ན་ཡང་ཆོས་རྣམས་ཀུན། །",
+      "context_anchor": "རྨི་ལམ་ན་ཡང་ཆོས་རྣམས་ཀུན། །",
+      "doc_order": 4
+    },
+    {
+      "decimal_id": "6",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་དྲུག་པ",
+      "block_id": "^6-0",
+      "context": "སྦྱིན་པ་ཤེས་རབ་བར་དག་དང་། །",
+      "context_anchor": "སྦྱིན་པ་ཤེས་རབ་བར་དག་དང་། །",
+      "doc_order": 5
+    },
+    {
+      "decimal_id": "7",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་བདུན་པ",
+      "block_id": "^7-0",
+      "context": "སྦྱིན་པ་ལ་སོགས་རེ་རེས་ཀྱང་། །",
+      "context_anchor": "སྦྱིན་པ་ལ་སོགས་རེ་རེས་ཀྱང་། །",
+      "doc_order": 6
+    },
+    {
+      "decimal_id": "8",
+      "depth": 1,
+      "frame": false,
+      "label": "སྐབས་བརྒྱད་པ",
+      "block_id": "^8-0",
+      "context": "ཐུབ་པའི་ངོ་བོ་ཉིད་སྐུ་ནི། །",
+      "context_anchor": "ཐུབ་པའི་ངོ་བོ་ཉིད་སྐུ་ནི། །",
+      "doc_order": 7
+    }
+  ]
+}
