@@ -32,6 +32,9 @@ HEAD_LINE = re.compile(rf"^{HEAD}[ \t]*$", re.M)
 strip = lambda s: re.sub(r"\s+", "", s)
 
 args = sys.argv[1:]
+SPLIT = "--split" in args
+if SPLIT:
+    args.remove("--split")
 log_path = None
 if "--snap-log" in args:
     i = args.index("--snap-log")
@@ -63,11 +66,17 @@ starts = sorted({pos[0]} | {m.end() for m in re.finditer(r"\n[ \t]*\n\s*", tgt)}
 starts = [s for s in starts if s < len(tgt)]
 import bisect
 
+starts_set = set(starts)
 snapped, log, last = [], [], 0
 for b, h in marks:
     k = bisect.bisect_right(starts, b) - 1
     if b == len(tgt) or starts[k] == b:
         p = b
+    elif SPLIT:
+        # a section starts inside the human paragraph: start a new paragraph there
+        # (every human break is kept; one is added). Spaces before the cut go into the break.
+        p = b
+        log.append(f"{h}\n  split human paragraph at …{tgt[max(starts[k], b - 40):b]!r} ⟦here⟧ {tgt[b:b + 30]!r}…")
     else:
         # the lead-in before a mid-paragraph section start (typically the sentence
         # that introduces the quoted verse) goes with the new section
@@ -80,7 +89,14 @@ for b, h in marks:
 
 out, cur = [], 0
 for p, h in snapped:
-    out.append(tgt[cur:p])
+    piece = tgt[cur:p]
+    if SPLIT and piece and p < len(tgt) and p not in starts_set:
+        piece = piece.rstrip(" \t")
+        if not piece.endswith("\n"):
+            piece += "\n\n"
+        elif not piece.endswith("\n\n"):
+            piece += "\n"
+    out.append(piece)
     if p == len(tgt) and not tgt.endswith("\n\n"):
         out.append("\n" if tgt.endswith("\n") else "\n\n")
     out.append(h + "\n\n")
@@ -96,4 +112,4 @@ open(out_path, "w", encoding="utf-8").write(res)
 if log_path:
     open(log_path, "w", encoding="utf-8").write("\n".join(log) + "\n")
 print(f"transferred {len(snapped)} headings → {out_path}; "
-      f"{len(log)} moved to a paragraph edge (human paragraphs never split)")
+      f"{len(log)} {'paragraphs split' if SPLIT else 'moved to a paragraph edge (human paragraphs never split)'}")
