@@ -8,10 +8,15 @@ copies, then carried onto the human file with antx; human paragraphs are never s
 
 | File | Result | Commit |
 |---|---|---|
-| grel-pa (`…འགྲེལ་པ།.md`) | verse tree 285 nodes + `## ཀླད་ཀྱི་དོན། ^I-0`, `## མཆོད་བརྗོད། ^II-0`; 875 blocks with IDs | c2bad0b, 3670ad9 |
-| root text (`མངོན་རྟོགས་རྒྱན།.md`) | `# … ^0`, `^I`, 8 chapters `སྐབས་…` `^1–^8`, `## དོན་བསྡུས་གཞན། ^9-0`, `## མཇུག་བྱང། ^a-0` (`### མཛད་བྱང། ^a-1-0`, `### འགྱུར་བྱང། ^a-2-0`); 299 blocks | ade954d, 3670ad9 |
+| grel-pa | verse tree 285 nodes + `^I`/`^II` frames; 875 blocks; headings snapped to paragraph starts (9) | c2bad0b, 3670ad9 |
+| root text | 8 chapters + `^9` summary + frames; 299 blocks | ade954d, 3670ad9 |
+| gser-phreng-smad | 1082 nodes + frames; 2801 blocks; 916 human paragraphs split at section starts | 6ecb0bd |
+| snying-rgyan | 1606 nodes + frames; 4071 blocks; 1088 paragraphs split | e5a8c58 |
+| gser-phreng-stod | 1344 nodes + frames; 3808 blocks; 1140 paragraphs split | 5d02228 |
 
-Both pass the strict gate (`verify_text.py`): letters and spacing identical to the human file.
+All pass the strict gate (`verify_text.py`) against the human file. For the big commentaries a
+heading that starts inside a human paragraph splits it there (`antx_headings.py --split`);
+every human break and letter is kept.
 
 ## In progress — sa bcad trees (Claude agents, Gemini dropped on request)
 
@@ -29,10 +34,7 @@ State at handover (joined parts / total segments):
 
 | id | joined | nodes | next |
 |---|---|---|---|
-| snying-rgyan | 01–05 / 7 | 1129 | 06 launched 20:10 |
-| gser-phreng-smad | 01–04 / 5 | 844 | 05 (last) launched 20:10; pending_04 reconstructed (agent hit the usage limit after writing its part) |
-| gser-phreng-stod | 01–03 / 6 | 654 | 04 relaunched 20:10 (first attempt hit the usage limit, wrote nothing) |
-| lung-gi-snye-ma | 01–04 / 11 | 974 | 05 launched 20:10 |
+| lung-gi-snye-ma | 01–07 / 11 | 1789 | 08 running; then 09–11, anchors per segment, merge, ingest, transfer, push |
 
 If a usage limit stops an agent: a part file it already wrote is complete only if it reaches the
 end of its line range (check the last nodes against the text); otherwise delete it and rerun.
@@ -43,7 +45,17 @@ launch the next segment with the same prompt shape (inputs: seg_KK.*, tree-so-fa
 latest pending file, the segment's text line range from `ranges.txt`; write ONLY
 `tree_part_KK.md`). gser-phreng-smad's top node is `2.` (volume 2 continues volume 1's outline).
 
-## After each tree is complete
+## After each tree is complete (as done for smad / snying / stod)
+
+Per segment: an anchoring agent (contract `0-INBOX/temp/chain-pass5.md`) writes
+`seg/anchors_KK.tsv` (+ `frame_KK.tsv` for the first/last). Then:
+`chain-tools/merge_anchors.py <TOC-dir> <id> <units>` (checks + disambiguates short contexts),
+`toc_tree_ingest.py parse` / `ingest --split-frame-nodes` into a units copy,
+`chain-tools/check_placement.py` (every heading in its anchor's block),
+`chain-tools/antx_headings.py --split`, `ingest --stamp-body-ids --verify-against <human file>`,
+title line → `# … ^0` (verify against a copy with `# ` prefixed), `chain-tools/idcheck.py`.
+
+## Older notes on the steps
 
 1. Add `## དཀར་ཆག / Table of Contents` header to tree-so-far → `toc-tree-<id>.md`; run
    `4-SYSTEM/Skills/seg-toc-lib/qc_check_tree.py` (corpus: merged candidates, enumerations,
