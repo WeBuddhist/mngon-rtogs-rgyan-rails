@@ -35,7 +35,7 @@ It is an index over `2-RAILS/Claims/raw/tree-guided/`, read-only on everything i
 
 - **The commentary's finished TOC tree** — `2-RAILS/Sections/Raw/toc-tree/<registered-id>.md`,
   `status: complete`. This is the structure being mapped *from*. If it is missing or not
-  QC-clean, stop: run `toc-generate` first.
+  QC-clean, stop: run `commentary-toc-extract` first.
 - **The commentary's raw claims file** — `2-RAILS/Claims/raw/tree-guided/<registered-id>.md`.
   Read its **claim heading lines** (`##### c-… <title>`) for routing; you do not need to read
   claim bodies except to resolve a genuine ambiguity.
