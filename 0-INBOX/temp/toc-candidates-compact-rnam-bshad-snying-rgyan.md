@@ -1,0 +1,8852 @@
+---
+source: rnam-bshad-snying-rgyan
+skill: toc-generate
+stage: candidates
+date: 2026-10-13
+total_candidates: 1878
+---
+
+<!-- chunk 000 | lines 1–150 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: དྲང་དོན་དང་ངེས་དོན་འབྱེད་པའི་ཚུལ་
+ITEMS:
+1. འཕགས་པ་བློ་གྲོས་མི་ཟད་པའི་མདོ་དང་ཏིང་ངེ་འཛིན་རྒྱལ་པོའི་མདོ་ལས་གསུངས་པ།
+2. དོན་ཟབ་དགོངས་པ་ངེས་པར་འགྲེལ་བའི་མདོ་ལས་གསུངས་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: མངོན་པར་རྟོགས་པའི་རྒྱན་འགྲེལ་པ་དང་བཅས་པ་འཆད་པ་འདི་ལ་
+ITEMS:
+1. མཚན་གྱི་དོན།
+2. གཞུང་གི་དོན།
+3. མཇུག་གི་དོན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དངོས།
+2. ཞར་བྱུང་།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚན་བསྒྱུར་བ།
+2. མཚན་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་མཚན་བསྒྱུར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཚན་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བམ་པོའི་གྲངས།
+2. འགྱུར་གྱི་ཕྱག
+
+SECTION_TITLE: གཉིས་པ་འགྱུར་གྱི་ཕྱག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བཤད་པ་ལ་འཇུག་པ།
+2. བཤད་པ་ཉིད་དགོད་པ།
+3. བཤད་པ་མཐར་ཕྱིན་པའི་ཚུལ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཆོད་པར་བརྗོད་ཅིང་བཤད་པར་དམ་བཅའ་བ།
+2. འགྲེལ་པ་རྩོམ་རིགས་པར་སྒྲུབ་པ།
+3. ཁེངས་སྐྱུང་ཞིང་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན།
+
+SECTION_TITLE: དང་པོ་མཆོད་པར་བརྗོད་ཅིང་བཤད་པར་དམ་བཅའ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཕྱིའི་རྐྱེན་དགེ་བའི་བཤེས་གཉེན་གྱི་མན་ངག་དང་ལྡན་པར་སྒྲུབ་པ།
+2. ནང་གི་རྐྱེན་བསྟན་བཅོས་ཀྱི་དོན་མཐའ་དག་རྟོགས་པའི་ཤེས་རབ་དང་ལྡན་པར་སྒྲུབ་པ།
+3. དེས་ན་འགྲེལ་པ་རྩོམ་པ་རིགས་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་སློབ་དཔོན་ཐོགས་མེད་ཀྱིས་རྣམ་བཤད་མཛད་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱིག་གཉེན་གྱིས་བཀྲོལ་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འཕགས་པས་ཕྱེ་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་བཙུན་པ་གྲོལ་སྡེས་རྣམ་བཤད་བྱས་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཁེངས་སྐྱུང་ཞིང་སྤྲོ་བ་སྐྱེ་བའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བཤད་པ་ཉིད་དགོད་པ་
+ITEMS:
+1. མཆོད་བརྗོད།
+2. རྒྱས་པ་ལ་དད་པའི་གང་ཟག་ལ་ཕྱེ་སྟེ་བཤད་པ།
+3. བསྡུས་དོན་གཞན་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཚིག་དོན།
+2. བརྒལ་ལན་གྱིས་གཏན་ལ་དབབ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསྟོད་པ།
+2. ཕྱག་འཚལ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཁྱེན་གསུམ་གྱི་ཡོན་ཏན་གྱི་སྒོ་ནས་བསྟོད་པ།
+2. འཕགས་བཞིའི་ཡུམ་བྱེད་པས་བསྟོད་པ།
+
+SECTION_TITLE: ལམ་ཤེས་ཀྱི་སྒོ་ནས་བསྟོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྣམ་མཁྱེན་གྱི་སྒོ་ནས་བསྟོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཕགས་བཞིའི་ཡུམ་བྱེད་པས་བསྟོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཕྱག་འཚལ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གོ་རིམས་ངེས་པ།
+2. གྲངས་ངེས་པ།
+3. ཡུམ་སྲས་ཀྱི་དོན།
+4. བསྟོད་ཡུལ་གྱི་མཁྱེན་གསུམ་ངོས་བཟུང་བ།
+
+SECTION_TITLE: དང་པོ་གོ་རིམས་ངེས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གྲངས་ངེས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཡུམ་སྲས་ཀྱི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་བསྟོད་ཡུལ་གྱི་མཁྱེན་གསུམ་ངོས་བཟུང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. བསྡུས་པའི་དོན།
+2. དགོས་པའི་དོན།
+3. རྩོད་པ་སྤོང་བ།
+4. ཚིག་གི་དོན།
+
+SECTION_TITLE: དང་པོ་བསྡུས་པའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ།
+2. དོན་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དད་པ་སྐྱེ་ཚུལ།
+2. དེ་ལས་དོན་གཉེར་གྱི་འདུན་པ་སྐྱེ་བ།
+3. དེ་ལས་ཞུགས་ནས་འབྲས་བུ་ཐོབ་པའི་ཚུལ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དབང་རྟུལ་དད་པ་སྐྱེ་ཚུལ།
+2. དབང་རྣོན་དད་པ་སྐྱེ་ཚུལ།
+
+SECTION_TITLE: དང་པོ་དབང་རྟུལ་དད་པ་སྐྱེ་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབང་རྣོན་དད་པ་སྐྱེ་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཅིག་དང་དུ་བྲལ་གྱི་གཏན་ཚིགས་
+ITEMS:
+1. སློབ་དཔོན་ཉིད་བཞེད་པའི་དགག་བྱའི་ཆོས་ངོས་བཟུང་བ།
+2. དེ་གཞི་གཞན་གྱི་སྟེང་དུ་འགོག་པའི་གཏན་ཚིགས།
+
+SECTION_TITLE: དང་པོ་དགག་བྱའི་ཆོས་ངོས་བཟུང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྟགས་དགོད་པ།
+2. ཚུལ་བསྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་རྟགས་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཚུལ་བསྒྲུབ་པ་
+ITEMS:
+1. ཕྱོགས་ཆོས་བསྒྲུབ་པ།
+2. ཁྱབ་པ་བསྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་ཕྱོགས་ཆོས་བསྒྲུབ་པ་
+ITEMS:
+1. བདེན་པའི་གཅིག་བྲལ་དུ་བསྒྲུབ་པ།
+2. དུ་བྲལ་དུ་བསྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་བདེན་པའི་གཅིག་བྲལ་དུ་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བདེན་པའི་དུ་བྲལ་དུ་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཁྱབ་པ་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་ལས་དོན་གཉེར་གྱི་འདུན་པ་སྐྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེ་ལས་ཞུགས་ནས་འབྲས་བུ་ཐོབ་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྩོད་པ་སྤོང་བ་
+ITEMS:
+[implicit]
+
+<!-- chunk 001 | lines 126–275 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཅིག་དང་དུ་བྲལ་གྱི་གཏན་ཚིགས་
+ITEMS:
+1. དགག་བྱའི་ཆོས་ངོས་བཟུང་བ
+2. དེ་གཞི་གཞན་གྱི་སྟེང་དུ་འགོག་པའི་གཏན་ཚིགས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྟགས་དགོད་པ
+2. ཚུལ་བསྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཕྱོགས་ཆོས་བསྒྲུབ་པ
+2. ཁྱབ་པ་བསྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བདེན་པའི་གཅིག་བྲལ་དུ་བསྒྲུབ་པ
+2. དུ་བྲལ་དུ་བསྒྲུབ་པ
+
+SECTION_TITLE: གཉིས་པ་བདེན་པའི་དུ་བྲལ་དུ་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཁྱབ་པ་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ཡོན་ཏན་སོ་སོའི་སྒོ་ནས་བསྟོད་པ
+2. བསྡུས་ཏེ་ཕྱག་འཚལ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. གཞི་ཤེས་ཀྱིས་ཉེར་ཞིར་ཁྲིད་པའི་ཚུལ
+2. ལམ་ཤེས་ཀྱིས་འཇིག་རྟེན་གྱི་དོན་སྒྲུབ་པའི་ཚུལ
+3. རྣམ་མཁྱེན་གྱིས་ཆོས་འཁོར་བསྐོར་བའི་ཚུལ
+
+SECTION_TITLE: དང་པོ་གཞི་ཤེས་ཀྱིས་ཉེར་ཞིར་ཁྲིད་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་ཀྱིས་འཇིག་རྟེན་གྱི་དོན་སྒྲུབ་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྣམ་མཁྱེན་གྱིས་ཆོས་འཁོར་བསྐོར་བའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཆོས་ཀྱི་འཁོར་ལོ་རིམ་པ་གསུམ་
+ITEMS:
+1. དོན་ཟབ་དགོངས་པ་ངེས་པར་འགྲེལ་བ་ལས་འབྱུང་བ
+2. འཕགས་པ་གཟུངས་ཀྱི་དབང་ཕྱུག་རྒྱལ་པོའི་མདོ་ལས་འབྱུང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་པ་ལ་དད་པའི་གང་ཟག་ལ་ཕྱེ་སྟེ་བཤད་པ་
+ITEMS:
+1. བསྟན་བཅོས་ཀྱི་དགོས་པའི་དོན
+2. བསྡུས་པའི་དོན
+3. ཚིག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསྟན་བཅོས་བརྩམས་པ་དགོས་མེད་ཀྱི་དོགས་པ་སོ་སོར་སྤངས་ནས་བརྗོད་བྱ་མཁྱེན་གསུམ་སྤྱིའི་རྣམ་གཞག་བཤད་པ
+2. མདོ་དང་ཟློས་པའི་སྐྱོན་སྤངས་ནས་དགོས་པ་ཡོད་པར་བསྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ལན་དངོས
+2. ཤེས་བྱེད་ཀྱི་ལུང་དགོད
+3. ལུང་གི་དོན་བཤད
+4. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཡུམ་བར་མ
+2. བསྡུས་པའི་ཤེས་བྱེད་དགོད་པ
+3. རྒྱས་པའི་ཤེས་བྱེད་ཁ་འཕང་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མདོར་བསྟན
+2. རྒྱས་བཤད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཞི་ཤེས་ཀྱིས་ཉན་རང་གི་མངོན་རྟོགས་བསྡུས་ཚུལ
+2. ལམ་ཤེས་ཀྱིས་བྱང་སེམས་ཀྱི་མངོན་རྟོགས་བསྡུས་ཚུལ
+3. རྣམ་མཁྱེན་གྱིས་སངས་རྒྱས་ཀྱི་མངོན་རྟོགས་བསྡུས་ཚུལ
+
+SECTION_TITLE: གཉིས་པ་ལ་ནི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་ཀྱིས་བྱང་སེམས་ཀྱི་མངོན་རྟོགས་བསྡུས་ཚུལ་
+ITEMS:
+1. ཞུ་བ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. ཚིག་དོན
+2. མཐའ་དཔྱད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱིར་བཏང་དམིགས་བསལ་ངོས་བཟུང་བ
+2. བྱང་ཆུབ་སེམས་དཔས་ཉན་རང་གི་སྤང་རྟོགས་རྫོགས་པར་བྱ་བར་གསུངས་པའི་དོན་བཤད་པ
+3. ཡང་དག་པའི་མཐའ་ངོས་བཟུང་ནས་དེ་མངོན་དུ་བྱེད་པའི་ཚུལ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྣམ་མཁྱེན་གྱིས་སངས་རྒྱས་ཀྱི་མངོན་རྟོགས་བསྡུས་ཚུལ་
+ITEMS:
+1. ཞུ་བ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 002 | lines 251–400 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྣམ་མཁྱེན་གྱིས་སངས་རྒྱས་ཀྱི་མངོན་རྟོགས་བསྡུས་ཚུལ་
+ITEMS:
+1. ཞུ་བ།
+2. ལན།
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མདོ་དང་ཟློས་པའི་སྐྱོན་སྤངས་ནས་དགོས་པ་ཡོད་པར་བསྒྲུབ་པ་
+ITEMS:
+1. དོགས་པ་བཀོད་ནས་མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་དོགས་པ་བཀོད་ནས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དགོས་པ།
+2. ཉིང་དགོས།
+3. བརྗོད་བྱ།
+
+SECTION_TITLE: དང་པོ་དགོས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཉིང་དགོས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བརྗོད་བྱ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུས་དོན་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. ངག་ཉེ་བར་དགོད་པ།
+3. བསྡུས་ཏེ་བཤད་པ་དང་རྒྱས་པར་མ་བཀྲོལ་བའི་རྒྱུ་མཚན།
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ལུས་མདོར་བསྟན་པ།
+2. རྒྱས་པར་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བཤད་བྱ་འཆད་བྱེད་མདོར་བསྟན་པ།
+2. འཆད་བྱེད་ཀྱི་རྐང་གྲངས།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཚིག་དོན།
+2. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་ཚིག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སློབ་དཔོན་གྱི་བཞེད་པ་དགོད་པ།
+2. གཞན་གྱིས་ལོག་པར་བཤད་པ་དགག་པ།
+
+SECTION_TITLE: དང་པོ་སློབ་དཔོན་གྱི་བཞེད་པ་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཞན་གྱིས་ལོག་པར་བཤད་པ་དགག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ལམ་སྤྱིའི་རྣམ་གཞག
+2. སོ་སོའི་ངོ་བོ་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སློབ་དཔོན་སྔ་མའི་ལུགས་དགོད་པ།
+2. དེ་འཐད་མི་འཐད་དཔྱད་པ།
+3. རང་གི་ལུགས།
+
+SECTION_TITLE: དང་པོ་སློབ་དཔོན་སྔ་མའི་ལུགས་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་འཐད་མི་འཐད་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུགས་གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུགས་གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུགས་བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུགས་ལྔ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུགས་ཐ་མ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རང་གི་ལུགས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཁྱེན་པ་གསུམ།
+2. སྦྱོར་བ་བཞི།
+3. ཆོས་ཀྱི་སྐུ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྣམ་མཁྱེན།
+2. ལམ་ཤེས།
+3. གཞི་ཤེས།
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གཞི་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བ།
+2. རྩེ་སྦྱོར།
+3. མཐར་གྱིས་སྦྱོར།
+4. སྐད་ཅིག་སྦྱོར།
+
+SECTION_TITLE: གཉིས་པ་རྩེ་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཐར་གྱིས་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཆོས་ཀྱི་སྐུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དེ་རྣམས་བརྒྱད་
+ITEMS:
+1. མཁྱེན་པ་གསུམ།
+2. སྦྱོར་བ་བཞི།
+3. ཆོས་ཀྱི་སྐུ།
+
+SECTION_TITLE: མཁྱེན་པ་གསུམ་གྱི་གྲངས་ངེས་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྦྱོར་བ་བཞིའི་གྲངས་ངེས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: མངོན་པར་རྟོགས་པ་བརྒྱད་ཀྱི་གོ་རིམས་ངེས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད་
+ITEMS:
+1. མཁྱེན་པ་གསུམ་གྱི་ལུས་བཤད་པ།
+2. སྦྱོར་བ་བཞིའི་ལུས་བཤད་པ།
+3. ཆོས་སྐུའི་ལུས་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྣམ་མཁྱེན་གྱི་ལུས།
+2. ལམ་ཤེས་ཀྱི་ལུས།
+3. གཞི་ཤེས་ཀྱི་ལུས་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཆོས་བཅུའི་རང་བཞིན།
+2. དེས་རྣམ་མཁྱེན་མཚོན་ཚུལ།
+3. གོ་རིམས་ངེས་པ།
+4. བསྟན་བཤད་སྦྱར་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསམ་པ་དམ་བཅའ།
+2. དེའི་དོན་སྒྲུབ་པའི་ཐབས་སྟོན་པ་གདམས་ངག
+3. དམ་བཅའི་དོན་སྒྲུབ་བྱེད་ཀྱི་སྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་སེམས་བསྐྱེད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གདམས་ངག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྟོང་ཉིད་རྟོགས་པའི་སྒོམ་བྱུང་གི་སྒྲུབ་པ་ཐོག་མ་ངོས་བཟུང་བ།
+2. སྒྲུབ་པ་སྤྱིའི་རྣམ་གཞག
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་ངེས་འབྱེད་ཡན་ལག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པའི་རྟེན།
+2. བརྟེན་པ་བསྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་སྒྲུབ་པའི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པའི་དམིགས་པ།
+2. ཆེད་དུ་བྱ་བ།
+3. སྒྲུབ་པའི་དབྱེ་བ།
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པའི་དམིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆེད་དུ་བྱ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པའི་དབྱེ་བ་
+ITEMS:
+1. གོ་ཆའི་སྒྲུབ་པ།
+2. འཇུག་པའི་བྱ་བའི་སྒྲུབ་པ།
+3. ཚོགས་ཀྱི་སྒྲུབ་པ།
+4. ངེས་པར་འབྱུང་བའི་སྒྲུབ་པ།
+
+SECTION_TITLE: གོ་ཆའི་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འཇུག་པའི་བྱ་བའི་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཚོགས་ཀྱི་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ངེས་པར་འབྱུང་བའི་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེས་རྣམ་མཁྱེན་མཚོན་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གོ་རིམས་ངེས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་བསྟན་བཤད་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཆོས་བཅུ་གཅིག་གིས་ལམ་ཤེས་མཚོན་པ།
+2. བསྟན་བཤད་སྦྱར་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ལམ་ཤེས་ཀྱི་ཡན་ལག
+2. ཡན་ལག་ཅན་གྱི་ལམ་ཤེས།
+
+SECTION_TITLE: དང་པོ་ལམ་ཤེས་ཀྱི་ཡན་ལག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཉན་ཐོས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།
+2. རང་སངས་རྒྱས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས།
+3. བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས།
+
+SECTION_TITLE: གཉིས་པ་བསེ་རུའི་ལམ་རང་སངས་རྒྱས་ཀྱི་ལམ་ཤེས་པའི་ལམ་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས་
+ITEMS:
+1. ཐེག་པ་ཆེན་པོའི་མཐོང་ལམ།
+2. ཐེག་ཆེན་སྒོམ་ལམ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཐེག་ཆེན་སྒོམ་ལམ་གྱི་བྱེད་པའི་མཚན་ཉིད།
+2. དེ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཕན་ཡོན།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཟག་བཅས་སྒོམ་ལམ།
+2. ཟག་མེད་སྒོམ་ལམ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མོས་པ་སྒོམ་ལམ།
+2. བསྔོ་བ་ཡིད་ལ་བྱེད་པ་བླ་ན་མེད་པའི་སྒོམ་ལམ།
+3. རྗེས་སུ་ཡི་རང་བ་ཡིད་ལ་བྱེད་པ་བླ་ན་མེད་པའི་སྒོམ་ལམ།
+
+SECTION_TITLE: གཉིས་པ་བསྔོ་བ་ཡིད་ལ་བྱེད་པ་བླ་ན་མེད་པའི་སྒོམ་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྗེས་སུ་ཡི་རང་བ་ཡིད་ལ་བྱེད་པ་བླ་ན་མེད་པའི་སྒོམ་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པ་སྒོམ་ལམ།
+2. ཤིན་ཏུ་རྣམ་པར་དག་པའི་སྒོམ་ལམ།
+
+SECTION_TITLE: གཉིས་པ་ཤིན་ཏུ་རྣམ་པར་དག་པ་ཞེས་བྱ་བའི་སྒོམ་པའི་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྟན་བཤད་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. གཞི་ཤེས་མཚོན་བྱེད་ཀྱི་ཆོས།
+2. བསྟན་བཤད་སྦྱར་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲས་ཡུམ་ལ་ཉེ་རིང་གི་རྒྱུ་མཚན།
+2. རྒྱུ་མཚན་དེ་ཉིད་སྒྲུབ་པ།
+3. མི་མཐུན་པ་དང་གཉེན་པོའི་ཕྱོགས་ཀྱི་དབྱེ་བ།
+4. གཞི་ཤེས་ཀྱི་སྦྱོར་བ།
+
+SECTION_TITLE: དང་པོ་འབྲས་ཡུམ་ལ་ཉེ་རིང་གི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཐབས་མ་ཡིན་པས་རིང་བའི་གཞི་ཤེས་
+ITEMS:
+[implicit]
+
+<!-- chunk 003 | lines 376–525 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསམ་པ་དམ་བཅའ་
+2. དེའི་དོན་སྒྲུབ་པའི་ཐབས་སྟོན་པ་གདམས་ངག་
+3. དམ་བཅའི་དོན་སྒྲུབ་བྱེད་ཀྱི་སྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་སེམས་བསྐྱེད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྟོང་ཉིད་རྟོགས་པའི་སྒོམ་བྱུང་གི་སྒྲུབ་པ་ཐོག་མ་ངོས་བཟུང་བ
+2. སྒྲུབ་པ་སྤྱིའི་རྣམ་གཞག
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་ངེས་འབྱེད་ཡན་ལག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པའི་རྟེན
+2. བརྟེན་པ་བསྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་སྒྲུབ་པའི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པའི་དམིགས་པ
+2. ཆེད་དུ་བྱ་བ
+3. སྒྲུབ་པའི་དབྱེ་བ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པའི་དམིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆེད་དུ་བྱ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པའི་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཆོས་བཅུ་གཅིག་གིས་ལམ་ཤེས་མཚོན་པ
+2. བསྟན་བཤད་སྦྱར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ལམ་ཤེས་ཀྱི་ཡན་ལག
+2. ཡན་ལག་ཅན་གྱི་ལམ་ཤེས
+
+SECTION_TITLE: དང་པོ་ལམ་ཤེས་ཀྱི་ཡན་ལག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་ཅན་གྱི་ལམ་ཤེས་
+ITEMS:
+1. ཉན་ཐོས་ཀྱི་ལམ་ཤེས
+2. རང་སངས་རྒྱས་ཀྱི་ལམ་ཤེས
+3. བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས
+
+SECTION_TITLE: གཉིས་པ་རང་སངས་རྒྱས་ཀྱི་ལམ་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས་
+ITEMS:
+1. ཐེག་པ་ཆེན་པོའི་མཐོང་བའི་ལམ
+2. ཐེག་ཆེན་སྒོམ་ལམ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཐེག་ཆེན་སྒོམ་ལམ་གྱི་བྱེད་པའི་མཚན་ཉིད
+2. དེ་བསྒོམས་སྟོབས་ཀྱིས་ཐོབ་པའི་ཕན་ཡོན
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཟག་བཅས་སྒོམ་ལམ
+2. ཟག་མེད་སྒོམ་ལམ
+
+SECTION_TITLE: དང་པོ་ཟག་བཅས་སྒོམ་ལམ་
+ITEMS:
+1. མོས་པ་སྒོམ་ལམ
+2. བསྔོ་བ་ཡིད་ལ་བྱེད་པ
+3. རྗེས་སུ་ཡི་རང་བ་ཡིད་ལ་བྱེད་པ
+
+SECTION_TITLE: དང་པོ་མོས་པ་སྒོམ་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྔོ་བ་ཡིད་ལ་བྱེད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྗེས་སུ་ཡི་རང་བ་ཡིད་ལ་བྱེད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཟག་མེད་སྒོམ་ལམ་
+ITEMS:
+1. སྒྲུབ་པ་སྒོམ་ལམ
+2. ཤིན་ཏུ་རྣམ་པར་དག་པ་ཞེས་བྱ་བའི་སྒོམ་ལམ
+
+SECTION_TITLE: གཉིས་པ་ཤིན་ཏུ་རྣམ་པར་དག་པ་ཞེས་བྱ་བའི་སྒོམ་པའི་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྟན་བཤད་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. གཞི་ཤེས་མཚོན་བྱེད་ཀྱི་ཆོས
+2. བསྟན་བཤད་སྦྱར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲས་ཡུམ་ལ་ཉེ་རིང་གི་རྒྱུ་མཚན
+2. རྒྱུ་མཚན་དེ་ཉིད་སྒྲུབ་པ
+3. མི་མཐུན་པ་དང་གཉེན་པོའི་ཕྱོགས་ཀྱི་དབྱེ་བ
+4. གཞི་ཤེས་ཀྱི་སྦྱོར་བ
+
+SECTION_TITLE: དང་པོ་འབྲས་ཡུམ་ལ་ཉེ་རིང་གི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྙིང་རྗེས་ཞི་ལ་མི་གནས་པའི་ལམ་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཐབས་མ་ཡིན་པས་རིང་བའི་གཞི་ཤེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མི་མཐུན་པ་དང་གཉེན་པོའི་ཕྱོགས་ཀྱི་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. གཞི་ཤེས་སྦྱོར་བའི་དབྱེ་བ
+2. འཛིན་སྟངས
+3. འབྲས་བུ
+
+SECTION_TITLE: དང་པོ་གཞི་ཤེས་སྦྱོར་བའི་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཛིན་སྟངས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྟན་བཤད་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དབང་དུ་བྱ་བ་རྒྱུ་འབྲས
+2. བརྟན་པ་རྒྱུ་འབྲས
+
+SECTION_TITLE: དང་པོ་དབང་དུ་བྱ་བ་རྒྱུ་འབྲས་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བ
+2. རྩེ་སྦྱོར
+
+SECTION_TITLE: དང་པོ་རྣམ་རྫོགས་སྦྱོར་བ་
+ITEMS:
+1. མཚོན་བྱེད་ཀྱི་ཆོས
+2. བསྟན་བཤད་སྦྱར་བ
+
+SECTION_TITLE: དང་པོ་མཚོན་བྱེད་ཀྱི་ཆོས་
+ITEMS:
+1. དགེ་རྩ་གསོག་པའི་རྟེན་གྱི་དབང་དུ་བྱས་ནས་སྤྱིའི་རྣམ་གཞག
+2. དགེ་རྩ་སྨིན་པའི་རྟེན་གྱི་དབང་དུ་བྱས་ནས་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་དངོས་སུ་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་རྣམ་གཞག་
+ITEMS:
+1. ལམ་ཤེར་ཕྱིན་གྱི་རྣལ་འབྱོར་སྒོམ་པའི་འཛིན་སྟངས་ཀྱི་དབྱེ་བ
+2. མཉམ་གཞག་གི་སྦྱོར་བ
+3. སྦྱོར་བ་སྒོམ་པའི་སྐྱོན་ཡོན
+4. ལམ་ཤེར་ཕྱིན་གྱི་རྣལ་འབྱོར་དུ་མཚོན་པའི་མཚན་ཉིད
+
+SECTION_TITLE: དང་པོ་ལམ་ཤེར་ཕྱིན་གྱི་རྣལ་འབྱོར་སྒོམ་པའི་འཛིན་སྟངས་ཀྱི་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཉམ་གཞག་གི་སྦྱོར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྦྱོར་བའི་ཡོན་ཏན་གྱི་མཚན་ཉིད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་ཤེར་ཕྱིན་གྱི་རྣལ་འབྱོར་གྱི་མཚན་ཉིད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྦྱོར་བ་སྐྱེས་པའི་གནས་སྐབས
+2. སྨིན་པའི་སྐབས
+3. རྟེན་གྱི་གང་ཟག
+4. གང་ཟག་གི་སྒོམ་རིམ
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་ཐར་པ་ཆ་མཐུན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཐེག་ཆེན་ངེས་འབྱེད་ཆ་མཐུན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སློབ་པ་ཕྱིར་མི་ལྡོག་པའི་ཚོགས་ཀྱིས་བསྡུས་པའི་དགེ་འདུན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ཆོས་སྐུའི་ལག་རྗེས་འཇོག་བྱེད་སྲིད་དང་ཞི་བ་མཉམ་པ་ཉིད་ཀྱི་སྦྱོར་བ
+2. ཞིང་དག་པ་བླ་ན་མེད་པའི་སྦྱོར་བ
+3. ཐབས་མཁས་སྦྱོར་བ
+
+SECTION_TITLE: གཉིས་པ་ཞིང་དག་པ་བླ་ན་མེད་པའི་སྦྱོར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཐབས་མཁས་སྦྱོར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྟན་བཤད་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩེ་སྦྱོར་
+ITEMS:
+1. སྦྱོར་ལམ་རྩེ་སྦྱོར
+2. མཐོང་ལམ་རྩེ་སྦྱོར
+3. སྒོམ་ལམ་རྩེ་སྦྱོར
+4. བར་ཆད་མེད་རྩེ་སྦྱོར
+
+SECTION_TITLE: དང་པོ་སྦྱོར་ལམ་རྩེ་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དང་གསུམ་པ་མཐོང་ལམ་རྩེ་སྦྱོར་དང་སྒོམ་ལམ་རྩེ་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་བར་ཆད་མེད་རྩེ་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྟན་བཤད་སྦྱར་བ་རྩེ་མོའི་མངོན་རྟོགས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བརྟན་པ་རྒྱུ་འབྲས་
+ITEMS:
+1. མཐར་གྱིས་པ
+2. སྐད་ཅིག་སྦྱོར
+
+SECTION_TITLE: གཉིས་པ་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཆོས་སྐུའི་ལུས་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བསྡུས་ཏེ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་རྒྱས་པར་མ་བཀྲོལ་བའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཚིག་དོན་
+ITEMS:
+1. མཁྱེན་པ་གསུམ་རྒྱས་པར་བཤད་པ
+2. སྦྱོར་བ་བཞི་རྒྱས་པར་བཤད་པ
+3. ཆོས་སྐུ་རྒྱས་པར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་མཁྱེན་པ་གསུམ་རྒྱས་པར་བཤད་པ་
+ITEMS:
+1. དོན་དུ་གཉེར་བྱ་རྣམ་མཁྱེན་བཤད་པ
+2. དེར་བགྲོད་པའི་ལམ་ཤེས་བཤད་པ
+3. ལམ་ཤེས་རྣམ་པར་དག་བྱེད་ཀྱི་ཡན་ལག་གཞི་ཤེས་བཤད་པ
+
+SECTION_TITLE: དང་པོ་དོན་དུ་གཉེར་བྱ་རྣམ་མཁྱེན་བཤད་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. ཆོས་བཅུ་རྒྱས་པར་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་བཅུ་རྒྱས་པར་བཤད་པ་
+ITEMS:
+1. རྣམ་མཁྱེན་ཐོབ་པའི་ཆེད་དུ་དམ་བཅས་པའི་བསམ་པ་དམ་བཅའ་བཤད་པ
+2. དམ་བཅའི་དོན་སྒྲུབ་པའི་ཐབས་སྟོན་པའི་གདམས་ངག་བཤད་པ
+3. གདམས་དོན་ཇི་ལྟར་སྒྲུབ་པའི་སྒྲུབ་པ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་བསམ་པ་དམ་བཅའ་བཤད་པ་
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་དོན་
+ITEMS:
+1. ཐེག་ཆེན་སེམས་བསྐྱེད་སྐྱེ་བའི་རྟེན
+2. རྒྱུ
+3. ངོ་བོ
+4. ཕན་ཡོན
+
+SECTION_TITLE: དང་པོ་ཐེག་ཆེན་སེམས་བསྐྱེད་སྐྱེ་བའི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ངོ་བོ་
+ITEMS:
+1. མཚན་ཉིད
+2. དབྱེ་བ
+3. སྨོན་འཇུག་གི་ཁྱད་པར
+
+SECTION_TITLE: དང་པོ་མཚན་ཉིད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱེ་བ་
+ITEMS:
+1. སྨོན་པའི་སེམས
+2. འཇུག་པའི་སེམས
+
+SECTION_TITLE: གསུམ་པ་སྨོན་འཇུག་གི་ཁྱད་པར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཕན་ཡོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. དཀྱུས་མ་མཚན་ཉིད་དམིགས་པ་དང་བཅས་པ་བཤད་པ
+2. འཕྲོས་དོན་དབྱེ་བ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་དཀྱུས་མ་མཚན་ཉིད་དམིགས་པ་དང་བཅས་པ་བཤད་པ་
+ITEMS:
+1. མཚན་ཉིད
+2. དེ་ངེས་པའི་ཡན་ལག་དམིགས་པ
+
+SECTION_TITLE: དང་པོ་མཚན་ཉིད་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཚིག་དོན
+2. རྩོད་པ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་ཚིག་དོན་
+ITEMS:
+1. སྨོན་པ་སེམས་བསྐྱེད
+2. འཇུག་པའི་སེམས་བསྐྱེད
+
+SECTION_TITLE: གཉིས་པ་རྩོད་པ་སྤང་བ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. གཞན་དོན་འདོད་པའི་མིང་གིས་བཏགས་པ
+2. བྱང་ཆུབ་འདོད་པའི་མིང་གིས་བཏགས་པ
+
+SECTION_TITLE: དང་པོ་གཞན་དོན་འདོད་པའི་མིང་གིས་བཏགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བྱང་ཆུབ་འདོད་པའི་མིང་གིས་བཏགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: དང་པོ་དྲི་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+1. དམིགས་ཡུལ་གཉིས་བཤད་པ
+2. དེ་ཉིད་གྲུབ་ཟིན་པར་བསྟན་པ
+3. ཁུངས་གཞན་མི་འདྲེན་པའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་དམིགས་ཡུལ་གཉིས་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་ཉིད་གྲུབ་ཟིན་པར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཁུངས་གཞན་མི་འདྲེན་པའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཕྲོས་དོན་དབྱེ་བ་བཤད་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དཔེ་ཉེར་གཉིས་ཀྱིས་དོན་ཉེར་གཉིས་མཚོན་པའི་ཚུལ
+2. ས་མཚམས
+
+SECTION_TITLE: དང་པོ་དཔེ་ཉེར་གཉིས་ཀྱིས་དོན་ཉེར་གཉིས་མཚོན་པའི་ཚུལ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་རྒྱས་པར་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ས་མཚམས་
+ITEMS:
+1. ས་མཚམས་སོ་སོར་བཤད་པ
+2. ལམ་ཀུན་བསྡུས་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་ས་མཚམས་སོ་སོར་བཤད་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 004 | lines 501–650 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དཔེ་ཉེར་གཉིས་ཀྱིས་དོན་ཉེར་གཉིས་མཚོན་པའི་ཚུལ
+2. ས་མཚམས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་རྒྱས་པར་བཤད་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ས་མཚམས་སོ་སོར་བཤད་པ
+2. ལམ་ཀུན་བསྡུས་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་ས་མཚམས་སོ་སོར་བཤད་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཀུན་བསྡུས་པར་བསྟན་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས
+2. གདམས་ངག་གི་དོན་བསྒོམས་པས་སྟོང་ཉིད་ལ་དམིགས་པའི་སྒོམ་བྱུང་སྐྱེས་པའི་ཐོག་མ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. དོན་བཤད་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱིའི་དབྱེ་བ
+2. དགེ་འདུན་དཀོན་མཆོག་བྱེ་བྲག་ཏུ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བརྟེན་པ་སྒྲུབ་པ་ལ་གདམས་པ
+2. སྒྲུབ་པའི་རྟེན་ལ་གདམས་པ
+3. སྒྲུབ་པའི་ཁྱད་པར་གྱི་ཆོས་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྒྲུབ་པ་རང་གི་ངོ་བོ་ལ་གདམས་པ
+2. དེའི་དམིགས་པ་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པ་རང་གི་ངོ་བོ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བདེན་པ་གཉིས་ལ།
+ITEMS:
+1. མཚན་ཉིད
+2. མིང་དོན
+3. མཚན་གཞིའི་དབྱེ་བ
+4. གཅིག་དང་ཐ་དད་བརྟག་པ
+
+SECTION_TITLE: དང་པོ་མཚན་ཉིད
+ITEMS:
+1. དོན་དམ་བདེན་པའི་མཚན་ཉིད
+2. ཀུན་རྫོབ་བདེན་པའི་མཚན་ཉིད
+
+SECTION_TITLE: གཉིས་པ་མིང་དོན
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཚན་གཞིའི་དབྱེ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་གཅིག་དང་ཐ་དད་བརྟག་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བདེན་པ་བཞིའི་གྲངས་ངེས་པ
+2. གོ་རིམས་ངེས་པ
+3. མཚན་གཞི
+4. དེ་ཉིད་ངེས་བྱེད་ཀྱི་ཚད་མ
+
+SECTION_TITLE: དང་པོ་བདེན་པ་བཞིའི་གྲངས་ངེས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གོ་རིམས་ངེས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཚན་གཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ལོག་རྟོག་བཅུ་དྲུག་ངོས་བཟུང་བ
+2. དེ་དང་འགལ་བ་བདེན་པའི་རྣམ་པ་བཅུ་དྲུག་ངོས་བཟུང་བ
+
+SECTION_TITLE: དང་པོ་ལོག་རྟོག་བཅུ་དྲུག་ངོས་བཟུང་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་དང་འགལ་བ་བདེན་པའི་རྣམ་པ་བཅུ་དྲུག་ངོས་བཟུང་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྡུག་བསྔལ་བདེན་པ་ལ་འདོམས་པ
+2. ཀུན་འབྱུང་བདེན་པ་ལ་གདམས་པ
+3. འགོག་བདེན་ལ་གདམས་པ
+4. ལམ་བདེན་ལ་འདོམས་པ
+
+SECTION_TITLE: དང་པོ་སྡུག་བསྔལ་བདེན་པ་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀུན་འབྱུང་བདེན་པ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགོག་བདེན་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་བདེན་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཐུན་མོང་མ་ཡིན་པའི་དཀོན་མཆོག་གསུམ་ངོས་བཟུང་བ
+2. སྐྱབས་སྤྱིའི་རྣམ་གཞག
+3. ཀུན་རྫོབ་པ་དང་དོན་དམ་པའི་སྐྱབས་ཀྱི་ཁྱད་པར
+4. ཇི་ལྟར་སྐྱབས་སུ་འགྲོ་བའི་ཚུལ
+
+SECTION_TITLE: དང་པོ་ཐུན་མོང་མ་ཡིན་པའི་དཀོན་མཆོག་གསུམ་ངོས་བཟུང་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྐྱབས་སྤྱིའི་རྣམ་གཞག
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཀུན་རྫོབ་པ་དང་དོན་དམ་པའི་སྐྱབས་ཀྱི་ཁྱད་པར
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཇི་ལྟར་སྐྱབས་སུ་འགྲོ་བའི་ཚུལ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སངས་རྒྱས་དཀོན་མཆོག་ལ་འདོམས་པ
+2. ཆོས་དཀོན་མཆོག་ལ་གདམས་པ
+3. དགེ་འདུན་དཀོན་མཆོག་ལ་འདོམས་པ
+
+SECTION_TITLE: དང་པོ་སངས་རྒྱས་དཀོན་མཆོག་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་དཀོན་མཆོག་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དགེ་འདུན་དཀོན་མཆོག་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒྲུབ་པའི་ཁྱད་པར་གྱི་ཆོས་ལ་གདམས་པ
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་མངོན་གྱུར་སེལ་བ་ལ་གདམས་པ
+2. ལམ་ཁྱད་པར་ཅན་བསྒྲུབ་པར་གདམས་པ
+3. སྤང་བྱའི་ས་བོན་སེལ་བར་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྒྲུབ་པ་མི་ཉམས་པའི་རྒྱུ་ལ་གདམས་པ
+2. སྒྲུབ་པ་འཕེལ་བའི་རྒྱུ་ལ་གདམས་པ
+3. ཐེག་དམན་དུ་མི་ལྟུང་བའི་རྒྱུ་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པ་མི་ཉམས་པའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པ་འཕེལ་བའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཐེག་དམན་དུ་མི་ལྟུང་བའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པ་ལ་རང་དབང་དུ་འཇུག་པའི་རྒྱུ་སྤྱན་ལྔ་ལ་གདམས་པ
+2. སྒྲུབ་པ་མྱུར་དུ་རྫོགས་པའི་རྒྱུ་མངོན་ཤེས་དྲུག་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པ་ལ་རང་དབང་དུ་འཇུག་པའི་རྒྱུ་སྤྱན་ལྔ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པ་མྱུར་དུ་རྫོགས་པའི་རྒྱུ་མངོན་ཤེས་དྲུག་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+<!-- chunk 005 | lines 626–775 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སངས་རྒྱས་དཀོན་མཆོག་ལ་འདོམས་པ
+2. ཆོས་དཀོན་མཆོག་ལ་གདམས་པ
+3. དགེ་འདུན་དཀོན་མཆོག་ལ་འདོམས་པ
+
+SECTION_TITLE: དང་པོ་སངས་རྒྱས་དཀོན་མཆོག་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་དཀོན་མཆོག་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དགེ་འདུན་དཀོན་མཆོག་ལ་འདོམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒྲུབ་པའི་ཁྱད་པར་གྱི་ཆོས་ལ་གདམས་པ
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་མངོན་གྱུར་སེལ་བ་ལ་གདམས་པ
+2. ལམ་ཁྱད་པར་ཅན་བསྒྲུབ་པར་གདམས་པ
+3. སྤང་བྱའི་ས་བོན་སེལ་བར་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྒྲུབ་པ་མི་ཉམས་པའི་རྒྱུ་ལ་གདམས་པ
+2. སྒྲུབ་པ་འཕེལ་བའི་རྒྱུ་ལ་གདམས་པ
+3. ཐེག་དམན་དུ་མི་ལྟུང་བའི་རྒྱུ་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པ་མི་ཉམས་པའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པ་འཕེལ་བའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཐེག་དམན་དུ་མི་ལྟུང་བའི་རྒྱུ་ལ་གདམས་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པ་ལ་རང་དབང་དུ་འཇུག་པའི་རྒྱུ་སྤྱན་ལྔ་ལ་གདམས་པ
+2. སྒྲུབ་པ་མྱུར་དུ་རྫོགས་པའི་རྒྱུ་མངོན་ཤེས་དྲུག་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྤང་བྱ་ཀུན་བཏགས་ཀྱི་གཉེན་པོ་ལ་གདམས་པ
+2. ལྷན་སྐྱེས་ཀྱི་གཉེན་པོ་ལ་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དེ་ལ་
+ITEMS:
+1. བསྒོམ་བྱ་ལམ་གྱི་རང་བཞིན
+2. རྩོད་སྤང་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གདམས་ངག་བཅུ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དགེ་འདུན་དཀོན་མཆོག་བྱེ་བྲག་ཏུ་བཤད་པ
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚོན་བྱེད་ཀྱི་དཔེ
+2. མཚོན་བྱའི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲས་བུ་རྣམ་པར་བཞག་པ
+2. གང་ཟག་རྣམ་པར་བཞག་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་རྒྱུན་ཏུ་ཞུགས་པའི་གང་ཟག
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྒྱུན་ཞུགས་འབྲས་གནས་
+ITEMS:
+1. མཐར་གྱིས་པ
+2. ཅིག་ཅར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཅིག་ཅར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཕྱིར་འོང་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དབྱེ་བ་
+ITEMS:
+1. མཐར་གྱིས་པ
+2. ཐོད་རྒལ་བའི་ཕྱིར་འོང་ཞུགས་པ
+
+SECTION_TITLE: གཉིས་པ་ཕྱིར་འོང་འབྲས་གནས་ཀྱི་མཚན་ཉིད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཕྱིར་མི་འོང་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འབྲས་གནས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཟུགས་སུ་ཉེར་འགྲོ
+2. གཟུགས་མེད་ཉེར་འགྲོ
+3. མཐོང་ཆོས་ཞི
+4. ལུས་མངོན་བྱེད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བར་དོར་འདའ་བ
+2. སྐྱེས་ནས་འདའ་བ
+3. འདུ་བྱེད་དང་བཅས་ནས་འདའ་བ
+4. འདུ་བྱེད་མེད་པས་འདའ་བ
+5. གོང་དུ་འཕོ་བ
+
+SECTION_TITLE: དང་པོ་བར་དོར་འདའ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྐྱེས་ནས་འདའ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འདུ་བྱེད་དང་བཅས་ནས་འདའ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་འདུ་བྱེད་མེད་པས་འདའ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་གོང་དུ་འཕོ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དབྱེ་བ་
+ITEMS:
+1. འོག་མིན་གྱི་མཐར་ཐུག་པར་འགྲོ་བའི་རིགས་ཅན
+2. སྲིད་རྩེའི་མཐར་ཐུག་པར་འགྲོ་བའི་རིགས་ཅན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འཕར་བ
+2. ཕྱེད་དུ་འཕར་བ
+3. ཚངས་ཆེན་མ་གཏོགས་པའི་གཟུགས་ཀྱི་གནས་གཞན་ཐམས་ཅད་དུ་འཆི་འཕོ་བའི་རིགས་ཅན
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཟུགས་མེད་ཉེར་འགྲོ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བར་དོར་འདའ་བ་མ་གཏོགས་པ་བཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཕྱིར་མི་འོང་མཐོང་ཆོས་ཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཕྱིར་མི་འོང་ལུས་མངོན་བྱེད
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་དགྲ་བཅོམ་གྱི་སྐོར་ལ་ཞུགས་པའི་མཚན་ཉིད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དབྱེ་བ་
+ITEMS:
+1. མཐར་གྱིས་པའི་དགྲ་བཅོམ་ཞུགས་པ
+2. ཅིག་ཅར་བའི་དགྲ་བཅོམ་ཞུགས་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དབང་པོའི་སྒོ་ནས་ཕྱེ་ན་དྲུག
+ITEMS:
+1. ཡོངས་སུ་ཉམས་པའི་ཆོས་ཅན
+2. བདག་གསོད་པའི་ཆོས་ཅན
+3. རྗེས་སུ་སྲུང་བའི་ཆོས་ཅན
+4. གནས་པ་ལས་མི་བསྐྱོད་པའི་ཆོས་ཅན
+5. རྟོགས་པའི་འོས་སུ་གྱུར་པ
+6. མི་གཡོ་བའི་ཆོས་ཅན
+
+SECTION_TITLE: གཉིས་པ་མཚོན་བྱའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གདམས་ངག་གི་དོན་བསྒོམས་པས་སྟོང་ཉིད་ལ་དམིགས་པའི་སྒོམ་བྱུང་སྐྱེས་པའི་ཐོག་མ་བཤད་པ
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྟེན
+2. ངོ་བོ
+3. བློ་རིགས་དཔྱད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚན་ཉིད
+2. དབྱེ་བ
+3. སྐྱེ་ཚུལ
+4. ཕྱེ་བ་སོ་སོའི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དམན་པའི་སྦྱོར་ལམ་ལས་ཁྱད་ཞུགས་པར་བསྒྲུབ་པ
+2. དམིགས་ཚུལ་བཅུ་གཉིས་བཞིར་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཁྱད་པར་འཕགས་ཚུལ
+2. དེའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+<!-- chunk 006 | lines 751–900 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དམན་པའི་སྦྱོར་ལམ་ལས་ཁྱད་ཞུགས་པར་བསྒྲུབ་པ
+2. དམིགས་ཚུལ་བཅུ་གཉིས་བཞིར་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཁྱད་པར་འཕགས་ཚུལ
+2. དེའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་ཁྱད་པར་འཕགས་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས
+2. རྣམ་པ་གཞན་གྱི་སྒོ་ནས་དམིགས་པ
+3. དེ་འདིར་དངོས་སུ་མི་སྟོན་པའི་རྒྱུ་མཚན
+4. རྩོད་པ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་དངོས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྣམ་པ་གཞན་གྱི་སྒོ་ནས་དམིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེ་འདིར་དངོས་སུ་མི་སྟོན་པའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་རྩོད་པ་སྤང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད་
+ITEMS:
+1. ཁྱད་ཆོས་སྔ་མ་གསུམ་བཤད་པ
+2. རྟོག་པའི་ཁྱད་ཆོས་དང་ཡོངས་འཛིན་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར
+2. སོ་སོའི་དོན་བཤད
+3. བརྗོད་ཚུལ་ལ་རྩོད་པ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དང་པོ་དྲོད་ཀྱི་དམིགས་རྣམ་རྒྱུའི་ཁྱད་པར་དང་བཅས་པ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བཤད་པ
+2. བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩེ་མོ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྩེ་མོ་ཆུང་ངུའི་དམིགས་རྣམ་
+ITEMS:
+1. བདེན་པ་རྣམ་པར་མ་བཞག་པ
+2. བདེན་པ་རྣམ་པར་བཞག་པ
+
+SECTION_TITLE: གཉིས་པ་བདེན་པ་རྣམ་པར་བཞག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བཤད་པ
+2. བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བཤད་པ
+2. བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཆོས་མཆོག་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+1. ཆོས་མཆོག་གི་དམིགས་རྣམ་བྱེ་བྲག་ཏུ་བཤད་པ
+2. སྤྱིའི་དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་ཆོས་མཆོག་གི་དམིགས་རྣམ་བྱེ་བྲག་ཏུ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྤྱིའི་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བཤད་པ
+2. བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བརྗོད་ཚུལ་ལ་རྩོད་པ་སྤང་བ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. དངོས་སུ་མ་བརྗོད་པས་དེར་མི་རྟོགས་པའི་སྐྱོན་མེད་པ
+2. དངོས་སུ་མ་བརྗོད་ཀྱང་དོན་གྱིས་གོ་བར་བྱ་བ
+
+SECTION_TITLE: དང་པོ་དངོས་སུ་མ་བརྗོད་པས་དེར་མི་རྟོགས་པའི་སྐྱོན་མེད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དངོས་སུ་མ་བརྗོད་ཀྱང་དོན་གྱིས་གོ་བར་བྱ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྟོག་པའི་ཁྱད་ཆོས་
+ITEMS:
+1. སྤྱི
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱིའི་ངོས་འཛིན
+2. དགག་སྒྲུབ་གང་གི་རྣམ་པ་ཅན་ཡིན་དཔྱད་པ
+3. ཁྱད་ཆོས་སུ་འགྱུར་ཚུལ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་ངོས་འཛིན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དགག་སྒྲུབ་གང་གི་རྣམ་པ་ཅན་ཡིན་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཟུང་འཛིན་གྱི་རྟོག་པ་
+ITEMS:
+1. སྤྱིའི་ངོས་འཛིན
+2. འཛིན་རྟོག་བྱེ་བྲག་ཏུ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་ངོས་འཛིན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཛིན་རྟོག་བྱེ་བྲག་ཏུ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཁྱད་ཆོས་སུ་འགྱུར་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ
+2. སོ་སོའི་དོན་བཤད་པ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སོ་སོའི་དོན་བཤད་པ་
+ITEMS:
+1. བསྟན་པ
+2. བཤད་པ
+
+SECTION_TITLE: དང་པོ་བསྟན་པ་
+ITEMS:
+1. གཟུང་རྟོག་བཤད་པ
+2. འཛིན་རྟོག་བཤད་པ
+
+SECTION_TITLE: དང་པོ་གཟུང་རྟོག་བཤད་པ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལ་གཉིས་ཀྱི་དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. སོ་སོའི་དོན
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སོ་སོའི་དོན་
+ITEMS:
+1. གཟུང་རྟོག
+2. འཛིན་རྟོག
+
+SECTION_TITLE: དང་པོ་ཀུན་ནས་ཉོན་མོངས་གཟུང་རྟོག་
+ITEMS:
+[implicit]
+
+<!-- chunk 007 | lines 876–1025 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ་
+2. སོ་སོའི་དོན་བཤད་པ་
+3. དོན་བསྡུ་བ་
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སོ་སོའི་དོན་བཤད་པ་
+ITEMS:
+1. བསྟན་པ་
+2. བཤད་པ་
+
+SECTION_TITLE: དང་པོ་བསྟན་པ་
+ITEMS:
+1. གཟུང་རྟོག་བཤད་པ་
+2. འཛིན་རྟོག་བཤད་པ་
+
+SECTION_TITLE: གཉིས་ཀྱི་དང་པོ་གཟུང་རྟོག་བཤད་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལ་གཉིས་ཀྱི་དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. སོ་སོའི་དོན་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སོ་སོའི་དོན་
+ITEMS:
+1. གཟུང་རྟོག་
+2. འཛིན་རྟོག་
+
+SECTION_TITLE: དང་པོ་ལ་གཉིས་ཀྱི་དང་པོ་ཀུན་ནས་ཉོན་མོངས་གཟུང་རྟོག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཉེན་པོའི་རྟེན་ཅན་གཟུང་རྟོག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྫས་འཛིན་རྟོག་པ་
+2. བཏགས་འཛིན་རྟོག་པ་
+
+SECTION_TITLE: དང་པོ་རྫས་འཛིན་རྟོག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བཏགས་འཛིན་རྟོག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཡོངས་འཛིན་བཤད་པ་
+ITEMS:
+1. གོ་རིམས་གཞན་གྱི་དགོས་པ་བསྟན་པས་མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་གོ་རིམས་གཞན་གྱི་དགོས་པ་བསྟན་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གདམས་དོན་ཇི་ལྟར་སྒྲུབ་པའི་སྒྲུབ་པ་བཤད་པ་
+ITEMS:
+1. སྒྲུབ་པའི་རྟེན་
+2. དམིགས་པ་
+3. ཆེད་དུ་བྱ་བ་
+4. སྒྲུབ་པའི་ངོ་བོ་
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པའི་རྟེན་
+ITEMS:
+1. སྤྱིའི་དོན་
+2. ཡན་ལག་གི་དོན་
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་དོན་
+ITEMS:
+1. ངོ་བོ་
+2. དབྱེ་བ་
+3. རྩོད་པ་སྤང་བ་
+4. རིགས་ནས་ཇི་ལྟར་འཁྲིད་པའི་ཚུལ་
+
+SECTION_TITLE: དང་པོ་ངོ་བོ་
+ITEMS:
+1. སེམས་ཙམ་པའི་ལུགས་བཀོད་ནས་འཐད་མི་འཐད་དཔྱད་པ་
+2. རང་གི་ལུགས་
+
+SECTION_TITLE: དང་པོ་སེམས་ཙམ་པའི་ལུགས་བཀོད་ནས་འཐད་མི་འཐད་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབུ་མ་པ་རང་གི་ལུགས་
+ITEMS:
+1. རང་བཞིན་དུ་གནས་པའི་རིགས་
+2. རྐྱེན་གྱིས་ཡང་དག་པར་བླངས་པ་ལས་བྱུང་བའི་རིགས་
+
+SECTION_TITLE: དང་པོ་རང་བཞིན་དུ་གནས་པའི་རིགས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཞེས་པའི་དོན་
+ITEMS:
+1. རིགས་ཆད་བཤད་པའི་དགོངས་གཞི་
+2. དགོས་པ་
+3. སྒྲ་ཇི་བཞིན་པ་ལ་གནོད་བྱེད་
+
+SECTION_TITLE: དང་པོ་དགོངས་གཞི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དགོས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒྲ་ཇི་བཞིན་པ་ལ་གནོད་བྱེད་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྩོད་པ་སྤང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་རིགས་ནས་ཇི་ལྟར་འཁྲིད་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. རིགས་ཀྱི་དབྱེ་བ་
+2. རྩོད་སྤང་
+
+SECTION_TITLE: དང་པོ་རིགས་ཀྱི་དབྱེ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བཤད་པ་
+2. བསྡུ་བ་
+
+SECTION_TITLE: དང་པོ་བཤད་པ་
+ITEMS:
+1. སོ་སོའི་ངོ་བོ་
+2. གོ་རིམས་
+3. གྲངས་ངེས་
+
+SECTION_TITLE: དང་པོ་སོ་སོའི་ངོ་བོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དེ་ལ་
+ITEMS:
+1. གྲངས་ངེས་ཀྱི་ཁྱད་པར་
+2. དགོངས་པ་ཅན་
+3. ལྡེམ་དགོངས་ཀྱི་ཁྱད་པར་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཕྱི་མ་ལ་ལྡེམ་པོར་དགོངས་པ་
+ITEMS:
+1. མཚན་ཉིད་ལ་ལྡེམ་པོར་དགོངས་པ་
+2. གཞུག་པ་ལ་ལྡེམ་པོར་དགོངས་པ་
+3. གཉེན་པོ་ལ་ལྡེམ་པོར་དགོངས་པ་
+4. བསྒྱུར་བ་ལ་ལྡེམ་པོར་དགོངས་པ་
+
+SECTION_TITLE: གཉིས་པ་དགོངས་པ་ཅན་དང་ལྡེམ་དགོངས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གོ་རིམས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གྲངས་ངེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩོད་པ་སྤང་བ་
+ITEMS:
+1. རྩོད་པ་
+2. ལན་
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+1. སྔ་འགྲེལ་
+2. རྩ་བ་
+
+SECTION_TITLE: དང་པོ་སྔ་འགྲེལ་
+ITEMS:
+1. འདོད་པ་བརྗོད་པ་
+2. ཐལ་བ་དགོད་པ་
+
+SECTION_TITLE: དང་པོ་འདོད་པ་བརྗོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཐལ་བ་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. དོན་གྱིས་ཐོབ་པའི་ལན་
+2. དངོས་སུ་བསྟན་པའི་ལན་
+
+SECTION_TITLE: དང་པོ་དོན་གྱིས་ཐོབ་པའི་ལན་
+ITEMS:
+1. མཐའ་དཔྱད་པ་
+2. ཚིག་དོན་
+
+SECTION_TITLE: དང་པོ་མཐའ་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 008 | lines 1001–1150 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: དེ་ལ་
+ITEMS:
+1. གྲངས་ངེས་ཀྱི་ཁྱད་པར་
+2. དགོངས་པ་ཅན་གྱི་ཁྱད་པར་
+3. ལྡེམ་དགོངས་ཀྱི་ཁྱད་པར་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཕྱི་མ་ལ་ལྡེམ་པོར་དགོངས་པ་
+ITEMS:
+1. མཚན་ཉིད་ལ་ལྡེམ་པོར་དགོངས་པ།
+2. གཞུག་པ་ལ་ལྡེམ་པོར་དགོངས་པ།
+3. གཉེན་པོ་ལ་ལྡེམ་པོར་དགོངས་པ།
+4. བསྒྱུར་བ་ལ་ལྡེམ་པོར་དགོངས་པ།
+
+SECTION_TITLE: གཉེན་པོ་ལ་ལྡེམ་པོར་དགོངས་པ་
+ITEMS:
+1. མཉམ་པ་ཉིད་ལ་དགོངས་པ།
+2. དོན་གཞན་ལ་དགོངས་པ།
+3. དུས་གཞན་ལ་དགོངས་པ།
+4. གང་ཟག་གི་བསམ་པ་ལ་དགོངས་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩོད་པ་སྤང་བ་
+ITEMS:
+1. རྩོད་པ།
+2. ལན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྔ་འགྲེལ།
+2. རྩ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འདོད་པ་བརྗོད་པ།
+2. ཐལ་བ་དགོད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. དོན་གྱིས་ཐོབ་པའི་ལན།
+2. དངོས་སུ་བསྟན་པའི་ལན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཐའ་དཔྱད་པ།
+2. ཚིག་དོན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ངག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒྲུབ་པའི་དམིགས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཚིག་དོན།
+2. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འདིའི་དོན་
+ITEMS:
+1. གཞན་གྱིས་བཞག་པ་མི་འཐད་པ།
+2. རང་གི་ལུགས།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. གཞན་གྱི་འདོད་པ་བཀོད་པ་ཕ་རོལ་པོའི་འདོད་པ་མ་ཡིན་པ།
+2. རང་གི་ལུགས་བཞག་པ་མི་འཐད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རང་གི་ལུགས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྤྱིར་བསྟན་པ།
+2. སོ་སོར་བཤད་པ།
+3. དམིགས་པ་བཅུ་གཅིག་ལ་རིམ་གྱིས་དམིགས་པར་བསྟན་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དམིགས་པ་རྣམ་པ་བཅུ་གཅིག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒྲུབ་པའི་ཆེད་དུ་བྱ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་སྒྲུབ་པའི་ངོ་བོ་
+ITEMS:
+1. སྒྲུབ་པ་སྤྱིའི་རྣམ་གཞག
+2. སོ་སོའི་རང་བཞིན་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྟོན་ཚུལ་གྱི་སྒོ་ནས་གཉིས་སུ་དབྱེ་བ།
+2. མཚན་གཞིའི་སྒོ་ནས་བཞིར་དབྱེ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྒྲུབ་པའི་ངོ་བོ་དེ་ལ་
+ITEMS:
+1. མཁྱེན་གསུམ་སྤྱིར་ཡུལ་དུ་བྱས་པའི་སྒྲུབ་པ།
+2. ཕར་ཕྱིན་དྲུག་ལྡན་དུ་བསྟན་པའི་སྒྲུབ་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པ་བརྩོན་འགྲུས་ཀྱི་ངོ་བོར་བཞག་པའི་དོན།
+2. སྒྲུབ་པ་བཞིའི་ཁྱད་པར།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྒྲུབ་པ་བཞི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བསམ་པ་རྒྱ་ཆེ་བ་གོ་སྒྲུབ།
+2. སྦྱོར་བ་རྒྱ་ཆེ་བ་འཇུག་སྒྲུབ།
+3. ཚོགས་གཉིས་རྒྱ་ཆེ་བ་ཚོགས་སྒྲུབ།
+4. རྣམ་མཁྱེན་དུ་གདོན་མི་ཟ་བར་འབྱིན་བྱེད་ངེས་འབྱུང་སྒྲུབ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དབྱེ་བ།
+2. བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྦྱིན་པ་ལ་སྦྱར་བ།
+2. གཞན་ལ་ཡང་དེ་ལྟར་སྦྱར་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཡུལ་གྱི་སྒོ་ནས་རྣམ་པ་དགུར་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སོ་སོའི་དོན།
+2. རྟོགས་དཀའ་བ་བྱེ་བྲག་ཏུ་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འཇུག་པའི་སྒྲུབ་པ་རྣམ་པ་དགུ་པོ་
+ITEMS:
+1. རྒྱུ་ཐེག་པ་ཆེན་པོའི་ལམ་ལ་འཇུག་པ།
+2. དེའི་འབྲས་བུ་ལ་འཇུག་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྟེན་ཐེག་ཆེན་གྱིས་བསྡུས་པའི་འཇིག་རྟེན་པའི་ལམ་བསམ་གཏན་ནས་གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ།
+2. འཇིག་རྟེན་ལས་འདས་པའི་ལམ་ལ་འཇུག་པ།
+3. ཐེག་དམན་ལས་འབྱེད་པའི་ཆོས།
+
+SECTION_TITLE: བར་པ་
+ITEMS:
+1. རང་དོན་རྟོགས་པ་ཕུན་ཚོགས་ཐོབ་བྱེད་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག
+2. སྤངས་པ་ཕུན་ཚོགས་ཐོབ་བྱེད་མཐོང་བ་ལ་སོགས་པའི་ལམ།
+3. གཞན་དོན་འགྲུབ་པའི་ཐབས་བྱམས་སོགས་ཚད་མེད་པ་བཞི།
+4. གཞན་དོན་རྣམ་པར་དག་བྱེད་སྟོང་ཉིད་རྟོགས་པའི་མི་དམིགས་པ་དང་ལྡན་པ།
+
+SECTION_TITLE: གཉིས་པ་བསམ་གཏན་དང་གཟུགས་མེད་བཤད་པ་
+ITEMS:
+1. རྒྱུ།
+2. ངོ་བོ།
+3. འབྲས་བུ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+<!-- chunk 009 | lines 1126–1275 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སོ་སོའི་དོན་
+2. རྟོགས་དཀའ་བ་བྱེ་བྲག་ཏུ་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་སོ་སོའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འཇུག་པའི་སྒྲུབ་པ་རྣམ་པ་དགུ་པོ་
+ITEMS:
+1. རྒྱུ་ཐེག་པ་ཆེན་པོའི་ལམ་ལ་འཇུག་པ་
+2. དེའི་འབྲས་བུ་ལ་འཇུག་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྟེན་ཐེག་ཆེན་གྱིས་བསྡུས་པའི་འཇིག་རྟེན་པའི་ལམ་བསམ་གཏན་ནས་གཟུགས་མེད་པའི་སྙོམས་པར་འཇུག་པ་ཉམས་སུ་ལེན་པའི་བྱ་བ་
+2. འཇིག་རྟེན་ལས་འདས་པའི་ལམ་ལ་འཇུག་པ་
+3. དེ་གཉིས་ཀ་ཐེག་དམན་ལས་འབྱེད་པའི་ཆོས་
+
+SECTION_TITLE: བར་པ་
+ITEMS:
+1. རང་དོན་རྟོགས་པ་ཕུན་ཚོགས་ཐོབ་བྱེད་སྦྱིན་པ་ལ་སོགས་པའི་ཕ་རོལ་ཏུ་ཕྱིན་པ་དྲུག་
+2. སྤངས་པ་ཕུན་ཚོགས་ཐོབ་བྱེད་མཐོང་བ་ལ་སོགས་པའི་ལམ་
+3. གཞན་དོན་འགྲུབ་པའི་ཐབས་བྱམས་སོགས་ཚད་མེད་པ་བཞི་
+4. གཞན་དོན་རྣམ་པར་དག་བྱེད་སྟོང་ཉིད་རྟོགས་པའི་མི་དམིགས་པ་དང་ལྡན་པ་
+
+SECTION_TITLE: ཐེག་དམན་ལས་འབྱེད་པའི་ཆོས་
+ITEMS:
+1. འཁོར་གསུམ་ཡོངས་སུ་དག་པ་
+2. དགེ་རྩ་བླ་མེད་བྱང་ཆུབ་ཏུ་བསྔོ་བའི་ཆེད་དུ་བྱ་བ་གསུམ་གྱི་དོན་དུ་བསྒྱུར་བ་
+3. ཚོགས་མྱུར་དུ་རྫོགས་པའི་ཐབས་མངོན་པར་ཤེས་པ་དྲུག་ལ་འཇུག་པ་
+
+SECTION_TITLE: གཉིས་པ་བསམ་གཏན་དང་གཟུགས་མེད་བཤད་པ་
+ITEMS:
+1. རྒྱུ་
+2. ངོ་བོ་
+3. འབྲས་བུ་
+
+SECTION_TITLE: དང་པོ་རྒྱུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས་ཀྱི་དོན་
+2. དབྱེ་བ་
+3. ཕྱེ་བ་སོ་སོའི་དོན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསམ་གཏན་
+2. གཟུགས་མེད་
+
+SECTION_TITLE: བསམ་གཏན་དང་པོ་རྒྱུ་སྙོམས་འཇུག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འབྲས་བུ་སྐྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱེ་བ་
+ITEMS:
+1. བསམ་གཏན་དང་པོ་ནས་བཞི་པའི་བར་
+2. གཟུགས་མེད་ནམ་མཁའ་མཐའ་ཡས་སྐྱེ་མཆེད་སོགས་བཞི་
+
+SECTION_TITLE: གསུམ་པ་བསམ་གཏན་དང་པོ་
+ITEMS:
+1. དངོས་གཞི་ཙམ་
+2. ཁྱད་པར་ཅན་
+
+SECTION_TITLE: གསུམ་པ་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྤྱིར་བསྟན་པ་
+2. ཚོགས་གསུམ་བྱེ་བྲག་ཏུ་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་སྤྱིར་བསྟན་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོའི་ངོ་བོ་
+2. ཚོགས་སུ་འཇོག་པའི་རྒྱུ་མཚན་
+3. གྲངས་ངེས་
+
+SECTION_TITLE: དང་པོ་སོ་སོའི་ངོ་བོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཚོགས་སུ་འཇོག་པའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གྲངས་ངེས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཡེ་ཤེས་ཀྱི་ཚོགས་བྱེ་བྲག་ཏུ་བཤད་པ་
+2. སའི་ཚོགས་
+3. གཉེན་པོའི་ཚོགས་བྱེ་བྲག་ཏུ་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་ཡེ་ཤེས་ཀྱི་ཚོགས་བྱེ་བྲག་ཏུ་བཤད་པ་
+ITEMS:
+1. དགག་གཞིའི་དབྱེ་བས་སྟོང་ཉིད་ཉི་ཤུ་
+2. ཡུལ་ཅན་དེ་རྟོགས་པའི་ཡེ་ཤེས་ཉི་ཤུ་
+3. ཡེ་ཤེས་ཀྱི་དམིགས་པ་གང་ཡིན་དཔྱད་པ་
+
+SECTION_TITLE: དང་པོ་དགག་གཞིའི་དབྱེ་བས་སྟོང་ཉིད་ཉི་ཤུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡུལ་ཅན་དེ་རྟོགས་པའི་ཡེ་ཤེས་ཉི་ཤུ་
+ITEMS:
+1. སོ་སོ་སྐྱེ་བོའི་ས་
+2. ས་བཅུ་
+3. སངས་རྒྱས་ཀྱི་ཡེ་ཤེས་
+
+SECTION_TITLE: དང་པོ་སོ་སོ་སྐྱེ་བོའི་ས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཡེ་ཤེས་ཀྱི་དམིགས་པ་གང་ཡིན་དཔྱད་པ་
+ITEMS:
+1. ལུགས་གཉིས་དགོད་པ་
+2. ལུགས་ཕྱི་མ་འཐད་པར་བསྒྲུབ་པ་
+3. དེ་ལ་གཞན་གྱི་ཀླན་ཀ་སྤང་བ་
+4. ལུགས་སྔ་མ་དགག་པ་
+5. ཡེ་ཤེས་ཀྱི་དབྱེ་བ་གཞན་མ་སྨོས་པའི་རྒྱུ་མཚན་
+
+SECTION_TITLE: དང་པོ་ལུགས་གཉིས་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལུགས་ཕྱི་མ་འཐད་པར་བསྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེ་ལ་གཞན་གྱི་ཀླན་ཀ་སྤང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལུགས་སྔ་མ་དགག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་ཡེ་ཤེས་ཀྱི་དབྱེ་བ་གཞན་མ་སྨོས་པའི་རྒྱུ་མཚན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སའི་ཚོགས་བྱེ་བྲག་ཏུ་བཤད་པ་
+ITEMS:
+1. སྤྱིའི་དོན་
+2. ཡན་ལག་གི་དོན་
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་དོན་
+ITEMS:
+1. ངོ་བོ་
+2. དབྱེ་བ་
+3. ཁྱད་ཆོས་
+4. འཕོ་ཚུལ་
+5. མིང་དོན་
+
+SECTION_TITLE: དང་པོ་ངོ་བོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཁྱད་ཆོས་
+ITEMS:
+1. ངོ་བོའི་ཁྱད་པར་
+2. སྤང་བྱའི་ཁྱད་པར་
+
+SECTION_TITLE: དང་པོ་ངོ་བོའི་ཁྱད་པར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྤང་བྱའི་ཁྱད་པར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་འཕོ་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་མིང་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ་
+2. སོ་སོའི་རང་བཞིན་
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སོ་སོའི་རང་བཞིན་
+ITEMS:
+1. རྒྱུའི་ས་དགུ་
+2. འབྲས་བུའི་ས་བཅུ་པ་
+
+SECTION_TITLE: དང་པོ་རྒྱུའི་ས་དགུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དགུའི་དང་པོ་ས་དང་པོ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ས་གཉིས་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ས་གསུམ་པ་འོད་བྱེད་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ས་བཞི་པ་འོད་འཕྲོ་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་ས་ལྔ་པ་སྦྱང་དཀའ་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་ས་དྲུག་པ་མངོན་དུ་གྱུར་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བདུན་པ་ས་བདུན་པ་རིང་དུ་གྱུར་པ་
+ITEMS:
+1. སྤང་བྱ་ཉི་ཤུ་སྤོང་བ་
+2. གཉེན་པོ་ཉི་ཤུ་བསྟེན་པར་བསྟན་པ་
+
+SECTION_TITLE: དང་པོ་སྤང་བྱ་ཉི་ཤུ་སྤོང་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 010 | lines 1251–1400 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་ས་གཉིས་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ས་གསུམ་པ་འོད་བྱེད་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ས་བཞི་པ་འོད་འཕྲོ་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་ས་ལྔ་པ་སྦྱང་དཀའ་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་ས་དྲུག་པ་མངོན་དུ་གྱུར་པ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བདུན་པ་ས་བདུན་པ་རིང་དུ་གྱུར་པ་
+ITEMS:
+1. སྤང་བྱ་ཉི་ཤུ་སྤོང་བ་
+2. གཉེན་པོ་ཉི་ཤུ་བསྟེན་པར་བསྟན་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བརྒྱད་པ་ས་བརྒྱད་པ་མི་གཡོ་བ་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ས་དགུ་པ་ལེགས་པའི་བློ་གྲོས་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འབྲས་བུའི་ས་བཅུ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. འདའ་བྱ་ས་དགུ་བཤད་པ་
+2. དེ་ལས་འདས་པ་ས་བཅུ་པ་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་འདའ་བྱ་ས་དགུ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་ལས་འདས་པ་ས་བཅུ་པ་བཤད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གཉེན་པོའི་ཚོགས་བྱེ་བྲག་ཏུ་བཤད་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ངེས་པར་འབྱུང་བའི་སྒྲུབ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྣམ་མཁྱེན་དེར་བགྲོད་པའི་ལམ་ཤེས་བཤད་པ་
+ITEMS:
+1. འགྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+2. ཆོས་བཅུ་གཅིག་གིས་ལམ་ཤེས་མཚོན་ཏེ་བསྟན་པ་
+3. སྐབས་བསྡུ་བ་
+
+SECTION_TITLE: དང་པོ་འགྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ལམ་ཤེས་ཀྱི་ཡན་ལག་
+2. ལམ་ཤེས་ཀྱི་རང་བཞིན་
+
+SECTION_TITLE: དང་པོ་ལམ་ཤེས་ཀྱི་ཡན་ལག་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་ཀྱི་རང་བཞིན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་གེགས་དང་བྲལ་བའི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལྷན་ཅིག་བྱེད་པའི་རྐྱེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རིགས་ཀྱིས་ཁྱབ་པར་བསྟན་པ་
+ITEMS:
+1. ཚིག་དོན་
+2. མཐའ་དཔྱད་པ་
+
+SECTION_TITLE: དང་པོ་ཚིག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐའ་དཔྱད་པ་
+ITEMS:
+1. མཐར་ཐུག་ཐེག་པ་གཅིག་ཏུ་བསྒྲུབ་པ་
+2. གསུམ་དུ་འདོད་པའི་ལུགས་གཞན་དགོད་པ་
+3. འཁོར་བ་ལ་མཐའ་ཡོད་མེད་དཔྱད་པ་
+4. ཉན་རང་ཐེག་ཆེན་གྱི་ལམ་གང་ནས་འཇུག་དཔྱད་པ་
+
+SECTION_TITLE: དང་པོ་མཐར་ཐུག་ཐེག་པ་གཅིག་ཏུ་བསྒྲུབ་པ་
+ITEMS:
+1. ལུང་
+2. རིགས་པ་
+
+SECTION_TITLE: རིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གསུམ་དུ་འདོད་པའི་ལུགས་གཞན་དགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འཁོར་བ་ལ་མཐའ་ཡོད་མེད་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འདི་ལ་གཉིས་
+ITEMS:
+1. གཞན་གྱི་ལུགས་དགག་པ་
+2. རང་གི་ལུགས་རྣམ་པར་བཞག་པ་
+
+SECTION_TITLE: དང་པོ་གཞན་གྱི་ལུགས་དགག་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 011 | lines 1376–1525 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: འདི་ལ་
+ITEMS:
+1. གཞན་གྱི་ལུགས་དགག་པ།
+2. རང་གི་ལུགས་རྣམ་པར་བཞག་པ།
+
+SECTION_TITLE: དང་པོ་གཞན་གྱི་ལུགས་དགག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རང་གི་ལུགས་རྣམ་པར་བཞག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འདི་ལ་
+ITEMS:
+1. གཞན་གྱི་འདོད་པ་སུན་དབྱུང་བ།
+2. རང་གི་ལུགས་རྣམ་པར་བཞག་པ།
+
+SECTION_TITLE: དང་པོ་གཞན་གྱི་འདོད་པ་སུན་དབྱུང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རང་གི་ལུགས་རྣམ་པར་བཞག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་ཤེས་ཀྱི་རང་བཞིན་
+ITEMS:
+1. ཚིག་དོན།
+2. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་ཚིག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐའ་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་བྱེད་ལས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་ཀྱི་རང་བཞིན་
+ITEMS:
+1. ཉན་ཐོས་ཀྱི་ལམ་གྱི་རང་བཞིན་ཤེས་པ།
+2. རང་རྒྱལ་གྱི་ལམ་གྱི་རང་བཞིན་ཤེས་པ།
+3. བྱང་སེམས་ཀྱི་ལམ་གྱི་རང་བཞིན་ཤེས་པ།
+
+SECTION_TITLE: དང་པོ་ཉན་ཐོས་ཀྱི་ལམ་གྱི་རང་བཞིན་ཤེས་པ་
+ITEMS:
+1. ལམ་ཤེས་ཀྱི་ངོ་བོ།
+2. རྒྱུ་ངེས་འབྱེད་ཆ་མཐུན།
+
+SECTION_TITLE: དང་པོ་ལམ་ཤེས་ཀྱི་ངོ་བོ་དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཤེས་བྱའི་ལམ།
+2. དེ་ཇི་ལྟར་ཤེས་པའི་ཚུལ།
+
+SECTION_TITLE: དང་པོ་ཤེས་བྱའི་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འགྲེལ་པས་འཆད་པ་
+ITEMS:
+1. སྡུག་ཀུན་གྱི་རྣམ་པ།
+2. འགོག་བདེན་གྱི་རྣམ་པ།
+3. ལམ་བདེན་གྱི་རྣམ་པ།
+
+SECTION_TITLE: དང་པོ་སྡུག་ཀུན་གྱི་རྣམ་པ་
+ITEMS:
+1. སྡུག་ཀུན་སོ་སོའི་རྣམ་པ།
+2. ཐུན་མོང་གི་རྣམ་པ།
+
+SECTION_TITLE: དང་པོ་སྡུག་བསྔལ་གྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀུན་འབྱུང་གི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཐུན་མོང་གི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགོག་བདེན་གྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ལམ་བདེན་གྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་ཇི་ལྟར་ཤེས་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱུ་ངེས་འབྱེད་ཆ་མཐུན་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རང་རྒྱལ་གྱི་ལམ་ཤེས་པའི་རང་བཞིན་
+ITEMS:
+1. སྤྱི།
+2. ཡན་ལག་གི་དོན།
+
+SECTION_TITLE: དང་པོ་སྤྱི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. རྟེན་གྱི་ཁྱད་པར།
+2. དེའི་ལམ་ཇི་ལྟར་ཤེས་པའི་ཚུལ།
+3. དེའི་རྒྱུ་ངེས་འབྱེད་ཆ་མཐུན་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་རྟེན་གྱི་ཁྱད་པར་
+ITEMS:
+1. ཁྱད་ཆོས་དངོས།
+2. རྩོད་སྤང་།
+
+SECTION_TITLE: དང་པོ་ཁྱད་ཆོས་དངོས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ལམ་བགྲོད་པའི་ཁྱད་པར།
+2. ཆོས་སྟོན་པའི་ཁྱད་པར།
+
+SECTION_TITLE: དང་པོ་ལམ་བགྲོད་པའི་ཁྱད་པར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་སྟོན་པའི་ཁྱད་པར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩོད་སྤང་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཚིག་དོན།
+2. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་ཚིག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐའ་དཔྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 012 | lines 1501–1650 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཚིག་དོན།
+2. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས་པའི་རང་བཞིན་བཤད་པ
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ།
+2. སོ་སོའི་ངོ་བོ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཐོང་ལམ།
+2. སྒོམ་ལམ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱི།
+2. ཡན་ལག་གི་དོན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཐོང་ལམ་གྱི་རྟེན།
+2. བརྟེན་པ་མཐོང་ལམ།
+
+SECTION_TITLE: དང་པོ་ལུས་ཀྱི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སེམས་ཀྱི་རྟེན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཐོང་ལམ་གྱི་ངོ་བོ།
+2. དབྱེ་བ།
+3. མཐའ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སློབ་དཔོན་གྱིས་འགྲེལ་ཆེན་དུ་དགག་བཞག་ཇི་ལྟར་མཛད་པའི་ཚུལ།
+2. སློབ་དཔོན་གྱི་བཞེད་པ་བསྡུས་ཏེ་བསྟན་པ།
+3. འདའ་བྱེད་ཀྱི་མཐོང་ལམ།
+4. འདའ་བྱའི་མཐོང་ལམ་སྐྱེ་ཚུལ་གྱི་རིམ་པ་དཔྱད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. སྐད་ཅིག་མ་མདོར་བསྟན།
+2. རྣམ་པ་སྒོམ་ཚུལ་རྒྱས་པར་བཤད།
+3. རྣམ་པ་མ་བསྟན་པར་འདོད་པ་དགག་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ།
+2. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ།
+2. དོན་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྡུག་བསྔལ་གྱི་རྣམ་པ།
+2. ཀུན་འབྱུང་གི་རྣམ་པ།
+3. འགོག་པའི་རྣམ་པ།
+4. ལམ་བདེན་གྱི་རྣམ་པ།
+
+SECTION_TITLE: དང་པོ་སྡུག་བསྔལ་གྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀུན་འབྱུང་གི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགོག་པའི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་བདེན་གྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཁས་བླངས་བརྗོད་པ།
+2. དེ་དགག་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒོམ་ལམ་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ།
+2. སོ་སོའི་དོན་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒོམ་ལམ་གྱི་བྱེད་པ།
+2. བྱེད་པ་ཅན་གྱི་སྒོམ་ལམ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དབྱེ་བ་བསྟན་ཏེ་མཚམས་སྦྱར་བ།
+2. སོ་སོའི་ངོ་བོ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཟག་བཅས་སྒོམ་ལམ།
+2. ཟག་མེད་སྒོམ་ལམ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དབྱེས་མཚམས་སྦྱར་བ།
+2. སོ་སོའི་དོན་བཤད་པ།
+3. དོན་བསྡུ་བ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མོས་པ།
+2. བསྔོ་བ།
+3. རྗེས་སུ་ཡི་རང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དངོས།
+2. ཕན་ཡོན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྔོ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྗེས་སུ་ཡི་རང་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+<!-- chunk 013 | lines 1626–1775 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྔོ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཅུ་གཉིས་པོ་དེ་དག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྗེས་སུ་ཡི་རང་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བྱེད་ལས་མདོར་བསྡུས་པའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཟག་མེད་སྒོམ་ལམ་
+ITEMS:
+1. དབྱེ་བས་མཚམས་སྦྱར་བ
+2. སོ་སོའི་ངོ་བོ
+
+SECTION_TITLE: དང་པོ་དབྱེ་བས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲུབ་པ་སྒོམ་ལམ
+2. རྣམ་དག་སྒོམ་ལམ
+
+SECTION_TITLE: དང་པོ་སྒྲུབ་པ་སྒོམ་ལམ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྒྱུའི་ཁྱད་པར
+2. ཡུལ
+3. འབྲས་བུ
+4. ངོ་བོའི་ཁྱད་པར
+
+SECTION_TITLE: དང་པོ་རྒྱུའི་ཁྱད་པར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡུལ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འབྲས་བུ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. རྣམ་དག་ཤིན་ཏུ་བ་ཡིན་མིན་གྱི་ཁྱད་པར
+2. སངས་རྒྱས་ཀྱི་རྣམ་དག་ཤིན་ཏུ་བར་བསྒྲུབ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སངས་རྒྱས་ཀྱི་རྣམ་དག་ཤིན་ཏུ་བར་བསྒྲུབ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ལམ་ཤེས་རྣམ་པར་དག་བྱེད་ཀྱི་ཡན་ལག་གཞི་ཤེས་བཤད་པ་
+ITEMS:
+1. འབྲེལ་དགོད་པས་མཚམས་སྦྱར
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་འབྲེལ་དགོད་པས་མཚམས་སྦྱར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཞི་ཤེས་ཀྱི་རང་བཞིན
+2. མཁྱེན་པ་གསུམ་གྱི་མཇུག་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་གཞི་ཤེས་ཀྱི་རང་བཞིན་
+ITEMS:
+1. ཉེ་རིང་གི་ལམ་བཤད་པ
+2. གཞི་ཤེས་ཀྱི་སྦྱོར་བ
+3. སྦྱོར་བ་སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: དང་པོ་ཉེ་རིང་གི་ལམ་བཤད་པ་
+ITEMS:
+1. ལམ་ཉེ་རིང་གི་རྒྱུ་མཚན
+2. རྒྱུ་མཚན་དེ་ཉིད་བསྒྲུབ་པ
+3. མི་མཐུན་ཕྱོགས་དང་གཉེན་པོའི་དབྱེ་བ
+
+SECTION_TITLE: དང་པོ་ལམ་ཉེ་རིང་གི་རྒྱུ་མཚན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས་བསྟན་སྲིད་ཞིའི་མཐའ་འགོག་བྱེད་ཀྱི་ལམ
+2. ཤུགས་བསྟན་ཉན་རང་ལམ་དེ་དག་དང་བྲལ་བར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་དངོས་བསྟན་སྲིད་ཞིའི་མཐའ་འགོག་བྱེད་ཀྱི་ལམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཤུགས་བསྟན་ཉན་རང་ལམ་དེ་དག་དང་བྲལ་བར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. གཞི་ལམ་ལ་མཚན་འཛིན་གྱི་སྤང་གཉེན
+2. འབྲས་བུ་ལ་མཚན་འཛིན་གྱི་སྤང་གཉེན
+3. མཇུག་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་གཞི་ལམ་ལ་མཚན་འཛིན་གྱི་སྤང་གཉེན་
+ITEMS:
+1. སྤང་བྱ
+2. གཉེན་པོ
+
+SECTION_TITLE: དང་པོ་སྤང་བྱ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཉེན་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འབྲས་བུ་ལ་མཚན་འཛིན་གྱི་སྤང་གཉེན་
+ITEMS:
+1. འབྲས་བུ་ལ་མཚན་འཛིན་གྱི་ངོ་བོ
+2. སྤོང་བྱེད་ཀྱི་གཉེན་པོ
+3. འཕྲོས་དོན
+
+SECTION_TITLE: དང་པོ་འབྲས་བུ་ལ་མཚན་འཛིན་གྱི་ངོ་བོ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྤོང་བྱེད་ཀྱི་གཉེན་པོ་
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་ཡིན་པའི་རྒྱུ་མཚན
+2. སྤོང་བྱེད་གཉེན་པོ
+
+SECTION_TITLE: དང་པོ་མི་མཐུན་ཕྱོགས་ཡིན་པའི་རྒྱུ་མཚན་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྤོང་བྱེད་གཉེན་པོ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འཕྲོས་དོན་
+ITEMS:
+1. ཟབ་པའི་རྒྱུ་མཚན
+2. རྟོགས་དཀའ་བའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་ཟབ་པའི་རྒྱུ་མཚན་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྟོགས་དཀའ་བའི་རྒྱུ་མཚན་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 014 | lines 1751–1900 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. འབྲས་བུ་ལ་མཚན་འཛིན་གྱི་ངོ་བོ
+2. སྤོང་བྱེད་ཀྱི་གཉེན་པོ
+3. འཕྲོས་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་ཡིན་པའི་རྒྱུ་མཚན
+2. སྤོང་བྱེད་གཉེན་པོ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: དང་པོ་དྲི་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཟབ་པའི་རྒྱུ་མཚན
+2. རྟོགས་དཀའ་བའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཇུག་བསྡུ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཞི་ཤེས་ཀྱི་སྦྱོར་བ་
+ITEMS:
+1. སྦྱོར་བའི་དབྱེ་བ
+2. རང་བཞིན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས་བསྟན
+2. ཤུགས་བསྟན
+
+SECTION_TITLE: དང་པོ་དངོས་བསྟན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཡུལ་གྱི་སྒོ་ནས་དབྱེ་བ་བཞི་
+ITEMS:
+1. ཁྱད་གཞི་གཟུགས་ལ་སོགས་པའི་ཆོས་ཐམས་ཅད་དང་དེ་དག་ཉིད་ཀྱི་ཁྱད་ཆོས་མི་རྟག་པ་དང་སྟོང་པ་ཉིད་ལ་སོགས་པ
+2. རྟེན་གྱི་ཁྱད་པར་ཡོན་ཏན་གྱི་རྟེན་དུ་སོ་སོར་མ་རྫོགས་པ་དང་རྫོགས་པ་ཉིད
+3. ཇི་སྙེད་པ་ལ་བདེན་ཞེན་བཀག་པ
+4. ཇི་ལྟ་བ་ལ་དམིགས་པ་དོན་དམ་པར་ཆགས་པ་དང་ཆགས་པ་མེད་པ་ལ་བདེན་ཞེན་བཀག་པ
+
+SECTION_TITLE: ངོ་བོའི་སྒོ་ནས་དབྱེ་བ་གསུམ་
+ITEMS:
+1. ལས་སུ་བྱ་བ་ཤེར་ཕྱིན་དོན་དམ་པར་འཕེལ་འགྲིབ་ཀྱིས་གཞན་དུ་མི་འགྱུར་བར་རྟོགས་པ
+2. བྱེད་པའི་སྒོ་ནས་དོན་དམ་པར་བྱེད་པ་པོ་མེད་པ་ཉིད
+3. འབྲས་བུའི་སྒོ་ནས་ཐམས་ཅད་མཁྱེན་པ་ཉིད་གསུམ་གྱི་བདག་ཉིད་ཀྱི་རྣམ་མཁྱེན་
+
+SECTION_TITLE: གཉིས་པ་ཤུགས་བསྟན་ཉན་རང་གི་སྦྱོར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྦྱོར་བ་སྒོམ་པའི་འབྲས་བུ་
+ITEMS:
+1. སྐད་ཅིག་མ་མདོར་བསྟན
+2. རྣམ་པ་རྒྱས་བཤད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས་བསྟན་གྱི་མཐོང་ལམ
+2. ཤུགས་བསྟན་གྱི་མཐོང་ལམ
+3. སྒོམ་ལམ་མི་སྟོན་པའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. བསྡུས་ཏེ་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྡུག་བསྔལ་ཤེས་བཟོད་ཀྱི་རྣམ་པ
+2. ཀུན་འབྱུང་ཤེས་བཟོད་ཀྱི་རྣམ་པ
+3. འགོག་པ་ཤེས་བཟོད་ཀྱི་རྣམ་པ
+4. ལམ་ཤེས་བཟོད་ཀྱི་རྣམ་པ
+
+SECTION_TITLE: དང་པོ་སྡུག་བསྔལ་ཤེས་བཟོད་ཀྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀུན་འབྱུང་ཤེས་བཟོད་ཀྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགོག་པ་ཤེས་བཟོད་ཀྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་ཤེས་བཟོད་ཀྱི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཚིག་དོན
+2. མཐའ་དཔྱད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཁྱེན་པ་གསུམ་གྱི་མཇུག་བསྡུ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྦྱོར་བ་བཞི་རྒྱས་པར་བཤད་པ་
+ITEMS:
+1. དབང་དུ་བྱེད་པ་རྒྱུ་འབྲས
+2. བསྟན་པ་རྒྱུ་འབྲས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དབང་དུ་བྱེད་པའི་རྒྱུ་རྣམ་ཀུན
+2. འབྲས་བུ་རྩེ་མོའི་སྦྱོར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བ་སྤྱིའི་རྣམ་གཞག
+2. ཐར་པ་ཆ་མཐུན་ནས་བཟུང་སྟེ་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བའི་ངོ་བོ
+2. སྦྱོར་བ་སྒོམ་པའི་སྐྱོན་ཡོན
+3. སྦྱོར་བའི་མཚན་ཉིད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་མ་ལུས་པའི་གཉེན་པོ་ཤེས་པའི་ཡན་ལག་རྣམ་པའི་དབྱེ་བ
+2. བདེན་འཛིན་དངོས་སུ་འཇོམས་བྱེད་ཀྱི་སྦྱོར་བ་ཁྱད་པར་ཅན་ངོས་བཟུང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མདོར་བསྟན
+2. རྒྱས་བཤད
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཞི་ཤེས་ཀྱི་རྣམ་པ
+2. ལམ་ཤེས་ཀྱི་རྣམ་པ
+3. རྣམ་མཁྱེན་གྱི་རྣམ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བདེན་པ་དང་པོ་གསུམ་གྱི་རྣམ་པ
+2. ལམ་བདེན་གྱི་རྣམ་པ
+3. གྲངས་ཀྱི་དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་ལམ་བདེན་གྱི་དབྱེ་བ་མདོར་བསྟན་
+ITEMS:
+[implicit]
+
+<!-- chunk 015 | lines 1876–2025 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བ་སྤྱིའི་རྣམ་གཞག
+2. ཐར་པ་ཆ་མཐུན་ནས་བཟུང་སྟེ་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྣམ་རྫོགས་སྦྱོར་བའི་ངོ་བོ
+2. སྦྱོར་བ་སྒོམ་པའི་སྐྱོན་ཡོན
+3. སྦྱོར་བའི་མཚན་ཉིད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་མ་ལུས་པའི་གཉེན་པོ་ཤེས་པའི་ཡན་ལག་རྣམ་པའི་དབྱེ་བ
+2. བདེན་འཛིན་དངོས་སུ་འཇོམས་བྱེད་ཀྱི་སྦྱོར་བ་ཁྱད་པར་ཅན་ངོས་བཟུང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མདོར་བསྟན
+2. རྒྱས་བཤད
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཞི་ཤེས་ཀྱི་རྣམ་པ
+2. ལམ་ཤེས་ཀྱི་རྣམ་པ
+3. རྣམ་མཁྱེན་གྱི་རྣམ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. བདེན་པ་དང་པོ་གསུམ་གྱི་རྣམ་པ
+2. ལམ་བདེན་གྱི་རྣམ་པ
+3. གྲངས་ཀྱི་དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་ལམ་བདེན་གྱི་དབྱེ་བ་མདོར་བསྟན
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་ཉོན་སྒྲིབ་ཀྱི་གཉེན་པོ་ལ་བཞིར་དབྱེ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཤེས་སྒྲིབ་ཀྱི་གཉེན་པོ་ཟག་བཅས
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཤེས་སྒྲིབ་ཀྱི་གཉེན་པོ་ཟག་མེད
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་ཤེས་ཀྱི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. སྤྱིར་བསྟན
+2. སོ་སོར་བཤད
+3. སྤྱིའི་དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་ཀུན་འབྱུང་སྤང་གཉེན་གྱི་སྒོ་ནས་བསྟན་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་བདེན་དམ་བཅའ་དང་འཐད་པའི་སྒོ་ནས་བསྟན་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྡུག་བསྔལ་རང་སྤྱིའི་མཚན་ཉིད་ཀྱི་སྒོ་ནས་བཤད་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་འགོག་པ་ཕན་ཡོན་གྱི་སྒོ་ནས་བཤད་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་འགོག་པའི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཞི་བའི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གྱ་ནོམ་པའི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ངེས་པར་འབྱུང་བའི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྣམ་མཁྱེན་གྱི་རྣམ་པ
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཉན་ཐོས་དང་རྗེས་སུ་མཐུན་པའི་གཞི་ཤེས་ཀྱི་རྣམ་པ
+2. བྱང་ཆུབ་སེམས་དཔའ་ལ་ཡོད་པ་དང་རྗེས་སུ་མཐུན་པའི་ལམ་ཤེས་ཀྱི་རྣམ་པ
+3. ཐུན་མོང་མ་ཡིན་པའི་རྣམ་མཁྱེན་གྱི་རྣམ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་དྲན་པ་ཉེར་གཞག
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡང་དག་སྤོང་བ་བཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྫུ་འཕྲུལ་གྱི་རྐང་པའི་རྣམ་པ་བཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་དབང་པོའི་རྣམ་པ་ལྔ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་སྟོབས་ཀྱི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་བྱང་ཆུབ་ཀྱི་ཡན་ལག་གི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བདུན་པ་འཕགས་པའི་ལམ་ཡན་ལག་གི་རྣམ་པ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བྱང་ཆུབ་སེམས་དཔའི་ལམ་ཤེས་དང་རྗེས་སུ་མཐུན་པའི་རྣམ་པ
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་གཉེན་པོའི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྤྲུལ་པའི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཐོང་ཆོས་བདེ་གནས་ཀྱི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་འཇིག་རྟེན་ལས་འདས་པའི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་སྤོང་བའི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་སངས་རྒྱས་ཀྱི་ལམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྣམ་མཁྱེན་གྱི་རྣམ་པ
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཡོན་ཏན་གྱི་དབྱེ་བ
+2. ངོ་བོ
+3. རྟེན
+4. ཆེད་དུ་བྱ་བ
+
+SECTION_TITLE: དང་པོ་སྟོབས་བཅུ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མི་འཇིགས་པ་བཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད
+ITEMS:
+1. སྤྱོད་པས་བསྡུས་པ་དྲུག
+2. རྟོགས་པས་བསྡུས་པ་དྲུག
+3. འཕྲིན་ལས་ཀྱིས་བསྡུས་པ་གསུམ
+4. ཡེ་ཤེས་ཀྱིས་བསྡུས་པ་གསུམ
+
+SECTION_TITLE: སྤྱོད་པས་བསྡུས་པ་དྲུག
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྟོག་པས་བསྡུས་པ་དྲུག
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འཕྲིན་ལས་ཀྱིས་བསྡུས་པ་གསུམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཡེ་ཤེས་ཀྱིས་བསྡུས་པ་གསུམ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དང་པོ་ངོ་བོའི་དོན་བསྡུ་བ
+ITEMS:
+[implicit]
+
+<!-- chunk 016 | lines 2001–2150 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཡོན་ཏན་གྱི་དབྱེ་བ
+2. ངོ་བོ
+3. རྟེན
+4. ཆེད་དུ་བྱ་བ
+
+SECTION_TITLE: དང་པོ་ལ་བཞིའི་དང་པོ་སྟོབས་བཅུ
+ITEMS:
+1. སྟོབས་བཅུ
+2. མི་འཇིགས་པ་བཞི
+3. སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི
+4. སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད
+
+SECTION_TITLE: གཉིས་པ་མི་འཇིགས་པ་བཞི
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་སོ་སོ་ཡང་དག་པར་རིག་པ་བཞི
+ITEMS:
+1. ཆོས་སོ་སོ་ཡང་དག་པར་རིག་པ
+2. དོན་སོ་སོ་ཡང་དག་པར་རིག་པ
+3. ངེས་པའི་ཚིག་སོ་སོ་ཡང་དག་པར་རིག་པ
+4. སྤོབས་པ་སོ་སོ་ཡང་དག་པར་རིག་པ
+
+SECTION_TITLE: བཞི་པ་སངས་རྒྱས་ཀྱི་ཆོས་མ་འདྲེས་པ་བཅོ་བརྒྱད
+ITEMS:
+1. སྤྱོད་པས་བསྡུས་པ་དྲུག
+2. རྟོགས་པས་བསྡུས་པ་དྲུག
+3. འཕྲིན་ལས་ཀྱིས་བསྡུས་པ་གསུམ
+4. ཡེ་ཤེས་ཀྱིས་བསྡུས་པ་གསུམ
+
+SECTION_TITLE: སྤྱོད་པས་བསྡུས་པ་དྲུག
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: རྟོག་པས་བསྡུས་པ་དྲུག
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: འཕྲིན་ལས་ཀྱིས་བསྡུས་པ་གསུམ
+ITEMS:
+1. སྐུའི་འཕྲིན་ལས
+2. གསུང་གི་འཕྲིན་ལས
+3. ཐུགས་ཀྱི་འཕྲིན་ལས
+
+SECTION_TITLE: ཡེ་ཤེས་ཀྱིས་བསྡུས་པ་གསུམ
+ITEMS:
+1. འདས་པ་ལ་མ་ཆགས་མ་ཐོགས་པའི་ཡེ་ཤེས
+2. མ་འོངས་པ་ལ་མ་ཆགས་མ་ཐོགས་པའི་ཡེ་ཤེས
+3. ད་ལྟར་བྱུང་བ་ལ་མ་ཆགས་མ་ཐོགས་པའི་ཡེ་ཤེས
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་ལ་གཉིས་ཀྱི་དང་པོ་ངོ་བོའི་དོན་བསྡུ་བ
+ITEMS:
+1. ངོ་བོའི་དོན་བསྡུ་བ
+2. གྲངས་ཀྱི་དོན་བསྡུ་བ
+
+SECTION_TITLE: གཉིས་པ་གྲངས་ཀྱི་དོན་བསྡུ་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་བདེན་འཛིན་དངོས་སུ་འཇོམས་བྱེད་ཀྱི་སྦྱོར་བ་ཁྱད་པར་ཅན་ངོས་བཟུང་བ
+ITEMS:
+1. དགེ་བའི་རྩ་བ་གསོག་པའི་རྟེན
+2. སྦྱོར་བ་དངོས
+
+SECTION_TITLE: དང་པོ་ལ་གསུམ་གྱི་དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་ལ་གསུམ་གྱི་དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+1. སྦྱོར་བ་རང་གི་ངོ་བོ
+2. རྟེན་གྱི་གང་ཟག་གི་སྒོ་ནས་དབྱེ་བ
+3. སྦྱོར་བ་རྫོགས་པའི་ཐབས་ཀྱི་སྒོ་ནས་དབྱེ་བ
+4. འབྲས་བུ་དང་དུས་ཀྱི་སྒོ་ནས་བཞག་པ
+
+SECTION_TITLE: སྦྱོར་བའི་ངོ་བོ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྦྱོར་བ་པོའི་སྒོ་ནས་དབྱེ་བ
+ITEMS:
+1. ཚེགས་ཆེན་ཡུན་རིང་རྟོགས་པའི་སྦྱོར་བ
+2. ལུང་བསྟན་ཐོབ་པའི་སྦྱོར་བ
+3. ཕྱིར་མི་ལྡོག་པ་ཉིད་ཀྱི་སྦྱོར་བ
+4. ངེས་པར་འབྱུང་བའི་སྦྱོར་བ
+5. བར་ཆད་མེད་པ་དང་བཅས་པའི་སྦྱོར་བ
+6. བྱང་ཆུབ་ལ་ཉེ་བའི་སྦྱོར་བ
+7. མྱུར་བར་འཚང་རྒྱ་བའི་སྦྱོར་བ
+8. གཞན་དོན་གྱི་སྦྱོར་བ
+
+SECTION_TITLE: རང་དོན་དང་ལྡན་པའི་སྦྱོར་བ
+ITEMS:
+1. རང་དོན་དང་ལྡན་པའི་སྦྱོར་བ
+2. གཞན་དོན་དང་ལྡན་པའི་སྦྱོར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་ཡུམ་བསྒོམ་པ་རྫོགས་པའི་ཐབས་ཀྱི་སྦྱོར་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཞི་པ་འབྲས་བུ
+ITEMS:
+1. འབྲས་བུ་རིན་ཆེན་སྦྱིན་བྱེད་ཀྱི་སྦྱོར་བ
+2. རྣམ་པར་དག་པའི་སྦྱོར་བ
+
+SECTION_TITLE: ལྔ་པ་དུས
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་ལ་དངོས་གཞིའི་སྦྱོར་བ་ལྔ
+ITEMS:
+1. གཟུགས་ལ་སོགས་པ་ལ་མི་གནས་པའི་སྦྱོར་བ
+2. བདེན་ཞེན་བཀག་པའི་སྦྱོར་བ
+3. ཟབ་པའི་སྦྱོར་བ
+4. གཏིང་དཔག་དཀའ་བའི་སྦྱོར་བ
+5. ཚད་མེད་པའི་སྦྱོར་བ
+
+SECTION_TITLE: གནས་སྐབས་ཀྱི་སྦྱོར་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་སྦྱོར་བ་སྒོམ་པའི་སྐྱོན་ཡོན
+ITEMS:
+1. སྦྱོར་བའི་ཡོན་ཏན
+2. སྦྱོར་བ་སྒོམ་པའི་གེགས
+
+SECTION_TITLE: དང་པོ་ལ་གསུམ་གྱི་དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་ལ་གསུམ་གྱི་དང་པོ་མཚམས་སྦྱར་བ
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+1. སྦྱོར་བ་སྐྱེ་བའི་གེགས
+2. རྒྱུན་གནས་པའི་གེགས
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. གྲངས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྦྱོར་བའི་འགལ་རྐྱེན་རང་ལ་བརྟེན་པ་ཉི་ཤུ
+2. རང་གཞན་གང་རུང་ལ་བརྟེན་པ་མཐུན་རྐྱེན་མ་ཚང་བ་ཉེར་གསུམ
+3. འགལ་རྐྱེན་གཞན་ལ་བརྟེན་པ་གསུམ
+
+SECTION_TITLE: དང་པོ་ལ་སྤོབས་པའི་དབང་དུ་བྱས་པ་གཉིས
+ITEMS:
+1. ཡུམ་གྱི་ཚིག་དོན་ལ་དུས་ཡུན་རིང་མོ་ཞིག་ནས་ངེས་པ་སྐྱེ་བ་ཚེགས་ཆེན་པོས་འཐོབ་པ
+2. མཐའ་མ་བརྟགས་པར་ངེས་པ་མྱུར་དུ་སྐྱེ་བ་སྤོབས་པ་ཧ་ཅང་མྱུར་བ
+
+SECTION_TITLE: གནས་ངན་ལེན་གྱི་དབང་དུ་བྱས་པ་གསུམ
+ITEMS:
+1. ལུས་ཀྱི་གནས་ངན་ལེན
+2. སེམས་ཀྱི་གནས་ངན་ལེན
+3. རིགས་པ་མ་ཡིན་པས་བསྐྱེད་པའི་ཁ་ཏོན་བྱེད་པ
+
+SECTION_TITLE: ཐེག་ཆེན་ལས་ཉམས་བྱེད་ཀྱི་རྒྱུ་བདུན
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་དང་པོ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ཐེག་ཆེན་ལས་གཡེང་བའི་རྒྱུ་བརྒྱད
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སློབ་དཔོན་ལ་བརྟེན་པ
+2. རང་ཉིད་ལ་བརྟེན་པ
+3. གཉིས་ཀ་ལ་བརྟེན་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་གསུམ་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དམྱལ་བ་ལ་སོགས་པའི་མི་བསྔགས་པ་ཐོས་པས་ངན་སོང་ལ་ཡིད་ཕྱིར་ཕྱོགས་པ
+2. ལྷ་ལ་སོགས་པའི་བསྔགས་པ་ཐོས་པས་བདེ་འགྲོར་འགྲོ་བ་ལ་ཡིད་བདེ་བ
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བཞི་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་སྦྱོར་བའི་མཚན་ཉིད
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སློབ་དཔོན་སྔ་མའི་ལུགས་དགོད་པ
+2. རང་གི་ལུགས་གཞག་པ
+
+SECTION_TITLE: གཉིས་པ་རང་གི་ལུགས
+ITEMS:
+1. མཚན་གཞི
+2. མཚོན་བྱ
+3. མཚན་ཉིད
+4. ཇི་ལྟར་མཚོན་པའི་ཚུལ
+5. ས་མཚམས
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱི
+2. བྱེ་བྲག
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. སྦྱོར་བའི་ངོ་བོར་གྱུར་པའི་ཤེས་པ
+2. ཁྱད་པར
+3. བྱེད་པ
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. སྤྱིའི་མཚོན་ཚུལ
+2. བྱེ་བྲག་གི་མཚོན་ཚུལ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ལྔ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ
+2. སོ་སོའི་དོན་བཤད་པ
+3. སྤྱིའི་གྲངས་བསྡུ་བ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མདོར་བསྟན
+2. རྒྱས་བཤད
+
+SECTION_TITLE: དང་པོ་ལ་གཉིས་ཀྱི་དང་པོ་རྩ་བ
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད
+ITEMS:
+1. ཤེས་པ
+2. ཁྱད་པར
+3. བྱེད་པ
+4. ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. གཞི་ཤེས
+2. ལམ་ཤེས
+3. རྣམ་མཁྱེན་སྦྱོར་བའི་མཚན་ཉིད
+
+SECTION_TITLE: དང་པོ་ལ་གསུམ་གྱི་དང་པོ་སྤྱི་དང་བྱེ་བྲག་གི་མཚམས་སྦྱར
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ལུང་དུ་མ་བསྟན་པའི་ལྟ་བ་བཅུ་བཞི
+ITEMS:
+1. སྔོན་གྱི་མཐའ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི
+2. ཕྱི་མའི་མཐའ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི
+3. མྱ་ངན་ལས་འདས་པ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི
+4. ལུས་སྲོག་ལ་བརྟེན་པའི་ལྟ་བ་གཉིས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. གང་ཟག་གི་བདག་དང་འཇིག་རྟེན་རྟག་པར་ལྟ་བ
+2. མི་རྟག་པར་ལྟ་བ
+3. གཉིས་ཀ་ཡིན་པར་ལྟ་བ
+4. གཉིས་ཀ་མ་ཡིན་པར་ལྟ་བ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཐའ་དང་ལྡན་པར་ལྟ་བ
+2. མཐའ་དང་མི་ལྡན་པར་ལྟ་བ
+3. གཉིས་ཀ་ཡིན་པར་ལྟ་བ
+4. གཉིས་ཀ་མ་ཡིན་པར་ལྟ་བ
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. གྲོལ་བའི་བདག་གྲོངས་ཕན་ཆད་འབྱུང་བར་ལྟ་བ
+2. མི་འབྱུང་བར་ལྟ་བ
+3. གཉིས་ཀ་ཡིན་པར་ལྟ་བ
+4. གཉིས་ཀ་མ་ཡིན་པར་ལྟ་བ
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ལུས་སྲོག་རྫས་གཅིག་ཏུ་ལྟ་བ
+2. རྫས་ཐ་དད་དུ་ལྟ་བ
+
+<!-- chunk 017 | lines 2126–2275 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ།
+2. སོ་སོའི་དོན་བཤད་པ།
+3. སྤྱིའི་གྲངས་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མདོར་བསྟན།
+2. རྒྱས་བཤད།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ།
+2. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད་
+ITEMS:
+1. ཤེས་པའི་མཚན་ཉིད།
+2. ཁྱད་པར་གྱི་མཚན་ཉིད།
+3. བྱེད་པའི་མཚན་ཉིད།
+4. ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. གཞི་ཤེས།
+2. ལམ་ཤེས།
+3. རྣམ་མཁྱེན་སྦྱོར་བའི་མཚན་ཉིད།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱི་དང་བྱེ་བྲག་གི་མཚམས་སྦྱར།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལུང་དུ་མ་བསྟན་པའི་ལྟ་བ་བཅུ་བཞི་
+ITEMS:
+1. སྔོན་གྱི་མཐའ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི།
+2. ཕྱི་མའི་མཐའ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི།
+3. མྱ་ངན་ལས་འདས་པ་ལ་བརྟེན་པའི་ལྟ་བ་བཞི།
+4. ལུས་སྲོག་ལ་བརྟེན་པའི་ལྟ་བ་གཉིས།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཁྱད་པར་གྱི་མཚན་ཉིད་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. མདོར་བསྟན།
+3. རྒྱས་བཤད།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩ་བ།
+2. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྒྱས་བཤད་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ།
+2. གང་ལས་ཁྱད་ཞུགས་པའི་ཡུལ་དངོས་སུ་མ་བསྟན་པའི་རྒྱུ་མཚན།
+
+SECTION_TITLE: སྡུག་བསྔལ་གྱི་ཡུལ་ཅན་བཞི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཀུན་འབྱུང་གི་ཡུལ་ཅན་བཞི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འགོག་པའི་ཡུལ་ཅན་བཞི་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བྱེད་པའི་མཚན་ཉིད་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཞི་ཤེས་སྦྱོར་བའི་བྱེད་པ་གསུམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལམ་ཤེས་པ་ཉིད་ཀྱི་སྦྱོར་བའི་བྱེད་པ་བདུན་
+ITEMS:
+1. སྐྱབས་ཀྱི་བྱེད་པ།
+2. གནས་ཀྱི་བྱེད་པ།
+3. དཔུང་གཉེན་གྱི་བྱེད་པ།
+4. གླིང་གི་བྱེད་པ།
+5. ཡོངས་འདྲེན་གྱི་བྱེད་པ།
+6. སེམས་ཅན་གྱི་དོན་ལྷུན་གྱིས་གྲུབ་པར་འཇུག་པའི་བྱེད་པ།
+7. དུས་མ་ཡིན་པར་ཡང་དག་པའི་མཐའ་མངོན་སུམ་དུ་མི་བྱེད་པའི་བྱེད་པ།
+
+SECTION_TITLE: བྱེད་པ་བཅུ་གཅིག་
+ITEMS:
+1. གཞི་ཤེས་སྦྱོར་བའི་བྱེད་པ་གསུམ།
+2. ལམ་ཤེས་པ་ཉིད་ཀྱི་སྦྱོར་བའི་བྱེད་པ་བདུན།
+3. རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་སྦྱོར་བའི་བྱེད་པ་གཅིག
+
+SECTION_TITLE: བཞི་པ་ངོ་བོ་ཉིད་ཀྱི་མཚན་ཉིད་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོར་བཤད་པ།
+2. དོན་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་གཞི་ཤེས་སྦྱོར་བའི་ངོ་བོ་ཉིད་
+ITEMS:
+1. འདོད་ཆགས་ལ་སོགས་པའི་ཉོན་མོངས་པ་སྤོང་བ།
+2. དེའི་རྟགས་ལུས་ཀྱི་གནས་ངན་ལེན་སྤོང་བ།
+3. དེའི་རྒྱུའི་མཚན་མ་ཚུལ་བཞིན་མ་ཡིན་པ་ཡིད་ལ་བྱེད་པ་ལ་སོགས་པ་སྤོང་བ།
+4. མི་མཐུན་པའི་ཕྱོགས་དང་གཉེན་པོ་བླང་དོར་གྱི་རྣམ་རྟོག་གིས་སྟོང་པ་ཉིད་ཀྱིས་ཁྱད་པར་དུ་བྱས་པའི་སྦྱོར་བ།
+
+SECTION_TITLE: ལམ་ཤེས་སྦྱོར་བའི་ངོ་བོ་ཉིད་ལྔ་
+ITEMS:
+1. མྱ་ངན་ལས་འདའ་བར་དཀའ་བ་སྒྲུབ་པའི་སྦྱོར་བ།
+2. མཐའ་གཅིག་ཏུ་སངས་རྒྱ་བར་ངེས་པ་སྒྲུབ་པའི་སྦྱོར་བ།
+3. བྱ་བ་ཆེན་པོ་གསུམ་སྒྲུབ་པའི་སྦྱོར་བ།
+4. བསྒོམ་པར་བྱ་བ་དང་སྒོམ་པ་པོ་དོན་དམ་པར་མི་དམིགས་པར་རྟོགས་པའི་སྦྱོར་བ།
+5. བདེན་པའི་དངོས་པོར་མངོན་པར་ཞེན་པ་མཐའ་དག་བཀག་པའི་སྦྱོར་བ།
+
+SECTION_TITLE: རྣམ་པ་ཐམས་ཅད་མཁྱེན་པ་ཉིད་ཀྱི་སྦྱོར་བའི་ངོ་བོ་ཉིད་བདུན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གྲངས་བསྡུ་བ་
+ITEMS:
+1. ཤེས་མཚན་ཞེ་བརྒྱད།
+2. ཁྱད་པར་བཅུ་དྲུག
+3. བྱེད་པ་བཅུ་གཅིག
+4. ངོ་བོ་ཉིད་བཅུ་དྲུག
+
+SECTION_TITLE: གཉིས་པ་ཐར་པ་ཆ་མཐུན་ནས་བཟུང་སྟེ་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་བཤད་པ་
+ITEMS:
+1. བསྐལ་པ་གྲངས་མེད་གསུམ་ནས་འཚང་རྒྱ་བའི་ལམ་གྱི་ཐོག་མ་བཤད་པའི་སྒོ་ནས་རྒྱན་གྱི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་ངོས་བཟུང་བ།
+2. རྒྱུད་སྨིན་བྱེད་ཀྱི་ལམ་སྐྱེ་བའི་རིམ་པ།
+3. དེ་ལ་བརྟེན་ནས་མངོན་རྟོགས་ཁྱད་པར་ཅན་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ལམ་སྤྱིའི་མཚན་ཉིད།
+2. ལམ་གྱི་ཆིངས་ལྔར་བསྡུས་ནས་དེ་ལ་མཁས་པའི་གདུལ་བྱ་ངོས་བཟུང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. ལམ་སྤྱིའི་ཆིངས་ལ་མཁས་པའི་ཚད།
+2. དེ་ལ་མཁས་པའི་རྒྱན་གྱི་གདུལ་བྱ་ངོས་བཟུང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཐེག་ཆེན་གྱི་འཇུག་སྒོ་སེམས་བསྐྱེད་དུ་བསྟན་པ།
+2. སྤྱོད་པ་ལ་སློབ་པའི་ཚུལ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཐེག་པ་ཆེན་པོ་ཐུན་མོང་མ་ཡིན་པའི་སྐྱབས་འགྲོ།
+2. དངོས་ཀྱི་དོན།
+
+SECTION_TITLE: གཉིས་པ་དངོས་ཀྱི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱོད་པ་སྤྱི་ལ་བསླབ་པ།
+2. ཕར་ཕྱིན་ཐ་མ་གཉིས་ལ་བསླབ་པ།
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བསམ་གཏན་གྱི་ཕར་ཕྱིན་ལ་བསླབ་པ།
+2. ཤེར་ཕྱིན་ལ་བསླབ་པ།
+
+SECTION_TITLE: གཉིས་པ་ཤེར་ཕྱིན་ལ་བསླབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱན་གྱི་ཆེད་དུ་བྱ་བའི་གདུལ་བྱ་
+ITEMS:
+1. བྱང་ཆུབ་སེམས་དཔའ་དབང་པོ་རྣོན་པོ།
+2. སེམས་དཔའ་དབང་པོ་རྟུལ་པོ།
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཡུལ་ལྔ་ལ་མཁས་པའི་ཁྱད་པར།
+2. དབང་པོ་རྣོ་རྟུལ་གྱིས་ལམ་བགྲོད་པའི་ཁྱད་པར།
+3. ཤུགས་ལ་འཕངས་པའི་དོན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས་ཀྱི་དོན།
+2. མངོན་པར་རྟོགས་པ་དྲུག་གི་གོ་རིམས་ལ་ལོག་པར་རྟོག་པ་དགག་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོར་བཤད་པ།
+2. དོན་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲོ་བ།
+2. རྩེ་མོ།
+3. བཟོད་པ།
+4. ཆོས་མཆོག
+
+SECTION_TITLE: གཉིས་པ་རྩེ་མོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཆོས་མཆོག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མི་འཐད་པའི་ཕྱོགས་སུན་དབྱུང་བ།
+2. ལེགས་པར་གནས་པའི་ཕྱོགས་བཞག་པ།
+3. འགལ་བ་སྤང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+<!-- chunk 018 | lines 2251–2400 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས་ཀྱི་དོན་
+2. མངོན་པར་རྟོགས་པ་དྲུག་གི་གོ་རིམས་ལ་ལོག་པར་རྟོག་པ་དགག་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོར་བཤད་པ་
+2. དོན་བསྡུ་བ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲོ་བ་
+2. རྩེ་མོ་
+3. བཟོད་པ་
+4. ཆོས་མཆོག་
+
+SECTION_TITLE: དང་པོ་དྲོ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩེ་མོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཆོས་མཆོག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མི་འཐད་པའི་ཕྱོགས་སུན་དབྱུང་བ་
+2. ལེགས་པར་གནས་པའི་ཕྱོགས་བཞག་པ་
+3. འགལ་བ་སྤང་བ་
+
+SECTION_TITLE: དང་པོ་མི་འཐད་པའི་ཕྱོགས་སུན་དབྱུང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལེགས་པར་གནས་པའི་ཕྱོགས་བཞག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགལ་བ་སྤང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེ་ལ་བརྟེན་ནས་མངོན་རྟོགས་ཁྱད་པར་ཅན་རྒྱུད་ལ་སྐྱེ་བའི་རིམ་པ་བཤད་པ་
+ITEMS:
+1. བླ་ན་མེད་པའི་བྱང་ཆུབ་ལས་ཕྱིར་མི་ལྡོག་པའི་རྟགས་བཤད་པ་
+2. སྐུ་གསུམ་སྒྲུབ་བྱེད་ཀྱི་ལམ་ཁྱད་པར་ཅན་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱིའི་དོན་
+2. ཡན་ལག་གི་དོན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཕྱིར་མི་ལྡོག་པའི་གང་ཟག་གི་དབྱེ་བ་
+2. ཕྱིར་མི་ལྡོག་པའི་དོན་
+3. རྟགས་ཀྱིས་དཔོག་པའི་ཚུལ་
+
+SECTION_TITLE: དང་པོ་ཕྱིར་མི་ལྡོག་པའི་གང་ཟག་གི་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཕྱིར་མི་ལྡོག་པའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རྟགས་ཀྱིས་དཔོག་པའི་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. མདོར་བསྟན།
+2. རྒྱས་བཤད།
+3. དོན་བསྡུ་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྦྱོར་ལམ་པ་ཕྱིར་མི་ལྡོག་པའི་རྟགས་
+2. མཐོང་ལམ་པ་ཕྱིར་མི་ལྡོག་པའི་རྟགས་
+3. སྒོམ་ལམ་པ་ཕྱིར་མི་ལྡོག་པའི་རྟགས་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མདོར་བསྟན།
+2. རྒྱས་བཤད།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྟགས་ཉི་ཤུ་པོ་
+ITEMS:
+1. དྲོད་ལ་གནས་པའི་རྟགས་རྣམ་པ་བཅུ་གཅིག་
+2. རྩེ་མོ་ལ་གནས་པའི་རྣམ་པ་དྲུག་
+3. བཟོད་པ་ལ་གནས་པའི་རྣམ་པ་གཉིས་
+4. ཆོས་མཆོག་ལ་གནས་པའི་རྣམ་པ་གཅིག་
+
+SECTION_TITLE: དྲོད་ལ་གནས་པའི་རྟགས་བཅུ་གཅིག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྩེ་མོའི་རྟགས་དྲུག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཟོད་པ་ལ་གནས་པའི་རྟགས་གཉིས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཆོས་མཆོག་ལ་གནས་པའི་རྟགས་གཅིག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐོང་ལམ་པ་ཕྱིར་མི་ལྡོག་གི་རྟགས་
+ITEMS:
+1. མདོར་བསྟན་པ་
+2. རྒྱས་པར་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. རྒྱས་པར་བཤད་པ་
+2. དོགས་པ་བཅད་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྡུག་བདེན་གྱི་སྐད་ཅིག་མའི་རྣམ་པ་
+2. ཀུན་འབྱུང་ལ་བརྟེན་པའི་རྣམ་པ་
+3. འགོག་པའི་སྐད་ཅིག་མ་
+4. ལམ་གྱི་སྐད་ཅིག་མ་
+
+SECTION_TITLE: དང་པོ་སྡུག་བདེན་གྱི་སྐད་ཅིག་མའི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀུན་འབྱུང་ལ་བརྟེན་པའི་རྣམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགོག་པའི་སྐད་ཅིག་མ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ལམ་གྱི་སྐད་ཅིག་མ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒོམ་ལམ་པ་ཕྱིར་མི་ལྡོག་གི་རྟགས་
+ITEMS:
+1. ཐེག་ཆེན་གྱི་སྒོམ་ལམ་རྒྱས་པར་བཤད་པ་
+2. ཕྱིར་མི་ལྡོག་པའི་རྟགས་ཀྱི་ཁྱད་པར་བཤད་པ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྒོམ་ལམ་གྱི་ཁྱད་ཆོས་
+2. ཁྱད་གཞི་སྒོམ་ལམ་
+3. སྒོམ་ལམ་གྱི་དབྱེ་བ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: གཉིས་པ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དབྱེ་བ་དངོས་
+2. རྩོད་པ་སྤང་བ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲི་བ་
+2. ལན་
+
+SECTION_TITLE: དྲི་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གྲངས་ངེས་ལ་རྩོད་སྤང་
+2. བྱེད་པ་ལ་རྩོད་པ་སྤང་བ་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩོད་པ་
+2. ལན་
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. རྩ་བ་
+2. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+1. དོན་དམ་ལ་ལྟོས་ཏེ་རྟགས་མ་གྲུབ་པ་
+2. ཀུན་རྫོབ་ལ་ཁྱབ་པ་མ་གྲུབ་པའི་ལན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དོན་དམ་ལ་ལྟོས་པའི་རྩོད་སྤང་
+2. ཐ་སྙད་ལ་ལྟོས་པའི་རྩོད་སྤང་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩོད་པ་
+2. ལན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཐ་སྙད་དུ་ཁྱབ་པ་མ་གྲུབ་པ་
+2. དོན་དམ་ལ་ལྟོས་ཏེ་འདོད་ལན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དཔེ་སྒྲུབ་པ་
+2. དོན་ལ་སྦྱར་བ་
+
+SECTION_TITLE: དང་པོ་དཔེ་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་ལ་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩོད་པ་
+2. ལན་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. མཚམས་སྦྱར་བ་
+2. རྩ་བ་
+3. འགྲེལ་པ་
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. རྩོད་པའི་ལན་དངོས་
+2. དེས་གཞན་ཡང་མཚོན་ཚུལ་
+
+<!-- chunk 019 | lines 2376–2525 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དོན་དམ་ལ་ལྟོས་པའི་རྩོད་སྤང་
+2. ཐ་སྙད་ལ་ལྟོས་པའི་རྩོད་སྤང་
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཐ་སྙད་དུ་ཁྱབ་པ་མ་གྲུབ་པ
+2. དོན་དམ་ལ་ལྟོས་ཏེ་འདོད་ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དཔེ་སྒྲུབ་པ
+2. དོན་ལ་སྦྱར་བ
+
+SECTION_TITLE: དང་པོ་དཔེ་སྒྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་ལ་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. རྩོད་པའི་ལན་དངོས
+2. དེས་གཞན་ཡང་མཚོན་ཚུལ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དཔེ་བསྒྲུབ་པ
+2. དཔེ་དོན་སྦྱར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ལྟོས་མེད་དུ་མི་སྲེག
+2. ལྟོས་ནས་སྲེག་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྐད་ཅིག་དང་པོས་ལྟོས་མེད་དུ་མི་སྲེག་པ
+2. སྐད་ཅིག་གཉིས་པས་ལྟོས་མེད་དུ་མི་སྲེག་པ
+
+SECTION_TITLE: གཉིས་པ་སྐད་ཅིག་གཉིས་པས་ལྟོས་མེད་དུ་མི་སྲེག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལྟོས་ནས་སྲེག་པའི་དཔེ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. ཟབ་མོའི་ངོ་བོ
+2. དེ་རྟོགས་པ་རྟགས་སུ་འགྱུར་ཚུལ
+
+SECTION_TITLE: དང་པོ་ཟབ་མོའི་ངོ་བོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་རྟོགས་པ་རྟགས་སུ་འགྱུར་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཆོས་སྐུའི་རྒྱུ་སྲིད་ཞི་མཉམ་ཉིད་ཀྱི་སྦྱོར་བ
+2. ལོངས་སྐུའི་རྒྱུ་ཞིང་དག་པའི་སྦྱོར་བ
+3. སྤྲུལ་སྐུའི་རྒྱུ་ཐབས་ལ་མཁས་པའི་སྦྱོར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས་ཀྱི་དོན
+2. ཀླན་ཀ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་དངོས་ཀྱི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཀླན་ཀ་སྤང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: འདི་ལ་
+ITEMS:
+1. ཉིན་པར་ཡང་ལས་གསོག་པ་མི་འཐད་པར་ཐལ་བ་སྤང་བ
+2. རྨི་ལམ་ན་ལས་ལམ་ཡོངས་སུ་རྫོགས་པར་ཐལ་བ་སྤང་བ
+3. ལུང་དང་འགལ་བ་སྤང་བ
+4. ཧ་ཅང་ཐལ་བ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཀླན་ཀ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩོད་པ
+2. ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རབ་འབྱོར་གྱིས་རྩོད་པའི་སྐབས་དབྱེ་བ
+2. ཤཱ་རིའི་བུས་རྩོད་པ་དངོས
+
+SECTION_TITLE: གཉིས་པ་ཤཱ་རིའི་བུས་རྩོད་པ་དངོས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཀླན་ཀ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ཀླན་ཀ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རབ་འབྱོར་རང་ཉིད་ཀྱི་ལན་དོན་གྱིས་བཏབ་ཟིན་པ
+2. བྱམས་པ་ལ་ཁ་འཕངས་པ
+
+SECTION_TITLE: དང་པོ་རབ་འབྱོར་རང་ཉིད་ཀྱི་ལན་དོན་གྱིས་བཏབ་ཟིན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བྱམས་པ་ལ་ཁ་འཕངས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. དངོས་ཀྱི་དོན
+2. ཀླན་ཀ་སྤང་བ
+3. དེས་གྲུབ་པའི་དོན
+
+SECTION_TITLE: དང་པོ་དངོས་ཀྱི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཀླན་ཀ
+2. ལན
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. ཁྱབ་པ་མ་ངེས་པའི་ལན
+2. དཔེ་མ་གྲུབ་པའི་ལན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཉན་ཐོས་རང་ལ་གྲགས་པའི་ཁྱབ་པ་མ་ངེས་པ་དཔེར་བཀོད་པ
+2. དེ་དབུ་མ་པ་ལ་ཡང་མཚུངས་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བློ་དོན་དམ་པའི་ངོར་གསད་བྱ་གསོད་བྱེད་མ་གྲུབ་པར་རང་ཉིད་ཀྱིས་ཁས་བླངས་པ
+2. བློ་ཀུན་རྫོབ་པ་རྟོག་པའི་ཡུལ་དུ་གྲུབ་པར་ཡང་རང་ཉིད་ཀྱིས་ཁས་བླངས་པ
+
+SECTION_TITLE: དང་པོ་བློ་དོན་དམ་པའི་ངོར་གསད་བྱ་གསོད་བྱེད་མ་གྲུབ་པར་ཁས་བླངས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བློ་ཀུན་རྫོབ་པ་རྟོག་པའི་ཡུལ་དུ་གྲུབ་པར་ཁས་བླངས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་དབུ་མ་པ་ལ་ཡང་མཚུངས་པར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དབུ་མ་པ་ལ་དཔེ་མ་གྲུབ
+2. དོན་སྨྲ་བ་ལ་དཔེ་མ་གྲུབ་པ
+
+SECTION_TITLE: དང་པོ་དབུ་མ་པ་ལ་དཔེ་མ་གྲུབ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་སྨྲ་བ་ལ་དཔེ་མ་གྲུབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེས་གྲུབ་པའི་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལོངས་སྐུའི་རྒྱུ་ཞིང་དག་པའི་སྦྱོར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྤྲུལ་སྐུའི་རྒྱུ་ཐབས་མཁས་སྦྱོར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབང་དུ་བྱ་བའི་འབྲས་བུ་རྩེ་མོའི་སྦྱོར་བ་
+ITEMS:
+1. འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྦྱོར་ལམ་རྩེ་མོ
+2. མཐོང་ལམ
+3. སྒོམ་ལམ
+4. བར་ཆད་མེད་པའི་རྩེ་མོ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སོ་སོའི་ངོ་བོ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. དྲོད་ཀྱི་རྩེ་སྦྱོར
+2. རྩེ་མོ
+3. བཟོད་པ
+4. ཆོས་མཆོག་རྩེ་སྦྱོར
+
+SECTION_TITLE: དང་པོ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩེ་མོའི་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱོར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པའི་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པའི་རྩེ་སྦྱོར་དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཆོས་མཆོག་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐོང་ལམ་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. སྤང་གཉེན་སོ་སོའི་དོན་བཤད་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤང་བྱ་རྟོག་པ
+2. དེའི་གཉེན་པོ
+
+<!-- chunk 020 | lines 2501–2650 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གསུམ་པ་བཟོད་པའི་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཆོས་མཆོག་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐོང་ལམ་རྩེ་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. སྤང་གཉེན་སོ་སོའི་དོན་བཤད་པ
+
+SECTION_TITLE: གཉིས་པ་སྤང་གཉེན་སོ་སོའི་དོན་བཤད་པ་
+ITEMS:
+1. སྤང་བྱ་རྟོག་པ
+2. དེའི་གཉེན་པོ
+
+SECTION_TITLE: དང་པོ་སྤང་བྱ་རྟོག་པ་
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་མདོར་བསྟན་པ་
+ITEMS:
+1. གཟུང་རྟོག་མདོར་བསྟན
+2. འཛིན་རྟོག་མདོར་བསྟན
+
+SECTION_TITLE: དང་པོ་གཟུང་རྟོག་མདོར་བསྟན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཛིན་རྟོག་མདོར་བསྟན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྒྱས་བཤད་
+ITEMS:
+1. གཟུང་རྟོག་རྒྱས་བཤད
+2. འཛིན་རྟོག་རྒྱས་བཤད
+
+SECTION_TITLE: དང་པོ་གཟུང་རྟོག་རྒྱས་བཤད་
+ITEMS:
+1. འཇུག་པ་གཟུང་རྟོག
+2. ལྡོག་པ་གཟུང་རྟོག
+
+SECTION_TITLE: དང་པོ་འཇུག་པ་གཟུང་རྟོག་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དགུ་པོ་འཇུག་བྱ་
+ITEMS:
+1. སྤྱི
+2. ཁྱད་པར
+
+SECTION_TITLE: དང་པོ་སྤྱི
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཁྱད་པར་
+ITEMS:
+1. ལམ་གྱི་རྒྱུ
+2. ངོ་བོ
+3. འབྲས་བུ
+
+SECTION_TITLE: གཉིས་པ་ངོ་བོ་
+ITEMS:
+1. ལམ་དངོས
+2. ལམ་གྱི་དམིགས་པ
+3. སྤང་བྱ་འཇོམས་པའི་ནུས་པ
+
+SECTION_TITLE: གསུམ་པ་སྤང་བྱ་འཇོམས་པའི་ནུས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འབྲས་བུ་
+ITEMS:
+1. རང་དོན
+2. གཞན་དོན
+
+SECTION_TITLE: གཉིས་པ་གཞན་དོན་
+ITEMS:
+1. གཞན་དོན་བྱེད་པའི་ནུས་པ
+2. ལས
+3. འབྲས་བུ
+
+SECTION_TITLE: གཉིས་པ་ལས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལྡོག་པ་གཟུང་རྟོག་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དགུ་པོ་
+ITEMS:
+1. ཉན་རང་གི་ལམ་འབྲས་རྟོགས་པ་དམན་པ
+2. བདག་རྐྱེན་ཡོངས་འཛིན་དམན་པ
+3. དོན་གཉིས་སྒྲུབ་པའི་ཐབས་དམན་པ
+4. སྤངས་རྟོགས་ཁྱད་པར་ཅན་ལས་ཉམས་པ
+5. ལམ་འབྲས་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ
+
+SECTION_TITLE: དང་པོ་ཉན་རང་གི་ལམ་འབྲས་རྟོགས་པ་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བདག་རྐྱེན་ཡོངས་འཛིན་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་གཉིས་སྒྲུབ་པའི་ཐབས་དམན་པ་
+ITEMS:
+1. གཞན་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ
+2. རང་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ
+3. གཉིས་ཀའི་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ
+
+SECTION_TITLE: དང་པོ་གཞན་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རང་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གཉིས་ཀའི་དོན་སྒྲུབ་པའི་ཐབས་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་སྤངས་རྟོགས་ཁྱད་པར་ཅན་ལས་ཉམས་པ་
+ITEMS:
+1. སྤངས་པ་དམན་པ
+2. རྟོགས་པ་དམན་པ
+
+SECTION_TITLE: གཉིས་པ་རྟོགས་པ་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་ལམ་འབྲས་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ་
+ITEMS:
+1. ལམ་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ
+2. འབྲས་བུ་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ
+
+SECTION_TITLE: དང་པོ་ལམ་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འབྲས་བུ་ཁྱད་པར་ཅན་མ་ཐོབ་པས་ཉམས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཛིན་རྟོག་རྒྱས་བཤད་
+ITEMS:
+1. རྫས་འཛིན་རྟོག་པ
+2. བཏགས་འཛིན་རྟོག་པ
+
+SECTION_TITLE: དང་པོ་རྫས་འཛིན་རྟོག་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དགུ་གང་ཞེ་ན།
+ITEMS:
+1. རྣམ་མཁྱེན་གྱི་རྒྱུ་ལས་ཉམས་པ
+2. འབྲས་བུ་རྣམ་མཁྱེན་ལས་ཉམས་པ
+
+SECTION_TITLE: དང་པོ་རྣམ་མཁྱེན་གྱི་རྒྱུ་ལས་ཉམས་པ་
+ITEMS:
+1. སྤྱོད་པ་ལ་ཞེན་པ
+2. ཤེས་བྱ་ལ་ཞེན་པ
+3. སྤང་གཉེན་ལ་ཞེན་པ
+
+SECTION_TITLE: དང་པོ་སྤྱོད་པ་ལ་ཞེན་པ་
+ITEMS:
+1. བླང་དོར་དུ་ཞེན་པ
+2. དེའི་ཀུན་སློང་བདེན་པར་ཡིད་ལ་བྱེད་པ
+3. དེའི་ཉེས་དམིགས
+
+SECTION_TITLE: དང་པོ་བླང་དོར་དུ་ཞེན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེའི་ཀུན་སློང་བདེན་པར་ཡིད་ལ་བྱེད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དེའི་ཉེས་དམིགས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཤེས་བྱ་ལ་ཞེན་པ་
+ITEMS:
+1. དངོས་པོ་ལ་བདེན་པར་ཞེན་པ
+2. བདེན་མེད་དུ་ཞེན་པ
+3. བཏགས་པ་ཙམ་དུ་ཞེན་པ
+
+SECTION_TITLE: གསུམ་པ་བཏགས་པ་ཙམ་དུ་ཞེན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྤང་གཉེན་ལ་ཞེན་པ་
+ITEMS:
+1. མི་མཐུན་ཕྱོགས་ལ་ཞེན་པ
+2. གཉེན་པོ་ལ་ཞེན་པ
+
+SECTION_TITLE: དང་པོ་མི་མཐུན་ཕྱོགས་ལ་ཞེན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཉེན་པོ་ལ་ཞེན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བཏགས་འཛིན་རྟོག་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དགུ་གང་ཞེ་ན།
+ITEMS:
+1. འབྲས་བུ་འདོད་པ་བཞིན་མི་ཐོབ་པ
+2. ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ
+3. ཡང་དག་པའི་ལམ་དང་འགལ་བ
+
+SECTION_TITLE: དང་པོ་འབྲས་བུ་འདོད་པ་བཞིན་མི་ཐོབ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་
+ITEMS:
+1. ལམ་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ
+2. ཤེས་བྱ་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ
+
+SECTION_TITLE: དང་པོ་ལམ་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཤེས་བྱ་ལ་ཕྱིན་ཅི་ལོག་ཏུ་ཞེན་པ་
+ITEMS:
+1. དགག་སྒྲུབ་བདེན་པར་འཛིན་པ
+2. ཆོས་ལྡན་མི་ལྡན་བདེན་པར་འཛིན་པ
+3. གནས་ལུགས་ཀྱི་དོན་བདེན་པར་འཛིན་པ
+
+SECTION_TITLE: དང་པོ་དགག་སྒྲུབ་བདེན་པར་འཛིན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་ལྡན་མི་ལྡན་བདེན་པར་འཛིན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གནས་ལུགས་ཀྱི་དོན་བདེན་པར་འཛིན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཡང་དག་པའི་ལམ་དང་འགལ་བ་
+ITEMS:
+1. དམན་པའི་རིགས་ཉམས་པ
+2. མཐུན་རྐྱེན་མ་ཚང་བ
+3. འགལ་རྐྱེན་གྱིས་ཟིན་པ
+
+SECTION_TITLE: དང་པོ་དམན་པའི་རིགས་ཉམས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐུན་རྐྱེན་མ་ཚང་བ་
+ITEMS:
+1. འབྲས་བུ་ཁྱད་པར་ཅན་ལ་དོན་གཉེར་མེད་པ
+2. དེའི་རྒྱུ་ཤེར་ཕྱིན་མེད་པ
+
+SECTION_TITLE: གཉིས་པ་དེའི་རྒྱུ་ཤེར་ཕྱིན་མེད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགལ་རྐྱེན་གྱིས་ཟིན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྤང་བྱ་རྣམ་རྟོག་ལ་ཡུལ་གྱི་སྒོ་ནས་མུ་བཞི་
+ITEMS:
+1. གཟུང་རྟོག་ཡིན་ལ་འཛིན་རྟོག་མ་ཡིན་པ
+2. འཛིན་རྟོག་ཡིན་ལ་གཟུང་རྟོག་མ་ཡིན་པ
+3. གཟུང་འཛིན་གཉིས་ཀ་ཡིན་པའི་མུ
+4. གཉིས་ཀ་མ་ཡིན་པ
+
+SECTION_TITLE: གཉིས་པ་གཉེན་པོ་
+ITEMS:
+1. མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་རྒྱུ
+2. མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་འབྲས་བུ་བྱང་ཆུབ་ཆེན་པོ
+3. མཐོང་ལམ་རྩེ་སྦྱོར་རང་གི་ངོ་བོ
+
+SECTION_TITLE: དང་པོ་མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་རྒྱུ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བྱང་ཆུབ་ལ་འགོད་པ
+2. དེའི་རྒྱུ་ལ་འགོད་པ
+3. རང་ཉིད་བར་ཆད་མེད་པའི་རྒྱུ་སྒོམ་པ
+
+SECTION_TITLE: དང་པོ་བྱང་ཆུབ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེའི་རྒྱུ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་རང་ཉིད་བར་ཆད་མེད་པའི་རྒྱུ་སྒོམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་འབྲས་བུ་བྱང་ཆུབ་ཆེན་པོ་
+ITEMS:
+1. རང་ལུགས་ཀྱི་བྱང་ཆེན་ངོས་བཟུང་བ
+2. དངོས་པོ་བདེན་པར་ཁས་ལེན་པ་ལ་དེ་མི་འཐད་པ
+3. མཐར་ཐུག་གི་བྱང་ཆེན་ཐོབ་པར་འདོད་པས་ཆོས་ཐམས་ཅད་བདེན་སྟོང་དུ་ཁས་བླང་དགོས་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་རང་ལུགས་ཀྱི་བྱང་ཆེན་ངོས་བཟུང་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དངོས་པོ་བདེན་པར་ཁས་ལེན་པ་ལ་དེ་མི་འཐད་པ་
+ITEMS:
+1. རིགས་པ་དང་འགལ་བས་དགག་པ
+2. ཁས་བླངས་དང་འགལ་བས་དགག་པ
+
+SECTION_TITLE: དང་པོ་རིགས་པ་དང་འགལ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཁས་བླངས་དང་འགལ་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སྤྱིའི་རྣམ་པར་བཞག་པ
+2. ཚིག་གི་དོན
+
+SECTION_TITLE: དང་པོ་སྤྱིའི་རྣམ་པར་བཞག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཚིག་གི་དོན་
+ITEMS:
+1. སྙིང་པོའི་དོན་སྒོམ་པའི་རིམ་པ
+2. རྩ་བའི་ཚིག་དོན་ཙམ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་སྙིང་པོའི་དོན་སྒོམ་པའི་རིམ་པ་
+ITEMS:
+1. གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣལ་འབྱོར་གྱི་ས
+2. གཟུང་འཛིན་རྫས་ཐ་དད་ཀྱིས་སྟོང་པར་རྟོགས་པའི་རྣལ་འབྱོར་གྱི་ས
+3. ཆོས་ཐམས་ཅད་བདེན་སྟོང་དུ་རྟོགས་པ་རྣལ་འབྱོར་གྱི་ས
+
+SECTION_TITLE: དང་པོ་གང་ཟག་གི་བདག་མེད་རྟོགས་པའི་རྣལ་འབྱོར་གྱི་ས་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ
+2. སྒོམ་བྱུང་གི་རྣལ་འབྱོར
+3. སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: དང་པོ་བསམ་བྱུང་གི་རིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒོམ་བྱུང་གི་རྣལ་འབྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒོམ་པའི་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཟུང་འཛིན་རྫས་ཐ་དད་ཀྱིས་སྟོང་པར་རྟོགས་པའི་རྣལ་འབྱོར་གྱི་ས་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ་ལ་བརྟེན་ནས་མཉམ་གཞག་ཏུ་སྒོམ་པའི་རིམ་པ
+2. རྗེས་ཐོབ་ཏུ་ཡིད་ལ་བྱ་བའི་རིམ་པ
+
+SECTION_TITLE: དང་པོ་བསམ་བྱུང་གི་རིགས་པ་ལ་བརྟེན་ནས་མཉམ་གཞག་ཏུ་སྒོམ་པའི་རིམ་པ་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ
+2. སྒོམ་བྱུང་གི་རྣལ་འབྱོར
+3. སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: གཉིས་པ་སྒོམ་བྱུང་གི་རྣལ་འབྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒོམ་པའི་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྗེས་ཐོབ་ཏུ་ཡིད་ལ་བྱ་བའི་རིམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཆོས་ཐམས་ཅད་བདེན་སྟོང་དུ་རྟོགས་པ་རྣལ་འབྱོར་གྱི་ས་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ
+2. སྒོམ་བྱུང་གི་རྣལ་འབྱོར
+3. སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: དང་པོ་བསམ་བྱུང་གི་རིགས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྒོམ་བྱུང་གི་རྣལ་འབྱོར་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒོམ་པའི་འབྲས་བུ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཚིག་གི་དོན་ཙམ་བཤད་པ་
+ITEMS:
+1. སྒྲིབ་པ་དོན་དམ་དུ་ཡོད་པ་ལ་གནོད་བྱེད་བསྟན་པ
+2. དེ་ཁས་ལེན་པ་དང་ཤེས་སྒྲིབ་ཀྱི་ས་བོན་སྤོང་ནུས་པར་འདོད་པ་ཁས་བླངས་འགལ་བ
+
+SECTION_TITLE: དང་པོ་སྒྲིབ་པ་དོན་དམ་དུ་ཡོད་པ་ལ་གནོད་བྱེད་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དེ་ཁས་ལེན་པ་དང་ཤེས་སྒྲིབ་ཀྱི་ས་བོན་སྤོང་ནུས་པར་འདོད་པ་ཁས་བླངས་འགལ་བ་
+ITEMS:
+[implicit]
+
+<!-- chunk 021 | lines 2626–2775 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ་ལ་བརྟེན་ནས་མཉམ་གཞག་ཏུ་སྒོམ་པའི་རིམ་པ
+2. རྗེས་ཐོབ་ཏུ་ཡིད་ལ་བྱ་བའི་རིམ་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ
+2. སྒོམ་བྱུང་གི་རྣལ་འབྱོར
+3. སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. བསམ་བྱུང་གི་རིགས་པ
+2. སྒོམ་བྱུང་གི་རྣལ་འབྱོར
+3. སྒོམ་པའི་འབྲས་བུ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྒྲིབ་པ་དོན་དམ་དུ་ཡོད་པ་ལ་གནོད་བྱེད་བསྟན་པ
+2. དེ་ཁས་ལེན་པ་དང་ཤེས་སྒྲིབ་ཀྱི་ས་བོན་སྤོང་ནུས་པར་འདོད་པ་ཁས་བླངས་འགལ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. གཞི་དངོས་པོའི་གནས་ལུགས
+2. དེ་རྟོགས་པའི་ལྟ་བ
+3. ལྟ་བ་གོམས་པའི་འབྲས་བུ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཐོང་ལམ་རྩེ་སྦྱོར་གྱི་ངོ་བོ་
+ITEMS:
+1. དངོས
+2. སྤངས་པ་ལ་དབང་བྱེད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས
+2. དེའི་བྱེད་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. མཉམ་གཞག་གིས་བསྡུས་པའི་མཐོང་ལམ་རྩེ་སྦྱོར
+2. དེའི་རྗེས་ལ་ཐོབ་པའི་ཤེས་མཐོང་གིས་བལྟས་ནས་འདའ་བར་བྱ་བའི་མཐོང་ལམ་རྩེ་སྦྱོར
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྒོམ་ལམ་རྩེ་སྦྱོར་
+ITEMS:
+1. གཉེན་པོ་སྒོམ་ལམ
+2. སྤང་བྱ་རྟོག་པ
+3. གཉེན་པོས་སྤང་བྱ་སྤངས་པའི་ཕན་ཡོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. སྤྱིའི་རྣམ་གཞག
+2. ཚིག་དོན
+
+SECTION_TITLE: སྤྱིའི་རྣམ་གཞག་
+ITEMS:
+1. མདོ་ལས་བསྟན་ཚུལ
+2. བསྟན་བཅོས་ཀྱིས་བསྡུས་ཚུལ
+3. ཐོད་བརྒལ་གྱི་རང་བཞིན་བཤད་པ
+
+SECTION_TITLE: མདོ་ལས་བསྟན་ཚུལ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཐོད་བརྒལ་གྱི་རང་བཞིན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཚིག་དོན་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སྦྱོར་བ
+2. དངོས་གཞི
+3. མཇུག་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྤྱིའི་མཚམས་སྦྱར
+2. སོ་སོའི་ངོ་བོ
+3. དོན་བསྡུ་བ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. གཟུང་རྟོག
+2. འཛིན་རྟོག
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འཇུག་པ་གཟུང་རྟོག
+2. ལྡོག་པ་གཟུང་རྟོག
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལམ་གྱི་ཡོན་ཏན་གྱི་དབང་དུ་བྱས་པ་གསུམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལམ་གྱི་ངོ་བོའི་དབང་དུ་བྱས་པ་གསུམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཛིན་རྟོག་བཤད་པ་
+ITEMS:
+1. རྫས་འཛིན་རྟོག་པ
+2. བཏགས་འཛིན་རྟོག་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཤེས་བྱའི་དབང་དུ་བྱས་པ་གསུམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྟ་བའི་དབང་དུ་བྱས་པ་གཉིས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྤྱོད་པའི་དབང་དུ་བྱས་པ་གཉིས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བཏགས་འཛིན་རྟོག་པ་བཤད་པ་
+ITEMS:
+1. མདོར་བསྟན་པ
+2. རྒྱས་པར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: མཁྱེན་གསུམ་གྱི་དམིགས་པ་ལ་ཀུན་ཏུ་རྨོངས་པ་གསུམ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལམ་གྱི་ངོ་བོ་ལ་རྨོངས་པའི་དབང་དུ་བྱས་པ་གཅིག་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལམ་གྱི་དམིགས་པ་ལ་རྨོངས་པ་གཉིས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཀུན་རྨོངས་དགུ་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ། སྤང་བྱ་སྤངས་པས་ཐོབ་པའི་ཡོན་ཏན་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་བར་ཆད་མེད་པའི་རྩེ་སྦྱོར་
+ITEMS:
+1. དངོས
+2. ལོག་རྟོག་བསལ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསོད་ནམས་མང་པོས་མཚོན་ཏེ་བསྟན་པ
+2. དམིགས་རྣམ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས
+2. གནས་འདི་ཟབ་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལོག་པར་རྟོག་པ་བཅུ་དྲུག་
+ITEMS:
+1. ལམ་སྒོམ་པའི་དམིགས་རྣམ་ལ་ལོག་པར་རྟོག་པ་གཉིས
+2. སྒོམ་པའི་འབྲས་བུ་ལ་ལོག་པར་རྟོག་པ་གཅིག
+3. གཞིའི་གནས་ལུགས་ཀུན་རྫོབ་དང་དོན་དམ་བདེན་པ་མི་འཐད་པར་རྩོད་པ་གཉིས
+4. སྤྱོད་པ་མི་འཐད་པར་ཐལ་བ་གཅིག
+5. སྤྱོད་པའི་རྟེན་སྐྱབས་འགྲོ་ཡུལ་དང་བཅས་པ་མི་འཐད་པར་ཐལ་བ་གསུམ
+6. སྤྱོད་པའི་ཁྱད་པར་མི་འཐད་པར་ཐལ་བ་གཅིག
+7. མངོན་རྟོགས་དང་དེའི་སྤང་བྱ་མི་འཐད་པར་ཐལ་བ་གཉིས
+8. ལམ་གྱི་ངོ་བོ་མི་འཐད་པར་ཐལ་བ་གཅིག
+9. སྤང་གཉེན་གྱི་དབྱེ་བ་མི་འཐད་པར་ཐལ་བ་གཅིག
+10. བསྒོམ་བྱ་རང་སྤྱིའི་མཚན་ཉིད་མི་འཐད་པར་ཐལ་བ་གཅིག
+11. དེ་བསྒོམ་པ་མི་འཐད་པར་ཐལ་བ་གཅིག
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བསལ་བྱ་ལོག་རྟོག་ངོས་བཟུང་བ
+2. དེ་བསལ་ནས་བར་ཆད་མེད་པའི་རྩེ་སྦྱོར་བསྐྱེད་པར་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལོག་པར་རྟོག་པ་བཅུ་དྲུག་
+ITEMS:
+1. དམིགས་པ་ལ་ལོག་པར་རྟོག་པ
+
+<!-- chunk 022 | lines 2751–2900 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: བཞི་པ་བར་ཆད་མེད་པའི་རྩེ་སྦྱོར་
+ITEMS:
+1. དངོས་
+2. ལོག་རྟོག་བསལ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསོད་ནམས་མང་པོས་མཚོན་ཏེ་བསྟན་པ
+2. དམིགས་རྣམ་བཤད་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ
+2. ལན
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས་
+2. གནས་འདི་ཟབ་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བསལ་བྱ་ལོག་རྟོག་ངོས་བཟུང་བ
+2. དེ་བསལ་ནས་བར་ཆད་མེད་པའི་རྩེ་སྦྱོར་བསྐྱེད་པར་གདམས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བརྟན་པ་རྒྱུ་འབྲས་
+ITEMS:
+1. བརྟན་པ་ཐོབ་དོན་དུ་བསྒོམ་པ་མཐར་གྱིས་སྦྱོར
+2. བརྟན་པ་ཐོབ་པ་སྐད་ཅིག་མའི་སྦྱོར་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. རྩ་བ
+2. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བརྟན་པ་ཐོབ་པ་སྐད་ཅིག་མའི་སྦྱོར་བ་
+ITEMS:
+1. འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྐད་ཅིག་སྦྱོར་བཞི་
+ITEMS:
+1. རྣམ་སྨིན་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར
+2. རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར
+3. མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར
+4. གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར
+
+SECTION_TITLE: དང་པོ་རྣམ་སྨིན་མ་ཡིན་པའི་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+1. དངོས་
+2. དེ་མཚོན་བྱེད་ཀྱི་དཔེ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྣམ་པར་སྨིན་པའི་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཚན་ཉིད་མེད་པའི་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་གཉིས་སུ་མེད་པའི་སྐད་ཅིག་སྦྱོར་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ཆོས་སྐུ་རྒྱས་པར་བཤད་པ་
+ITEMS:
+1. འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ
+2. ལེའུའི་གཞུང་བཤད་པ
+3. སྐབས་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་འབྲེལ་བཀོད་པས་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ཆོས་ཀྱི་སྐུ་བཞི་
+ITEMS:
+1. ངོ་བོ་ཉིད་ཀྱི་སྐུ
+2. ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ
+3. ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ
+4. མཆོག་གི་སྤྲུལ་པའི་སྐུ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྐུའི་རྣམ་གཞག
+2. མཛད་པ་འཕྲིན་ལས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྤྱིའི་དོན
+2. ཡན་ལག་གི་དོན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲས་བུ་འགྲུབ་པའི་དུས་མཚམས
+2. སྐུ་གསུམ་གྱི་ངོ་བོ་ངོས་བཟུང་བ
+3. དེ་ལ་ལོག་པར་རྟོགས་པ་བསལ་བ
+
+SECTION_TITLE: དང་པོ་འབྲས་བུ་འགྲུབ་པའི་དུས་མཚམས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྐུ་གསུམ་གྱི་ངོ་བོ་ངོས་བཟུང་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ལོག་པར་རྟོགས་པ་བསལ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡན་ལག་གི་དོན་
+ITEMS:
+1. ངོ་བོ་ཉིད་ཀྱི་སྐུ
+2. ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ
+3. ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ
+4. མཆོག་གི་སྤྲུལ་པའི་སྐུ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དངོས་
+2. ཆོས་ཅན་གྱི་སྐུ་གསུམ་ཆོས་ཉིད་ཀྱི་སྐུ་ལས་ཐ་དད་དུ་བཞག་པའི་དགོས་པ
+
+SECTION_TITLE: དང་པོ་དངོས་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཆོས་ཅན་གྱི་སྐུ་གསུམ་ཆོས་ཉིད་ཀྱི་སྐུ་ལས་ཐ་དད་དུ་བཞག་པའི་དགོས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ་
+ITEMS:
+1. དངོས་ཀྱི་དོན
+2. དེའི་ཁྱད་པར་བཤད་པ
+3. དེ་ལ་རྩོད་པ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ་སྐུ་གསུམ་ལས་ཐ་དད་དུ་བསྟན་པ
+2. ཐ་དད་དུ་མི་འདོད་པ་དགག་པ
+3. ཐ་དད་དུ་འདོད་པ་ལ་རྩོད་པ་སྤང་བ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དབྱེ་བ
+2. དེ་དག་ཡེ་ཤེས་ཆོས་སྐུར་བཞག་པ
+
+SECTION_TITLE: དང་པོ་དབྱེ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྡེ་ཚན་གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྡེ་ཚན་བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: སྡེ་ཚན་ལྔ་པ་ཟད་པར་
+ITEMS:
+1. དངོས་ཀྱི་དོན
+2. རྣམ་ཐར
+3. ཟིལ་གནོན
+4. ཟད་པར་གསུམ་གྱི་ཁྱད་པར
+
+SECTION_TITLE: གཉིས་པ་རྣམ་ཐར་དང་ཟིལ་གནོན་དང་ཟད་པར་
+ITEMS:
+[implicit]
+
+<!-- chunk 023 | lines 2876–3025 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ་
+ITEMS:
+1. དངོས་ཀྱི་དོན།
+2. དེའི་ཁྱད་པར་བཤད་པ།
+3. དེ་ལ་རྩོད་པ་སྤང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཡེ་ཤེས་ཆོས་ཀྱི་སྐུ་སྐུ་གསུམ་ལས་ཐ་དད་དུ་བསྟན་པ།
+2. ཐ་དད་དུ་མི་འདོད་པ་དགག་པ།
+3. ཐ་དད་དུ་འདོད་པ་ལ་རྩོད་པ་སྤང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. དབྱེ་བ།
+2. དེ་དག་ཡེ་ཤེས་ཆོས་སྐུར་བཞག་པ།
+
+SECTION_TITLE: དང་པོ་དབྱེ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྡེ་ཚན་གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྡེ་ཚན་བཞི་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྡེ་ཚན་ལྔ་པ་ཟད་པར་
+ITEMS:
+1. དངོས་ཀྱི་དོན།
+2. རྣམ་ཐར། ཟིལ་གནོན། ཟད་པར་གསུམ་གྱི་ཁྱད་པར།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ངོ་བོ།
+2. དབྱེ་བ།
+3. སེམས་ཀྱི་རྟེན།
+4. སྦྱོང་ཚུལ།
+5. བྱེད་ལས།
+6. ཟད་པར་གྱི་མིང་དོན།
+
+SECTION_TITLE: སེམས་ཀྱི་རྟེན་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྦྱོང་ཚུལ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བྱེད་ལས་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ཟད་པར་གྱི་མིང་དོན་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: སྡེ་ཚན་དྲུག་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བདུན་པ་ཉོན་མོངས་མེད་པའི་ཏིང་ངེ་འཛིན་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བརྒྱད་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: དགུ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་གཅིག་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་བཞི་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅོ་ལྔ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་དྲུག་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་བདུན་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅོ་བརྒྱད་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་དགུ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ཉི་ཤུ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: ཉེར་གཅིག་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྔར་གྱི་ཚིགས་བཅད་སྔ་ཕྱི་གཉིས་ཀ་ངོ་བོ་ཉིད་ཀྱི་སྐུ་སྟོན་པའི་བསྟན་བཤད་དུ་འདོད་པའི་ལུགས་བརྗོད་པ།
+2. སྐུ་མི་འདྲ་བ་གཉིས་སོ་སོར་བསྟན་ཡང་ཚིག་དོན་ལ་མ་ཞུགས་པའི་ཉེས་པ་མེད་པའི་བཞེད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. རྩོད་པ།
+2. ལན།
+
+SECTION_TITLE: དང་པོ་རྩོད་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་དེའི་ཁྱད་པར་བཤད་པ་
+ITEMS:
+1. ཉོན་མོངས་མེད་པའི་ཏིང་ངེ་འཛིན།
+2. སྨོན་གནས་མཁྱེན་པའི་ཏིང་ངེ་འཛིན།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་དེ་ལ་རྩོད་པ་སྤང་བ་
+ITEMS:
+1. ཆོས་སྐུ་རྟག་པ་ལ་རྩོད་པ་སྤང་བ།
+2. ཁྱབ་རྟག་གཉིས་ཀ་ལ་རྩོད་པ་སྤང་བ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩོད་པས་མཚམས་སྦྱར་བ།
+2. ལན།
+
+SECTION_TITLE: གཉིས་པ་ལན་
+ITEMS:
+1. སེམས་ཅན་རང་རྒྱུད་ཀྱི་ཚོགས་ཀྱི་ཁྱད་པར་ལ་ལྟོས་པ།
+2. སེམས་ཅན་རང་རྒྱུད་ཀྱི་རྐྱེན་མ་ཚང་ན་སྐུ་དངོས་སུ་མི་སྣང་བ་དཔེས་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རྩ་བ།
+2. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དྲི་བ།
+2. ལན།
+
+SECTION_TITLE: ལན་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་ལོངས་སྤྱོད་རྫོགས་པའི་སྐུ་
+ITEMS:
+1. མཚན་ཉིད་ཀྱི་སྒོ་ནས་མདོར་བསྟན་པ།
+2. ཡོན་ཏན་རྒྱས་པར་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚན།
+2. དཔེ་བྱད།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. འབྲས་བུ་མཚན།
+2. རྒྱུ་འབྲས་ཀྱི་འབྲེལ་བ།
+3. རྒྱུ་མདོ་ལས་འབྱུང་བ་བཤད་པ།
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འདིར་རྒྱས་པར་མི་འཆད་པའི་རྒྱུ་མཚན་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་དཔེ་བྱད་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. བཅུ་ཚན་དང་པོ།
+2. བཅུ་ཚན་གཉིས་པ།
+3. བཅུ་ཚན་གསུམ་པ།
+4. བཅུ་ཚན་བཞི་པ།
+5. བཅུ་ཚན་ལྔ་པ།
+6. བཅུ་ཚན་དྲུག་པ།
+7. བཅུ་ཚན་བདུན་པ།
+8. བཅུ་ཚན་བརྒྱད་པ།
+
+SECTION_TITLE: བཅུ་ཚན་དང་པོ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་གཉིས་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་གསུམ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བཞི་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་ལྔ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་དྲུག་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བདུན་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བརྒྱད་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: བཞི་པ་མཆོག་གི་སྤྲུལ་པའི་སྐུ་
+ITEMS:
+1. མཚམས་སྦྱར་བ།
+2. རྩ་བ།
+3. འགྲེལ་པ།
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. [implicit]
+
+SECTION_TITLE: གཉིས་པ་མཛད་པ་འཕྲིན་ལས་
+ITEMS:
+1. དངོས་ཀྱི་དོན།
+2. ཚིག་དོན་གཞན་གྱི་གོ་རིམས།
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. སྐུ་གསུམ་བཤད་ཟིན་པར་བསྟན་པ།
+2. འཕྲིན་ལས་འཆད་པར་བསྟན་པ།
+
+<!-- chunk 024 | lines 3001–3150 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: བཅུ་ཚན་ལྔ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཅུ་ཚན་དྲུག་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བདུན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཅུ་ཚན་བརྒྱད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་མཆོག་གི་སྤྲུལ་པའི་སྐུ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་མཛད་པ་འཕྲིན་ལས་
+ITEMS:
+1. དངོས་ཀྱི་དོན
+2. ཚིག་དོན་གཞན་གྱི་གོ་རིམས
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: དང་པོ་མཚམས་སྦྱར་བ་
+ITEMS:
+1. སྐུ་གསུམ་བཤད་ཟིན་པར་བསྟན་པ
+2. འཕྲིན་ལས་འཆད་པར་བསྟན་པ
+
+SECTION_TITLE: དང་པོ་སྐུ་གསུམ་བཤད་ཟིན་པར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་འཕྲིན་ལས་འཆད་པར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+1. དུས་ཀྱི་སྒོ་ནས་མདོར་བསྟན་པ
+2. དབྱེ་བའི་སྒོ་ནས་རྒྱས་པར་བཤད་པ
+3. གྲངས་ཀྱི་སྒོ་ནས་དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་དུས་ཀྱི་སྒོ་ནས་མདོར་བསྟན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དབྱེ་བའི་སྒོ་ནས་རྒྱས་པར་བཤད་པ་
+ITEMS:
+1. ལམ་ལ་འགོད་པ
+2. ལམ་གྱི་འབྲས་བུ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཚོགས་ལམ
+2. སྦྱོར་ལམ
+3. མཐོང་ལམ
+4. སྒོམ་ལམ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བསམ་པ་ཕུན་ཚོགས་ལ་འགོད་པ
+2. གཞན་རྒྱུད་སྨིན་བྱེད་ཀྱི་སྦྱོར་བ
+3. བདེན་བཞི་རྟོགས་པའི་ལྟ་བ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བསམ་པ་ཕུན་ཚོགས
+2. རང་རྒྱུད་སྨིན་བྱེད་ཀྱི་སྦྱོར་བ
+3. ལྟ་བ་རྣམ་དག་ལ་འགོད་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. དངོས
+2. གཉིས་དོན་གྱི་སྤྱོད་པ་ལ་འགོད་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ས་དྲི་མ་མེད་པ་སོགས་གཉིས་ལ་འགོད་པ
+2. ས་བཞི་པ་སོགས་གསུམ་ལ་འགོད་པ
+3. བདུན་པ་ལ་འགོད་པ
+4. བརྒྱད་པ་ལ་འགོད་པ
+5. དགུ་པ་ལ་འགོད་པ
+6. བཅུ་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. ལམ་གསུམ་ཤེས་པའི་ལམ་ཤེས་ལ་འགོད་པ
+2. བདེན་འཛིན་ཞི་བ
+3. སངས་རྒྱས་དཀོན་མཆོག་བཏགས་པ་བ་ཐོབ་པ
+4. ཞིང་དག་པའི་སྦྱོར་བ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་
+ITEMS:
+1. རང་སངས་རྒྱ་བར་ངེས་པ
+2. གཞན་སྨིན་པར་བྱེད་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་
+ITEMS:
+1. ས་བཅུ་པས་བསྡུས་པའི་བཤེས་གཉེན་བསྟེན་པ
+2. རྟོགས་པ་གོང་དུ་འཕེལ་བ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. བྱང་ཆུབ་ཀྱི་ཡན་ལག་ཐོབ་པ་ལ་འགོད་པ
+2. ལས་འབྲས་ཆུད་མི་ཟ་བ་ལ་འགོད་པ
+3. བདེན་པ་ཤེས་པ་ལ་འགོད་པ
+4. ཕྱིན་ཅི་ལོག་ཟད་པ་ལ་འགོད་པ
+5. གཞི་མེད་པ་ལ་འགོད་པ
+6. རྣམ་བྱང་རྫོགས་པ་ལ་འགོད་པ
+7. ཚོགས་རྫོགས་པ་ལ་འགོད་པ
+8. སྲིད་ཞི་མཉམ་ཉིད་དུ་རྟོགས་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་བྱང་ཆུབ་ཀྱི་ཡན་ལག་ཐོབ་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལས་འབྲས་ཆུད་མི་ཟ་བ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བདེན་པ་ཤེས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ཕྱིན་ཅི་ལོག་ཟད་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་གཞི་མེད་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་རྣམ་བྱང་རྫོགས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བདུན་པ་ཚོགས་རྫོགས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བརྒྱད་པ་སྲིད་ཞི་མཉམ་ཉིད་དུ་རྟོགས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་གྱི་འབྲས་བུ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་གྲངས་ཀྱི་སྒོ་ནས་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. དོན་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ལམ་ལ་འགོད་པ
+2. ལམ་གྱི་འབྲས་བུ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. ཚོགས་ལམ
+2. སྦྱོར་ལམ
+3. མཐོང་ལམ
+4. སྒོམ་ལམ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. སྐྱེས་བུ་འབྲིང་གི་བསམ་པ་ཐར་པ་དོན་གཉེར་ལ་འགོད་པ
+2. བསྡུ་བཞི་ལ་འགོད་པ
+3. བདེན་བཞི་ཤེས་པ་ལ་འགོད་པ
+4. གཞན་དོན་གྱི་བསམ་པ་ལ་འགོད་པ
+5. སྤྱོད་པ་ལ་འགོད་པ
+6. དོན་གཉིས་སྒྲུབ་པའི་གཞི་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་སྐྱེས་བུ་འབྲིང་གི་བསམ་པ་ཐར་པ་དོན་གཉེར་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་བསྡུ་བཞི་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བདེན་བཞི་ཤེས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་གཞན་དོན་གྱི་བསམ་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་སྤྱོད་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་དོན་གཉིས་སྒྲུབ་པའི་གཞི་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་སྦྱོར་ལམ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཐོང་ལམ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་སྒོམ་ལམ་ལ་འགོད་པ་
+ITEMS:
+1. ས་གཉིས་པ་ནས་ལྔ་པའི་བར་ལ་འགོད་པ
+2. ས་དྲུག་པ་ལ་འགོད་པ
+3. ས་བདུན་པ་ལ་འགོད་པ
+4. ས་བརྒྱད་པ་ལ་འགོད་པ
+5. ས་དགུ་པ་ལ་འགོད་པ
+6. ས་བཅུ་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་ས་གཉིས་པ་ནས་ལྔ་པའི་བར་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ས་དྲུག་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་ས་བདུན་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་ས་བརྒྱད་པ་ལ་འགོད་པ་
+ITEMS:
+1. སྤྱོད་པ་ཁྱད་པར་ཅན་ལ་འགོད་པ
+2. བདེན་འཛིན་མངོན་གྱུར་ཟད་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: ལྔ་པ་ས་དགུ་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་པ་
+ITEMS:
+1. ས་བཅུ་པ་ཐོབ་མ་ཐག་པ་གང་ལ་འགོད་པ
+2. སྐྱེ་བ་གཅིག་གིས་ཐོགས་པ
+3. སྲིད་པ་ཐ་མ་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. སྐྱེ་བ་ཕྱི་མ་ལ་སངས་རྒྱ་བར་ངེས་པ་ལ་འགོད་པ
+2. གཞན་དོན་ལྷུན་གྲུབ་ལ་འགོད་པ
+3. སངས་རྒྱས་ཀྱི་ཆོས་ལྷག་མ་རྫོགས་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་སྐྱེ་བ་ཕྱི་མ་ལ་སངས་རྒྱ་བར་ངེས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཞན་དོན་ལྷུན་གྲུབ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སངས་རྒྱས་ཀྱི་ཆོས་ལྷག་མ་རྫོགས་པ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ནུས་པའི་ཁྱད་པར
+2. རྟོགས་པའི་ཁྱད་པར
+3. སྤངས་པའི་ཁྱད་པར
+4. དག་པའི་རྒྱུ་ཚོགས་ཀྱི་ཁྱད་པར་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བྱང་ཆུབ་འདྲེན་པར་བྱེད་པ
+2. ལམ་ཆུད་མི་ཟ་བའི་ནུས་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. ཇི་སྙེད་པ་རྟོགས་པ
+2. ཇི་ལྟ་བ་རྟོགས་པ་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཕྱིན་ཅི་ལོག་ཟད་པ
+2. དེའི་གཞི་ཟད་པ་ལ་འགོད་པ
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: བཞི་པ་
+ITEMS:
+1. རང་བཞིན་རྣམ་དག་གི་ཆོས་སྐུའི་རྒྱུ་ཚོགས་ལ་འགོད་པ
+2. གློ་བུར་དྲི་བྲལ་གྱི་རྒྱུ་ཚོགས་ལ་འགོད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་ལམ་གྱི་འབྲས་བུ་ལ་འགོད་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་སྐབས་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བསྡུས་དོན་གཞན་བསྟན་པ་
+ITEMS:
+1. དོན་དྲུག་ཏུ་བསྡུ་བ
+2. དོན་གསུམ་དུ་བསྡུ་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དྲུག་ནི་རྒྱན་གྱི་བསྡུས་དོན་འབྲིང་
+ITEMS:
+1. མཁྱེན་པ་གསུམ་གྱི་ངོ་བོར་གྱུར་པའི་མཚན་ཉིད
+2. མཁྱེན་གསུམ་དེའི་ཉམས་སུ་ལེན་པའི་རྣམ་རྫོགས་སྦྱོར་བ
+3. སྦྱོར་བ་དེ་རབ་ཏུ་གྱུར་པའི་རྩེ་མོ
+4. མཁྱེན་གསུམ་དེའི་ཉམས་ལེན་གྱི་གོ་རིམས་མཐར་གྱིས་པ
+5. མཁྱེན་གསུམ་དེའི་སྦྱོར་བ་མཐར་ཐུག་པ་སྐད་ཅིག་མ
+6. མཁྱེན་གསུམ་དེའི་རྣམ་སྨིན་ཆོས་སྐུ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+1. སོ་སོར་བཤད་པ
+2. དོན་བསྡུས་ནས་ཚིག་དོན་རྒྱས་པ་སྔ་མ་ལ་ཁ་འཕང་བ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+1. མཚམས་སྦྱར་བ
+2. རྩ་བ
+3. འགྲེལ་པ
+
+SECTION_TITLE: གཉིས་པ་རྩ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: རྣམ་པ་གསུམ
+ITEMS:
+1. ཡུལ
+2. རྒྱུ
+3. འབྲས་བུ
+
+SECTION_TITLE: གསུམ་པ་འགྲེལ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: དོན་བསྡུ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་བཤད་པ་མཐར་ཕྱིན་པའི་བྱ་བ་
+ITEMS:
+1. བཤད་བྱ་འཆད་བྱེད་ཀྱི་ཁྱད་པར
+2. བརྩམས་པའི་དགེ་བ་བསྔོ་བ
+3. ཁེངས་སྐྱུང་ཞིང་འགྲེལ་པ་རྩོམ་པ་སྤྲོ་བའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. བཤད་བྱའི་ཁྱད་པར
+2. གང་ལ་བརྟེན་ནས་ཚུལ་ཇི་ལྟར་བཤད་པ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཁེངས་སྐྱུང་བ
+2. ནོངས་པ་བཟོད་པར་གསོལ་བ
+3. འགྲེལ་པ་རྩོམ་པར་སྤྲོ་བའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་རང་ཉིད་བློ་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཞུང་དོན་རྟོགས་པར་དཀའ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཇུག་གི་དོན་
+ITEMS:
+1. བསྟན་བཅོས་མཛད་པ་པོ
+2. གང་གིས་བསྒྱུར་བའི་ཚུལ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+<!-- chunk 025 | lines 3126–3184 | source: rnam-bshad-snying-rgyan -->
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+1. ཁེངས་སྐྱུང་བ
+2. ནོངས་པ་བཟོད་པར་གསོལ་བ
+3. འགྲེལ་པ་རྩོམ་པར་སྤྲོ་བའི་རྒྱུ་མཚན
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+1. རང་ཉིད་བློ་དམན་པ
+2. གཞུང་དོན་རྟོགས་པར་དཀའ་བ
+
+SECTION_TITLE: དང་པོ་རང་ཉིད་བློ་དམན་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་གཞུང་དོན་རྟོགས་པར་དཀའ་བ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གསུམ་པ་མཇུག་གི་དོན་
+ITEMS:
+1. བསྟན་བཅོས་མཛད་པ་པོ
+2. གང་གིས་བསྒྱུར་བའི་ཚུལ
+
+SECTION_TITLE: དང་པོ་
+ITEMS:
+[implicit]
+
+SECTION_TITLE: གཉིས་པ་
+ITEMS:
+[implicit]
