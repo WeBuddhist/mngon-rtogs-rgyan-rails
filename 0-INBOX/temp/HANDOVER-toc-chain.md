@@ -29,10 +29,13 @@ State at handover (joined parts / total segments):
 
 | id | joined | nodes | next |
 |---|---|---|---|
-| snying-rgyan | 01–04 / 7 | 888 | 05 was running (check for `tree_part_05.md`) |
-| gser-phreng-smad | 01–03 / 5 | 632 | 04 was running |
-| gser-phreng-stod | 01–03 / 6 | 654 | 04 was running |
-| lung-gi-snye-ma | 01–03 / 11 | 722 | 04 was running |
+| snying-rgyan | 01–05 / 7 | 1129 | 06 launched 20:10 |
+| gser-phreng-smad | 01–04 / 5 | 844 | 05 (last) launched 20:10; pending_04 reconstructed (agent hit the usage limit after writing its part) |
+| gser-phreng-stod | 01–03 / 6 | 654 | 04 relaunched 20:10 (first attempt hit the usage limit, wrote nothing) |
+| lung-gi-snye-ma | 01–04 / 11 | 974 | 05 launched 20:10 |
+
+If a usage limit stops an agent: a part file it already wrote is complete only if it reaches the
+end of its line range (check the last nodes against the text); otherwise delete it and rerun.
 
 To resume: if `tree_part_KK.md` exists but is not yet joined (tree-so-far's last line is
 before it), run `chain_join.py` on it and write `pending_KK.md` from the part's end; then
