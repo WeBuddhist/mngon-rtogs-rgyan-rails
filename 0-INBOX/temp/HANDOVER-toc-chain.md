@@ -34,7 +34,13 @@ State at handover (joined parts / total segments):
 
 | id | joined | nodes | next |
 |---|---|---|---|
-| lung-gi-snye-ma | 01–07 / 11 | 1789 | 08 running; then 09–11, anchors per segment, merge, ingest, transfer, push |
+| lung-gi-snye-ma | tree 01–10 / 11 joined; anchors 01–10 done | 2568 | **tree segment 11 (last, lines 19001–20479)** — its agent hit the usage limit and wrote nothing; relaunch it with `pending_10.md` (it must open every remaining announced part and report where the body ends and the closing matter). Then anchors_11 + back-matter `frame_11.tsv`, then the post-tree steps below. |
+
+Fixes already applied to lung-gi-snye-ma's tree (from segment agents' reports, checked against the text):
+`…3.1.2.1.1.4 བཞི་པ་ཐེག་ཆེན` / `.5 ལྔ་པ་ལམ` (six parts at 10471); `1.2.2.2.3.2.1 དང་པོ་རྒྱས་པ་ལ་དད་པ`
+(division clause removed); anchors_08: `…1.2.3.2.1.5.4` stacked on `.5.3` (both treated at 14991).
+Front-matter frame (anchors 01): `I. མཆོད་བརྗོད།` at 3, `II. ཤེར་ཕྱིན་དང་དེའི་དགོངས་པ་འགྲེལ་བའི་བསྟན་བཅོས།` at 91
+(title built from line 93 — review). Title line 1 → `# … ^0`.
 
 If a usage limit stops an agent: a part file it already wrote is complete only if it reaches the
 end of its line range (check the last nodes against the text); otherwise delete it and rerun.
