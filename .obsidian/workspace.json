@@ -41,30 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/རྣམ་བཤད་སྙིག་རྗེན།-དཀར་ཆག-toc-tree.md",
+                "file": "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "རྣམ་བཤད་སྙིག་རྗེན།-དཀར་ཆག-toc-tree"
-            }
-          },
-          {
-            "id": "83caab7e09c6c10b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0-INBOX/TOCs/ལུང་རིག་སྙེ་མ།-དཀར་ཆག-toc-tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ལུང་རིག་སྙེ་མ།-དཀར་ཆག-toc-tree"
+              "title": "རྣམ་བཤད་སྙིང་རྒྱན།"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -240,19 +226,19 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "83caab7e09c6c10b",
+  "active": "818ab07ee2093c44",
   "lastOpenFiles": [
-    "0-INBOX/TOCs/རྣམ་བཤད་སྙིག་རྗེན།-དཀར་ཆག-toc-tree.md",
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
+    "0-INBOX/TOCs/རྣམ་བཤད་སྙིག་རྗེན།-དཀར་ཆག-toc-tree.md",
+    "0-INBOX/TOCs/ལུང་རིག་སྙེ་མ།-དཀར་ཆག-toc-tree.md",
     "conflict-files-obsidian-git.md",
+    "0-INBOX/TOCs/qc-tree-vs-source-rnam-bshad-snying-rgyan.md",
     "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/ingest-preview.md",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/toc-tree-qc-source.md",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/toc-tree-with-pointers.md",
     "0-INBOX/temp/TOC-lung-gi-snye-ma/pre-toc-ingest-backup.md",
     "0-INBOX/TOCs/qc-tree-vs-candidates-rnam-bshad-snying-rgyan.md",
-    "0-INBOX/TOCs/qc-tree-vs-source-rnam-bshad-snying-rgyan.md",
-    "0-INBOX/TOCs/ལུང་རིག་སྙེ་མ།-དཀར་ཆག-toc-tree.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
     "0-INBOX/temp/lung-gi-snye-ma-enumerations-interim.md",
     "0-INBOX/temp/lung-gi-snye-ma-candidates-interim.md",
