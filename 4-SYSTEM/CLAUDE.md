@@ -287,7 +287,7 @@ One finished, QC-clean decimal-numbered structural tree per commentary: `Section
 
 A tree is tied to one exact version of its source file. If the commentary is re-segmented or edited after a tree was built, the tree is stale and must be rebuilt, not reused.
 
-Authoring skill: `toc-generate`.
+Authoring skill: `commentary-toc-extract` (within `commentary-pipeline`).
 
 ### `Claims/` — per-commentary inventories and consolidated topic pages *(optional)*
 
@@ -436,10 +436,11 @@ Skills are reusable, step-by-step procedures stored in `4-SYSTEM/Skills/`. Each 
 | **Formatting and structure** | |
 | Format a root text | `format-root-text` · `format-tibetan-root-text` · `format-sanskrit-root-text` |
 | Format a commentary (OCR repair happens here, nowhere else) | `format-commentary` |
-| Break a commentary into citable blocks | `segment-commentary` |
+| Segment, head and block-ID a root text | `root-text-pipeline` |
+| Segment, head and block-ID a commentary | `commentary-pipeline` |
 | Add or re-add block IDs | `add-block-ids` |
 | Insert root-verse transclusions into a commentary | `transclusion` |
-| Build a structural outline / table of contents | `toc-generate` (sa bcad) · `structural-outline-ingest` · `add-toc` |
+| Build a structural outline / table of contents | `commentary-toc-extract` (sa bcad) · `root-text-toc-extract` · `structural-outline-ingest` · `add-toc` |
 | Tag inline structural announcements | `tag-inline-toc` |
 | **Metadata** | |
 | Fill a file's frontmatter | `frontmatter` |

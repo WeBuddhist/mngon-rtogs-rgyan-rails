@@ -76,9 +76,33 @@ Formats a commentary: repairs OCR damage, structures the headings, normalises sp
 
 ## 3. Structure and table of contents
 
-### `toc-generate`
-Builds a text's structural outline end to end where the commentary announces its own divisions inline (the Tibetan *sa bcad* case): scan for candidates, copy the division announcements verbatim, reconcile them into one nested decimal tree, verify that tree against the source with two deterministic checkers, and ingest it back into the text as headings with block IDs. Phases are separately addressable.
-→ [`toc-generate/SKILL.md`](toc-generate/SKILL.md)
+### `root-text-pipeline`
+Runs the whole root-text workflow on one Tibetan root text: classify → segment → TOC extraction (only if the text announces parts) → TOC ingest → grouping into stanzas / paragraphs → block IDs, with the checks between steps. Output stays in `0-INBOX/` until a human approves it. Each step is its own skill: `root-text-classify`, `root-text-segment`, `root-text-toc-extract`, `root-text-toc-ingest`, `root-text-group`, `root-text-block-ids`.
+→ [`root-text-pipeline/SKILL.md`](root-text-pipeline/SKILL.md)
+
+### `commentary-pipeline`
+Runs the whole commentary workflow on one Tibetan commentary: pre-clean → segment into functional units → sa bcad / heading tree extraction → TOC ingest → meaning-based re-segmentation (+ QC) → body block IDs. Output stays in `0-INBOX/` until a domain specialist approves it. Each step is its own skill: `commentary-preclean`, `commentary-segment`, `commentary-toc-extract`, `commentary-toc-ingest`, `commentary-resegment`, `commentary-block-ids`.
+→ [`commentary-pipeline/SKILL.md`](commentary-pipeline/SKILL.md)
+
+### Root-text step skills
+- [`root-text-classify`](root-text-classify/SKILL.md) — verse / prose / mixed, or commentary (stop).
+- [`root-text-segment`](root-text-segment/SKILL.md) — units (pādas / sentences), raw paragraph breaks, front-matter and colophon frame.
+- [`root-text-toc-extract`](root-text-toc-extract/SKILL.md) — heading tree of the text's announced parts (passes 1–5).
+- [`root-text-toc-ingest`](root-text-toc-ingest/SKILL.md) — the tree's top-level parts as headings.
+- [`root-text-group`](root-text-group/SKILL.md) — stanzas (verse) / paragraphs and stanzas (prose).
+- [`root-text-block-ids`](root-text-block-ids/SKILL.md) — build the final file, stamp IDs, verify the text.
+
+### Commentary step skills
+- [`commentary-preclean`](commentary-preclean/SKILL.md) — strip earlier scaffolding back to continuous prose (optional).
+- [`commentary-segment`](commentary-segment/SKILL.md) — functional units, quoted root verses, stanzas.
+- [`commentary-toc-extract`](commentary-toc-extract/SKILL.md) — sa bcad / heading tree with anchors and frame nodes (modes `sabcad` / `verses` / `top` / `labels`).
+- [`commentary-toc-ingest`](commentary-toc-ingest/SKILL.md) — headings into the segmented file.
+- [`commentary-resegment`](commentary-resegment/SKILL.md) — meaning-based merge / split + QC.
+- [`commentary-block-ids`](commentary-block-ids/SKILL.md) — derived body IDs, strict text gate.
+
+### `seg-toc-lib`
+Support library, not run on its own: the shared scripts and TOC prompts of both workflows (root-text build library, TOC tree ingest, chunking, the two tree checkers, the Gemini TOC pipeline, and the strict text gate `verify_text.py`).
+→ [`seg-toc-lib/SKILL.md`](seg-toc-lib/SKILL.md)
 
 ### `structural-outline-ingest`
 The alternative route for a text whose structure is stated rather than announced: extract the outline and write it to `2-RAILS/Sections/Raw/outline/`. Run this before verse packages — macro structure shapes how every verse under it is read.
@@ -106,9 +130,7 @@ Builds one commentary's routing index from its own outline nodes onto the canoni
 
 **Block IDs are citations.** Once anything cites a file, re-segmenting it breaks those citations silently. If you must, re-run every downstream rail.
 
-### `segment-commentary`
-Breaks a commentary into short, individually referenceable blocks — prose paragraphs, verse stanzas, quotations — so that every claim can later cite one.
-→ [`segment-commentary/SKILL.md`](segment-commentary/SKILL.md)
+Segmentation of root texts and commentaries is part of `root-text-pipeline` and `commentary-pipeline` (§3).
 
 ### `add-block-ids`
 Adds block IDs so every verse, prose block and heading can be cited and transcluded. Modes for commentaries, root texts, and texts with no internal numbering.
@@ -319,7 +341,9 @@ the job went, rather than concluding it was dropped.
 | `root-text-frontmatter` | `frontmatter` |
 | `section-summary-combined` | `section-summary` |
 | `section-summary-raw` | `section-summary` |
+| `segment-commentary` | `commentary-pipeline` (`commentary-segment`, `commentary-resegment`) |
 | `source-property-extractor` | `extract-source-metadata` |
+| `toc-generate` | `commentary-pipeline` (`commentary-toc-extract`, `commentary-toc-ingest`) · `root-text-toc-extract` |
 | `translation-frontmatter` | `frontmatter` |
 
 ---

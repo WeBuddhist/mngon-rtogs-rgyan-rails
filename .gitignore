@@ -13,3 +13,6 @@
 
 # Claude Code worktrees (local only)
 .claude/worktrees/
+
+# Secrets (Gemini API key for the seg-toc scripts)
+.env
