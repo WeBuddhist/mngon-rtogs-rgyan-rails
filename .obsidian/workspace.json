@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
+                "file": "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "རྣམ་བཤད་སྙིང་རྒྱན།"
+              "title": "ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།"
             }
           }
         ],
@@ -214,6 +214,8 @@
   },
   "active": "b9c76691cd6abb8d",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྨད་ཆ།.md",
+    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
     "0-INBOX/TOCs/ལུང་རིག་སྙེ་མ།-དཀར་ཆག-toc-tree.md",
     "0-INBOX/TOCs/རྣམ་བཤད་སྙིག་རྗེན།-དཀར་ཆག-toc-tree.md",
     "0-INBOX/temp/toc-candidates-rnam-bshad-snying-rgyan.md",
@@ -224,7 +226,6 @@
     "0-INBOX/temp/toc-tree-rnam-bshad-snying-rgyan.md",
     "0-INBOX/temp/toc-candidates-slim-lung-gi-snye-ma.md",
     "0-INBOX/temp/toc-candidates-lung-gi-snye-ma.md",
-    "1-SOURCES/Commentaries/རྣམ་བཤད་སྙིང་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཕར་ཕྱིན་ལུང་གི་སྙེ་མ།.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་ཀྱི་ཕ་རོལ་ཏུ་ཕྱིན་པའི་མན་ངག་གི་བསྟན་བཅོས་མངོན་པར་རྟོགས་པའི་རྒྱན་ཞེས་བྱ་བའི་འགྲེལ་པ།.md",
     "1-SOURCES/Commentaries/ལེགས་བཤད་གསེར་ཕྲེང་། སྟོད་ཆ།.md",
@@ -248,7 +249,6 @@
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass2-enumerations.md",
     "4-SYSTEM/Skills/seg-toc-lib/prompts/pass1-candidates-root.md",
     "4-SYSTEM/Skills/seg-toc-lib/SKILL.md",
-    "4-SYSTEM/Skills/root-text-toc-ingest/SKILL.md",
-    "4-SYSTEM/Skills/root-text-toc-extract/SKILL.md"
+    "4-SYSTEM/Skills/root-text-toc-ingest/SKILL.md"
   ]
 }
